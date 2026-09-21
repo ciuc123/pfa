@@ -1,36 +1,55 @@
-Outbound message templates — adapt per ICP and signal
+Outbound messages — tested, short, and inspired by high-response copy
 
 Guidelines
-- Keep messages short (2–4 lines) and personalized to the buying signal.
-- Aim to start a conversation, not close a deal.
-- Use questions that invite a short reply.
 
-1) Connection request (LinkedIn)
+- 2–3 lines max for LinkedIn initial outreach. Use one clear signal or benefit. End with a micro-ask (yes/no or a single-word reply).
+- Personalize the first line with the exact buying signal you captured in research.
+- Run A/B tests in batch sizes of 30 and only change one variable per test.
+
+Sequence (use LinkedIn or email)
+
+Message 0 (connection request)
+Hi [First], noticed [signal]. I help [ICP short] turn those moments into predictable meetings — thought it made sense to connect.
+
+Message A (first message after accept)
+Hi [First], thanks for connecting. Quick Q — is predictable demos a priority this quarter at [Company]? If yes I’ll send one tight idea that’s worked for similar teams.
+
+Message B (value + micro-ask, send if they say yes or are unresponsive after 3 days)
+You mentioned [signal]. One quick idea: [single sentence tactic + 1 metric outcome]. Want the two-step version I used to make it work?
+
+Message C (short case + ask)
+Quick example: a client with similar profile used this and booked 3 demos in 10 days. If helpful, are you open to a 15–20m call next week? Calendar: [link]
+
+Follow-up sequence (timing)
+
+- Day 0: Msg 0 / Msg A
+- Day 3: Msg B
+- Day 7: Msg C
+- Day 14: Final check-in (short, low pressure)
+
+High-converting objection replies (paste-ready)
+
+Objection: "We tried this before"
+Reply: Totally — most people I work with say the same. The difference wasn’t the channel but who we targeted and the offer. I can send one real message that turned a cold thread into a booked meeting for a client similar to you — want to see it?
+
+Objection: "No budget"
+Reply: Understood. This is designed to produce meetings that often pay for the cost of acquisition inside the first month. If budget is the constraint, I can show a version of the plan you could run internally in 2 hours/week.
+
+Cold email template (short, subject + 3 lines)
+Subject: One quick idea for [Company]
+
 Hi [First],
-Noticed [signal — e.g., you just hired a Head of Sales / launched X]. I work with [ICP] to turn those moments into predictable meetings. Thought it made sense to connect.
+I help [ICP short] generate [outcome] in [T]. Noticed [signal] — can I send a one-page plan you could action this week?
 
-2) First message after connect (if connection accepted)
-Thanks for connecting, [First]. Quick one: you recently [signal]. Curious — is generating predictable demos a priority for you this quarter? If so I can share one quick idea.
+Multi-variant testing examples (what to test)
 
-3) Value + micro-ask (follow-up)
-You mentioned [signal]. A quick idea that helped a peer: [1-sentence tactic/outcome]. If this sounds useful, I can share the 2-step process that made it work — want it?
+- Variant 1: Signal-first opener vs Outcome-first opener
+- Variant 2: Ask for permission to send a plan vs direct meeting ask
 
-4) Meeting ask (when prospect shows interest)
-Great — sounds like there’s a fit. Are you open to a 20-minute call next week to walk through the 2-step process and see if it maps to your stack? Here’s my calendar: [link].
+Tracking tips
 
-5) Objection reply: "We tried LinkedIn before"
-Totally get that — most people I work with say the same. The difference isn't the channel — it's the ICP + the offer + the specific buying signals we use. I can show one example of a message that turned a noisy inbox into booked meetings if you'd like.
+- Record template name and variant in `templates/TRACKING_SHEET.csv` for each prospect.
+- After 30 messages, keep the top-performing variant and roll it out to the next 30.
 
-6) Cold email (short)
-Subject: Quick idea for [company]
-
-Hi [First],
-I help [ICP] get 2–4 demo-ready meetings/week from LinkedIn — without SDRs. Noticed you [signal]. If predictable pipeline matters this quarter, can I send over a 1-page plan you could action this week?
-
-7) Final follow-up (day 14)
-Been a little quiet — last note: if predictable pipeline is still a goal, I’ll share a 1-page plan that maps to [company]. If now isn’t right, no worries — we can reconnect later.
-
-Notes
-- Replace [signal] with the exact line you found in research (job posting, funding round, product release).
-- Keep a short record of which templates perform best in the tracking sheet.
+If you want, paste 5 prospect signals and I’ll convert them into 5 personalised messages you can send this afternoon.
 

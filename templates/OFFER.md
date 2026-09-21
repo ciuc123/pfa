@@ -1,32 +1,46 @@
-Offer template and framing
+Offer template and practical playbook
 
-Objective: craft an offer that the right buyer says yes to without shopping on price. Keep it outcome-focused and quantifiable.
+Objective: craft a clear, outcome-focused offer that prospects can evaluate in 15 seconds. Below is a fill-in-the-blank offer and an operational plan you can deliver as a 3-month programme (DIY or with a small retainer).
 
-1) One-line offer (headline)
-- Format: "I help [ICP] to [outcome] in [timeframe] without [objection]."
-- Example: "I help Head of Marketing at B2B SaaS generate 2–4 demo-ready meetings per week in 90 days, without hiring SDRs or buying expensive ads."
+1) One-line offer (pick and paste)
+- Template A (outcome-first): "I help [ICP] get [X] demo-ready meetings/week in [T] without [objection]."
+- Template B (revenue-first): "I help [ICP] add £[X] MRR in [T] using LinkedIn and warm outbound — no SDR hires."
 
-2) Deliverables (what you will do — be explicit)
-- Month 0–1: ICP + Offer + LinkedIn profile rewrite + weekly content plan
-- Month 1–2: Daily warm outbound to 10–15 prospects/day + message testing + meeting qualification framework
-- Month 2–3: Content funnel + performance tuning + weekly reviews
+Example: "I help Head of Marketing at B2B SaaS generate 2–4 demo-ready meetings/week in 90 days — no SDR hires, no ad spend."
 
-3) Commitment & client responsibilities (what THEY must do)
-- Spend 20–30 minutes/day engaging, posting, and responding to replies
-- Attend weekly review / Q&A sessions
+2) Deliverables (exact list you must deliver for the price)
+- Week 0 (90-min onboarding): ICP, offer, 30-day content hooks, and outbound strategy
+- Weeks 1–4: Profile rewrite, 30 days of hook ideas, and daily prospect lists (10/day) with messaging variants
+- Weeks 5–8: Message optimization, interview notes, and weekly calibration call (30–60 mins)
+- Weeks 9–12: Content funnel tuning, hiring/training doc for an appointment setter, and quarterly plan
 
-4) Pricing options (mirror structure or pick your own)
-- Standard: £X / month on a 3-month commitment or £Y paid in full (discount)
-- Premium: £X*2 / month with weekly 1:1 and prospect-delivery service
+3) Client commitments (what the client must do)
+- 20–30 minutes/day responding and posting (or hire someone to post and you to reply)
+- Book and attend weekly calibration calls; complete one short homework item weekly
 
-5) Guarantees & expectations
-- No refunds. State what you will deliver (inputs + frameworks) and what you cannot do (post for them / have the sales call).
-- Be explicit about likely outcomes and dependencies.
+4) Pricing & offer structure (practical guidance)
+- Standard: £750 / month on a 3-month commitment OR £2,000 paid upfront (aligns with Matt’s pricing)
+- Premium: £1,500 / month on a 3-month commitment OR £4,200 paid upfront — includes weekly 1:1 and delivered prospect lists daily
 
-6) Scarcity / urgency and onboarding
-- Small cohort (e.g., 6 clients per month)
-- 90-minute onboarding to lock ICP, offer, content and outbound strategy
+Pricing advice inspired by Hormozi / Vayner:
+- Price by outcome and speed. Offer a clear paid-up-front discount to remove friction and reward decision speed.
+- Be explicit on what changes if they upgrade to premium: faster prospect delivery, more 1:1 time, research engine access.
 
-7) Example short pitch to use on profile and outreach
-- "I help [ICP] book 2–4 qualified meetings/week from LinkedIn in 90 days — no SDRs, no cold automation. If you care about predictable pipeline, reply and tell me the last thing you tried that didn’t work."
+5) Guarantee & expectations (wording to reduce refunds/false expectations)
+- "No refunds: We give you the ICP, offer, content, daily researched prospects and weekly coaching. We cannot post on your behalf or run the sales call for you — those two inputs are the key execution variables. If you do the work for 90 days, you will have a repeatable pipeline and a predictable output rate we can measure together."
+
+6) Scarcity, onboarding and sales page copy (paste-ready)
+- Scarcity line: "Limited to 6 new clients every month to ensure hands-on support."
+- Onboarding: "90-minute kick-off to lock ICP, offer and content. We deliver your first 30 prospects and a 30-day content plan inside 7 days."
+- Sales pitch paragraph for a landing page or DM: "We fix the foundation first — ICP, offer and profile — then turn LinkedIn into a pipeline. In 90 days you get a predictable flow of demo-ready meetings, a content engine that pre-sells prospects, and a repeatable outbound playbook."
+
+7) Quick objection-handling scripts (paste into inbound reply)
+- Objection: "We tried LinkedIn before."
+  Reply: "Totally. Most people have. The difference is not the channel — it’s who you target and what you promise. We start by narrowing ICP + writing an offer that makes the right buyer stop. If you want, I’ll send one example of a message that converted 3 meetings in a week for a client similar to you."
+
+8) Offer testing & data to collect
+- Test two price points: monthly vs paid-up-front. Track close rate by price.
+- Track how many meetings → client conversions and the weeks-to-first-revenue.
+
+Use this page to script your sales conversations and your LinkedIn profile. If you want, I can populate this with concrete copy and a short landing page draft for your business — tell me the ICP and one client metric to use as proof.
 

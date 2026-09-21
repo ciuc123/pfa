@@ -1,44 +1,65 @@
-ICP (Ideal Customer Profile) - Template
+ICP (Ideal Customer Profile) - Practical template & SOP
 
-Instructions: Fill each section concisely. Keep the ICP narrow — the goal is one line that makes the right buyer think "that's for me." Be specific about role, industry, company size, and the observable buying signals.
+Goal: produce a one-line ICP that your prospect sees and immediately thinks "that's for me." Use this document to lock the ICP, then use the small generator below to create message copy and headline text you can paste straight into LinkedIn.
 
-1) One-line ICP
-- [Example] "Head of marketing at mid-market B2B SaaS (ARR £2–20m) who needs a predictable pipeline of demo-ready leads without hiring SDRs."
+How to use this file in 15 minutes
 
-2) Role(s)
-- Primary: e.g., Head of Marketing, Founder, Head of Sales
-- Secondary: e.g., VP Growth, Head of Partnerships
+1) Fill the fields below with exact values (don’t be vague).
+2) Write 3 real buying signals (copy-paste examples from LinkedIn/Crunchbase to reuse in outreach).
+3) Use the "One-line ICP generator" at the bottom to produce your headline and first-line outreach sentence.
+
+Fields to complete (copy and edit)
+
+1) One-line ICP (write a single sentence)
+- Example: Head of Marketing at mid-market B2B SaaS (ARR £3–20m) who needs 2–4 demo-ready meetings/week without hiring SDRs.
+
+Your ICP one-line:
+- 
+
+2) Roles (primary / secondary)
+- Primary: Head of Marketing
+- Secondary: VP Growth / Founder
 
 3) Company attributes
-- Industry: e.g., B2B SaaS, professional services
-- ARR / Revenue band: e.g., £2m–£50m
-- Team size: e.g., 10–100 employees
-- Geography: e.g., UK & EU, remote-first
+- Industry: B2B SaaS
+- ARR / Revenue: £3m–£20m
+- Team size: 10–80 employees
+- Geography: UK & EU
 
-4) Typical pain / the job they need done
-- Short bullets describing the pain (no predictable meetings, inconsistent referrals, wasted ad spend)
+4) Typical pain / job-to-be-done
+- e.g., inconsistent pipeline, wasted ad spend, leadership wants faster predictable deals
 
-5) Business outcome they pay for (quantified)
-- e.g., "An extra £20k recurring revenue per month in 90 days" or "2–4 qualified meetings per week from LinkedIn"
+5) Outcome they pay for (quantified)
+- e.g., 2–4 demo-ready meetings/week OR an extra £10–30k MRR in 90 days
 
-6) Observable buying signals (what to look for when researching)
-- Recent funding, new product launch, job postings for sales/marketing, hiring freezes lifted, executive moves
+6) Observable buying signals (3 — exact wording to use)
+- Signal 1: [e.g., "Series A closed" — copy exact line from source]
+- Signal 2: [e.g., "hiring Head of Sales" — copy exact job title + link]
+- Signal 3: [e.g., "new product launch" — copy product announcement headline]
 
-7) Objections likely to hear
-- "We tried LinkedIn before" / "We don't have budget" / "We hire agencies"
+7) Top objections you expect (write short replies separately in `OUTBOUND_MESSAGES.md`)
+- e.g., "We tried LinkedIn before" / "No budget" / "We use an agency"
 
-8) ICP one-liner to use in messaging
-- Short, specific sentence for your LinkedIn headline and first line in outreach.
+One-line ICP generator (paste-ready outputs)
 
-Example completed section
+Use the templates below and replace the placeholders with your entries above.
 
-1) ICP one-line:
-Head of Marketing at B2B SaaS (£3–20m ARR) who needs 2–4 qualified product demos per week without hiring more SDRs.
+- LinkedIn headline / one-line offer (short):
+  "[Outcome] for [ICP role & company band] • [Mechanism]"
+  Example: "2–4 demo-ready meetings/week for Head of Marketing at B2B SaaS • LinkedIn-first pipeline without SDRs"
 
-2) Roles: Head of Marketing, VP Growth
-3) Company attributes: B2B SaaS, 5–80 employees, UK/EU
-4) Pain: inconsistent lead flow, expensive paid ads, founders stretched thin
-5) Outcome: predictable pipeline producing £10k–£50k MRR in 90 days
-6) Buying signals: new hire for Head of Sales, Series A close, marketing head change, new product release
-7) Objections: "We tried this before" -> reply template included in `OUTBOUND_MESSAGES.md`.
+- Outreach first-line (message opener):
+  "Hi [First], noticed you [Signal]. I help [ICP one-line short] — curious, is predictable demos a priority this quarter?"
+
+Quick example (filled)
+
+Your ICP one-line: Head of Marketing at B2B SaaS (£3–20m ARR) who needs 2–4 demo-ready meetings/week without hiring SDRs.
+
+Headline to use: 2–4 demo-ready meetings/week for Head of Marketing at B2B SaaS • LinkedIn-first pipeline without SDRs
+
+First-line outreach: Hi [First], noticed you recently hired a Head of Sales. I help Head of Marketing at B2B SaaS get 2–4 demo-ready meetings/week — is predictable demos a priority this quarter?
+
+Notes
+- Keep the ICP narrow. A tighter ICP produces higher reply rates and faster learning.
+- Revisit this file weekly after your first 30 prospects — narrow or broaden based on reply quality.
 

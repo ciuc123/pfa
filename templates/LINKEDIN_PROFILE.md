@@ -1,32 +1,48 @@
-LinkedIn Profile rewrite guide (3-second clarity)
+LinkedIn profile playbook — 3-second test (copy-pasteable)
 
-Goal: when the right buyer lands on your profile they understand what you do in three seconds and see a clear next step.
+Objective: give your profile 3-second clarity so the right buyer understands the outcome and the next step immediately. Paste the examples below into your profile and replace bracketed fields.
 
-1) Headline (one line)
-- Structure: [Outcome] for [ICP] • [Mechanism / promise]
-- Example: "2–4 demo-ready meetings/week for B2B SaaS • LinkedIn-first pipeline without SDRs"
+Headline (paste-ready) — keep <120 characters
+- Template 1 (outcome): "[X meetings/week] for [ICP role] at [company band] • [Mechanism]"
+- Template 2 (revenue): "Add £[X] MRR in 90 days for [ICP] • LinkedIn-first pipeline"
 
-2) About (first 2 lines for the preview)
-- Start with a single sentence that mirrors the one-line offer.
-- Follow with a 3–5 bullet short proof/outcome lines (quick social proof, timeframes, numbers).
+Example headline (copy):
+2–4 demo-ready meetings/week for Head of Marketing at B2B SaaS • LinkedIn-first pipeline without SDRs
 
-3) Call to action (CTA)
-- Single next step: "Book 15 minutes: [Calendly link]" or "Message me ‘pipeline’ for a one-line audit."
+About section — first 2 lines must communicate outcome and CTA (these lines show above the fold)
 
-4) Experience bullets
-- Keep each role focused on outcomes rather than tasks. Use measurable results: "Built pipeline generating £X MRR / week; 2–4 meetings/week generated from LinkedIn outreach."
+Paste-ready About (replace placeholders):
 
-5) Featured section
-- Add: a 1–2 minute video (optional) that states the offer, a testimonial, and a short case study or 1-pager.
+I help [ICP one-line short] generate [outcome] in [timeframe], without [common objection].
 
-6) Example "About" section
+Quick proof: helped [client type] go from [before] → [after] in [timeframe] (e.g., 0 → 3 qualified meetings/week; best week closed £9.1k).
 
-I help Head of Marketing at B2B SaaS generate 2–4 demo-ready meetings per week from LinkedIn in 90 days — without hiring SDRs or buying expensive ads.
+If predictable pipeline matters, book 15 mins: [Calendly link] or message "audit" and I’ll send a one-line profile fix.
 
-Proof: helped a client go from 0 → 3 qualified meetings/week; best week: closed £9.1k.
+Profile sections — exact copy guidance
 
-If you want a quick audit: message me the last thing you tried on LinkedIn that didn’t work and I’ll tell you the single biggest fix.
+- Banner: a single-line offer and a CTA (e.g., "2–4 demo-ready meetings/week — message 'audit' or book 15m"). Use a clean, high-contrast background.
+- Photo: friendly, cropped, professional; avoid heavy filters.
+- Featured: pin 1 short video (60–90s) that states the offer, 1 case study PDF, and 1 testimonial.
+- Experience bullets: use 3 lines per role — outcome + metric + timeframe. Example: "Built LinkedIn engine producing 3 qualified meetings/week for B2B SaaS — produced £9.1k in new revenue in one week."
 
-7) Publishing & profile hygiene
-- Clean photo (friendly, professional), clear banner with the one-line offer, up-to-date contact info (calendar link), and at least one featured post that pre-sells your methodology.
+3-second test (do this now)
+
+1) Open your profile in incognito.
+2) Count to three. If you cannot read your one-line offer and CTA in that time, simplify.
+
+Proof & social signals (what to add immediately)
+
+- One short client stat in the About (use conservative, verifiable numbers).
+- One short video (60s) pinned to Featured explaining the exact outcome and the CTA.
+
+Profile hygiene checklist (tick off before outreach)
+
+- [ ] Headline updated (use template)
+- [ ] About first two lines show outcome + CTA
+- [ ] Banner contains one-line offer + CTA
+- [ ] 1 featured asset (video/case/testimonial)
+- [ ] Contact info + calendar link live
+
+If you want, paste your current headline and first two lines here and I will rewrite them into a 3-second version you can copy.
 

@@ -1,2 +1,3 @@
 Date,Prospect Name,LinkedIn URL,Company,Role,Buying Signal,Signal Source,Initial Message Sent (date),Initial Message Template,Reply (Y/N),Reply Date,Meeting Booked (Y/N),Meeting Date,Meeting Outcome,Next Action,Research Time (min),Notes
+2026-09-21,Jane Doe,https://www.linkedin.com/in/janedoe,Acme SaaS,Head of Marketing,"hired Head of Sales","LinkedIn job post","2026-09-21","MsgA-signal-first",Y,2026-09-21,Y,2026-09-24,Qualified — budget & timing fit,Send calendar invite,12,"Redirected to VP Growth for scheduling"
 
