@@ -20,9 +20,9 @@ Revenue model
 
 One-line outputs to finalise now
 
-- One-line ICP (example template):
+- [ ] Finalise One-line ICP (example template):
   "Head of Marketing at B2B SaaS (£3–20m ARR) who needs 2–4 demo-ready meetings/week without hiring SDRs."
-- One-line Offer (paste-ready):
+- [ ] Finalise One-line Offer (paste-ready):
   "I help [ICP short] get 2–4 demo-ready meetings/week in 90 days — no SDR hires, no ad spend."
 
 Funnel mapping (how content + outreach feed sales)
@@ -34,9 +34,9 @@ Funnel mapping (how content + outreach feed sales)
 
 Canonical tracking & minimum metrics
 
-- Use `strategy/TRACKING_SHEET.csv` as the single source of truth for outreach & deals. Minimum fields to record:
+- [ ] Use `strategy/TRACKING_SHEET.csv` as the single source of truth for outreach & deals. Minimum fields to record:
   - date_reached, prospect_name, role, company, signal_found, message_variant, messaged_date, replied_date, meeting_booked_date, meeting_outcome, deal_value, deal_status, notes, source (youtube / outbound / referral)
-- YouTube metrics to record weekly (use `youtube/analytics/`): video_id, title, publish_date, views, watch_time_minutes, subscribers_change, leads_from_video
+- [ ] Record YouTube metrics weekly (use `youtube/analytics/`): video_id, title, publish_date, views, watch_time_minutes, subscribers_change, leads_from_video
 
 Templates & locations (template files live with the domain)
 
@@ -46,31 +46,31 @@ Templates & locations (template files live with the domain)
 
 Tools & accounts to prepare
 
-- LinkedIn: update profile copy from `strategy/LINKEDIN_PROFILE.md` (headline, about, CTA).
-- YouTube: channel settings, default upload template, and a pinned CTA in the channel description.
-- Tracking: make sure `strategy/TRACKING_SHEET.csv` is writable and backed up (Google Sheets or repo). Add column headers if missing.
-- Recording: pick recording & quick edit stack (OBS / Loom / Descript / simple editor) and create a single upload pipeline.
+- [ ] Update LinkedIn profile copy from `strategy/LINKEDIN_PROFILE.md` (headline, about, CTA).
+- [ ] Configure YouTube channel settings, default upload template, and add a pinned CTA in the channel description.
+- [ ] Ensure `strategy/TRACKING_SHEET.csv` is writable and backed up (Google Sheets or repo). Add column headers if missing.
+- [ ] Pick recording & quick edit stack (OBS / Loom / Descript / simple editor) and create a single upload pipeline.
 
 Brainstorming & product preparation (one-session checklist)
 
-1) Customer problems — list 5 real problems your ICP has (copy/paste from LinkedIn / job posts / product notes).
-2) Outcomes they pay for — write 3 quantifiable outcomes (meetings/week, MRR, demo-ready pipeline).
-3) Core deliverables — sketch the Week 0 onboarding + Weeks 1–12 deliverables (use `strategy/OFFER.md` for a template).
-4) Pricing & commitments — test a paid-up-front and a monthly option; pick messaging for each.
-5) Minimum proof / social proof — choose 1–2 client metrics or early wins you can show publicly or anonymously.
+- [ ] List 5 customer problems your ICP has (copy/paste from LinkedIn / job posts / product notes).
+- [ ] Write 3 quantifiable outcomes they would pay for (meetings/week, MRR, demo-ready pipeline).
+- [ ] Sketch core deliverables: Week 0 onboarding + Weeks 1–12 deliverables (use `strategy/OFFER.md` for a template).
+- [ ] Choose pricing & commitments to test: paid-up-front and a monthly option; pick messaging for each.
+- [ ] Identify minimum proof / social proof: 1–2 client metrics or early wins you can show publicly or anonymously.
 
 Quick Setup checklist (first 7 days)
 
-1) Finalise and paste your `One-line ICP` and `One-line Offer` at the top of this file.
-2) Update `strategy/LINKEDIN_PROFILE.md` with the one-line offer as headline and the CTA.
-3) Create first 30 prospects and add them to `strategy/TRACKING_SHEET.csv`.
-4) Draft 3 outreach variants and save them to `strategy/OUTBOUND_MESSAGES.md`.
-5) Schedule your weekly 30–60m review and add owner (you) and backup.
+- [ ] Finalise and paste your `One-line ICP` and `One-line Offer` at the top of this file.
+- [ ] Update `strategy/LINKEDIN_PROFILE.md` with the one-line offer as headline and the CTA.
+- [ ] Create first 30 prospects and add them to `strategy/TRACKING_SHEET.csv`.
+- [ ] Draft 3 outreach variants and save them to `strategy/OUTBOUND_MESSAGES.md`.
+- [ ] Schedule your weekly 30–60m review and add owner (you) and backup.
 
 Where to put outputs
 
-- YouTube drafts & experiments → `youtube/content/` and `youtube/experiments/` (create `experiments/` if needed).
-- Product deliverables, onboarding docs → `strategy/` (keep client-facing templates out of the repo or in a `strategy/clients/README.md` placeholder).
+- [ ] Put YouTube drafts & experiments in `youtube/content/` and `youtube/experiments/` (create `experiments/` if needed).
+- [ ] Put product deliverables and onboarding docs in `strategy/` (keep client-facing templates out of the repo or in a `strategy/clients/README.md` placeholder).
 
 Notes
 
