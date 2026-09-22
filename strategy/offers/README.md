@@ -1,6 +1,6 @@
 # Offers — candidate productized services
 
-These are candidate offers you can choose from after picking your ICP (see `business/ICP_PICKER.md`). They are not commitments — they are a menu. Each offer doc includes:
+These are candidate offers you can choose from after picking your ICP (see `business/01-pick-icp.md`). They are not commitments — they are a menu. Each offer doc includes:
 
 - Who it's for
 - What pain it solves

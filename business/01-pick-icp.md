@@ -143,8 +143,8 @@ Technical founder of a Laravel SaaS (1–10 people) who needs a codebase audit a
 After you pick your ICP:
 1. Pick one offer from `strategy/offers/` that matches your chosen buyer group's pain.
 2. Adapt the offer to your ICP (we'll help you with this in the next step).
-3. Rewrite `strategy/ICP.md` with your finalized one-line ICP.
-4. Start the 30-day validation sprint from `business/workflow.md`.
+3. Rewrite `business/01-pick-icp.md` with your finalized one-line ICP (fill in the template at the bottom of this file).
+4. Start the 30-day validation sprint from `business/03-weekly-workflow.md`.
 
 You are not committing to this ICP forever. You are testing it for 30 days. If it doesn't produce meetings, you come back to this file, pick a different buyer group, and test again.
 

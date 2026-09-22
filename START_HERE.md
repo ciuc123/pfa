@@ -81,4 +81,4 @@ YouTube comes after you have your first client. Not before. When you're ready: [
 
 - `strategy/archive/` — old First Gear template, not your business. Ignore.
 - `youtube/archive/` — old YouTube planning docs. Ignore.
-- `business/archive-setup.md` — old setup doc with placeholder values. Ignore.
+- `business/archive/` — old setup doc with placeholder values. Ignore.
