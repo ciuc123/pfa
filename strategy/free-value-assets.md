@@ -8,6 +8,18 @@ You don't ask for a meeting cold. You give value first. This is the jab (Gary V)
 
 Every first contact should include something useful. Not "can I have 15 minutes of your time?" — but "I noticed X, here's a quick thing that might help."
 
+## Before creating new content: use your existing assets
+
+You already have content that proves your expertise. Before creating anything new, use these:
+
+| Existing content | How to use it |
+|---|---|
+| Laravel 11 migration post (25-30% less boilerplate, 40% faster queries) | Send to prospects upgrading Laravel: "Saw you're on Laravel 10 — here's what I found migrating to 11" |
+| PHP 8.4 performance post | Send to prospects with performance pain: "Here's what PHP 8.4 could do for your app" |
+| AI agents in Laravel post | Send to prospects exploring AI: "Here's how I'd add AI agents to a Laravel app" |
+| Security / container hardening posts | Send to prospects with security concerns |
+| CI/CD content | Send to prospects with deployment pain |
+
 ---
 
 ## The 5 free assets (pick one per prospect)

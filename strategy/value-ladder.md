@@ -8,10 +8,10 @@ You don't sell one thing. You sell a path: free → entry → core → ongoing. 
 
 | Level | What it is | Price | Purpose |
 |---|---|---|---|
-| **Free** | Value-first asset: checklist, mini-audit, Loom teardown | €0 | Give value before asking. Build trust. Start conversations. |
-| **Entry** | Audit / review / assessment (from `strategy/offers/`) | €500–1,500 | Low-risk first engagement. Prove you can deliver. |
-| **Core** | Implementation sprint (fix the top issues from the audit) | €2,000–5,000 | The real work. Bigger commitment, bigger outcome. |
-| **Ongoing** | Fractional senior backend / advisory / maintenance retainer | €1,000–3,000/mo | Recurring revenue. You become their go-to person. |
+| **Free** | Value-first asset: checklist, mini-audit, Loom teardown, existing blog post | €0 | Give value before asking. Build trust. Start conversations. |
+| **Entry** | Audit / review / assessment (from `strategy/offers/`) | €750–2,000 | Low-risk first engagement. Prove you can deliver. |
+| **Core** | Implementation sprint (fix the top issues from the audit) | €2,500–6,000 | The real work. Bigger commitment, bigger outcome. |
+| **Ongoing** | Fractional senior backend / advisory / maintenance retainer | €1,500–3,500/mo | Recurring revenue. You become their go-to person. |
 
 ---
 
@@ -29,11 +29,12 @@ You don't sell one thing. You sell a path: free → entry → core → ongoing. 
 
 ## Pricing rules (Hormozi)
 
-- **First 3 clients:** charge less than your entry price. Goal is proof, not profit. €300–500 for the first audit. Get a testimonial.
-- **After 3 case studies:** raise to full entry price (€500–1,500).
+- **First 3 clients:** charge founder/pilot price (€500–750 for the first audit). Goal is proof, not profit. Get a testimonial.
+- **After 3 case studies:** raise to full entry price (€750–2,000).
 - **After 10 clients:** raise to premium pricing (upper range).
 - **Price by outcome, not by hour.** "I'll find your top 10 codebase risks in 5 days" is worth more than "I'll spend 5 hours looking at your code."
 - **Offer a paid-up-front discount.** "€1,500 for the audit, or €1,200 if you pay upfront." Fast decisions = better clients.
+- **Never position yourself as cheap help. Position yourself as senior risk reduction.** You have 14 years of experience and 6 years of freelance work. That's your differentiator.
 
 ---
 

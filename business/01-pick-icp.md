@@ -47,6 +47,20 @@ Short answer: sell to the person who owns both the technical pain AND the budget
 
 Below are 5 candidate buyer groups based on your expertise (Laravel/PHP, Docker/K8s, AI-assisted dev, queue systems, infrastructure). These are not the only options — they are starting points. Pick 3–5 to score.
 
+### Your pre-filled likely scores (based on your 14 years + 6 years freelance)
+
+These are starting estimates. Adjust based on your own knowledge of your network and market.
+
+| Buyer group | Pain urgency | Ability to pay | Your credibility | Reachability | Visible signals | Delivery confidence | Speed to result | Content alignment | Total /40 |
+|---|---|---|---|---|---|---|---|---|---|
+| A. Tech founder (SaaS) | 4 | 3 | 5 | 4 | 3 | 5 | 4 | 4 | 32 |
+| B. CTO (growing SaaS) | 4 | 4 | 5 | 3 | 3 | 5 | 3 | 4 | 31 |
+| C. Agency owner | 5 | 4 | 4 | 5 | 4 | 5 | 5 | 3 | 35 |
+| D. Eng manager (legacy) | 4 | 5 | 4 | 2 | 3 | 4 | 2 | 3 | 27 |
+| E. Solo dev / indie | 3 | 2 | 5 | 4 | 3 | 5 | 3 | 5 | 30 |
+
+**Recommended default:** C (Agency owner) for short-term revenue. A (Tech founder) for long-term positioning. If you can't decide, start with C.
+
 ### Candidate buyer groups
 
 **A. Technical founder of a Laravel SaaS (1–10 people)**
