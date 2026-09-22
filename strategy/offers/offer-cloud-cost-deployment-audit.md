@@ -117,9 +117,9 @@ This is a read-only audit. You are not changing their infrastructure — you're 
 
 ## Suggested starter price range
 
-€500–1,500 for the full audit + report + action plan + walkthrough.
+€750–1,500 for the full audit + report + action plan + walkthrough.
 
-- €500 for a simple setup (single server, Forge, basic app)
+- €750 for a simple setup (single server, Forge, basic app)
 - €1,000 for a medium setup (2–3 servers, CI/CD, some managed services)
 - €1,500 for a complex setup (multi-server, Kubernetes, AWS, multiple services)
 

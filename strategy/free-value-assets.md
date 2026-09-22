@@ -8,6 +8,18 @@ You don't ask for a meeting cold. You give value first. This is the jab (Gary V)
 
 Every first contact should include something useful. Not "can I have 15 minutes of your time?" — but "I noticed X, here's a quick thing that might help."
 
+## Before creating new content: use your existing assets
+
+You already have content that proves your expertise. Before creating anything new, use these:
+
+| Existing content | How to use it |
+|---|---|
+| Laravel 11 migration post (25-30% less boilerplate, 40% faster queries) | Send to prospects upgrading Laravel: "Saw you're on Laravel 10 — here's what I found migrating to 11" |
+| PHP 8.4 performance post | Send to prospects with performance pain: "Here's what PHP 8.4 could do for your app" |
+| AI agents in Laravel post | Send to prospects exploring AI: "Here's how I'd add AI agents to a Laravel app" |
+| Security / container hardening posts | Send to prospects with security concerns |
+| CI/CD content | Send to prospects with deployment pain |
+
 ---
 
 ## The 5 free assets (pick one per prospect)
@@ -70,8 +82,8 @@ Don't DM cold. Engage with their content first. Reply to their LinkedIn posts wi
 
 ```
 Find signal → Send free value asset → They reply "thanks" → 
-Offer the entry audit (€500-1500) → If yes, deliver audit → 
-Offer implementation (€2000-5000) → Offer retainer (€1000-3000/mo)
+Offer the entry audit (€750-1,500) → If yes, deliver audit → 
+Offer implementation (€2,500-6,000) → Offer retainer (€1,500-3,500/mo)
 ```
 
 The free asset is Step 0. It goes BEFORE the outreach messages in START_HERE.

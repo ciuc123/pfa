@@ -23,11 +23,11 @@ Do NOT read every offer today. Skim the table below, pick 1 or 2 offers that mat
 
 | Offer | Best for buyer group | Pain | Suggested price |
 |---|---|---|---|
-| [Legacy Laravel Codebase Audit](./offer-legacy-laravel-audit.md) | A, B, D | Technical debt, messy codebase, onboarding friction | €500–1,500 |
-| [AI-Assisted Test Coverage Sprint](./offer-ai-test-coverage-sprint.md) | A, B, C | Low test coverage, fear of breaking things on deploy | €750–2,000 |
-| [Queue & Performance Review](./offer-queue-performance-review.md) | A, B, C | Slow jobs, queue bottlenecks, timeout errors | €500–1,500 |
-| [Cloud Cost & Deployment Audit](./offer-cloud-cost-deployment-audit.md) | A, B | High cloud bills, deployment complexity, scaling concerns | €500–1,500 |
-| [Backend Rescue Audit](./offer-backend-rescue-audit.md) | A, C, E | "Everything is on fire and I don't know where to start" | €500–1,000 |
+| [Legacy Laravel Codebase Audit](./offer-legacy-laravel-audit.md) | A, B, D | Technical debt, messy codebase, onboarding friction | €750–1,500 |
+| [AI-Assisted Test Coverage Sprint](./offer-ai-test-coverage-sprint.md) | A, B, C | Low test coverage, fear of breaking things on deploy | €1,000–2,000 |
+| [Queue & Performance Review](./offer-queue-performance-review.md) | A, B, C | Slow jobs, queue bottlenecks, timeout errors | €750–1,500 |
+| [Cloud Cost & Deployment Audit](./offer-cloud-cost-deployment-audit.md) | A, B | High cloud bills, deployment complexity, scaling concerns | €750–1,500 |
+| [Backend Rescue Audit](./offer-backend-rescue-audit.md) | A, C, E | "Everything is on fire and I don't know where to start" | €750–1,500 |
 
 ## Pricing notes
 
@@ -37,8 +37,8 @@ These are starter price ranges for a first client. The goal is to get your first
 
 Based on research on productized developer consulting ([Indie Hackers](https://www.indiehackers.com/post/two-builders-i-know-productized-their-dev-consulting-into-fixed-monthly-tiers-829f91adf2), [ConsultingSuccess](https://www.consultingsuccess.com/consultants-guide-to-productization)):
 
-1. **Discovery / audit offer** (€500–2,000): assessment, review, prioritized plan — low risk for both sides
-2. **Implementation offer** (€2,000–5,000): execute the top fixes from the audit
-3. **Ongoing partnership** (€1,000–3,000/month): continued support, retainer
+1. **Discovery / audit offer** (€750–2,000): assessment, review, prioritized plan — low risk for both sides
+2. **Implementation offer** (€2,500–6,000): execute the top fixes from the audit
+3. **Ongoing partnership** (€1,500–3,500/month): continued support, retainer
 
 Start at level 1. Move to level 2 and 3 only after you've delivered level 1 successfully.

@@ -105,10 +105,10 @@ Read-only assessment. You're not changing anything — you're providing clarity 
 
 ## Suggested starter price range
 
-€500–1,000 for the full audit + rescue plan + walkthrough.
+€750–1,500 for the full audit + rescue plan + walkthrough.
 
-- €500 for a small project (single app, focused scope)
-- €1,000 for a larger or more complex project (multiple areas of concern)
+- €750 for a small project (single app, focused scope)
+- €1,500 for a larger or more complex project (multiple areas of concern)
 
 This is intentionally priced lower than the specialized audits because it's a broader, less deep assessment. It's a great entry point — many clients will want to follow up with a specialized audit or implementation.
 

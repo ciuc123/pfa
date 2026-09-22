@@ -6,7 +6,48 @@ One experiment at a time. No exceptions.
 
 ---
 
-## My current experiment
+## Step 0 — Warm network sprint (first 7 days, do this FIRST)
+
+Before cold outreach, tap your existing network. This is your fastest path to cash.
+
+### Days 1–2: Build your warm list
+
+1. List 20 warm contacts:
+   - Former freelance clients
+   - Ex-colleagues who moved to other companies
+   - Agency owners you've talked to
+   - Founders you know
+   - Recruiters who know freelance buyers
+2. For each, note: what they do, what company, what their likely Laravel/backend pain is
+3. Pick the 10 most likely to know someone with a Laravel codebase problem
+
+### Days 3–5: Send warm messages
+
+Message your 10 warm contacts:
+
+> "Hey [name], I'm productizing my Laravel/AWS backend consulting into fixed-scope audits. 15 years PHP, 10 years Laravel. Looking for 2–3 teams with messy Laravel apps, performance issues, or deployment risk. I'll do a full audit for €500 (normally €1,500) in exchange for a testimonial. Do you know anyone who'd benefit?"
+
+Also message 10 agencies/dev shops on LinkedIn:
+
+> "Hi [name], noticed your agency does Laravel work. I'm a senior Laravel backend developer (15y PHP, 10y Laravel, AWS, Kafka) offering fixed-scope codebase audits and performance reviews. If you ever need overflow capacity for audits or rescue work, I deliver these as fixed packages. Open to a quick chat?"
+
+### Days 6–7: Follow up and start cold outreach
+
+- Follow up with anyone who didn't respond
+- Start the cold LinkedIn outreach (Step 1 of the main flow below)
+- Update this file with results from the warm sprint
+
+### Warm sprint results
+
+- Warm contacts messaged: ___
+- Agencies messaged: ___
+- Replies: ___
+- Meetings booked: ___
+- Clients signed: ___
+
+---
+
+## My current experiment (30-day cold outreach sprint)
 
 **Start date:** [YYYY-MM-DD]
 **End date:** [YYYY-MM-DD]
