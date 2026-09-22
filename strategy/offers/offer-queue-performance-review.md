@@ -112,9 +112,9 @@ This is primarily a read-only review. You are not changing their code or infrast
 
 ## Suggested starter price range
 
-€500–1,500 for the full review + report + walkthrough.
+€750–1,500 for the full review + report + walkthrough.
 
-- €500 for a small app (simple queue setup, single server)
+- €750 for a small app (simple queue setup, single server)
 - €1,000 for a medium app (multiple job types, Redis, moderate complexity)
 - €1,500 for a complex app (multi-server, Kubernetes, heavy queue usage, database analysis needed)
 

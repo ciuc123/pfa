@@ -47,7 +47,7 @@ Short answer: sell to the person who owns both the technical pain AND the budget
 
 Below are 5 candidate buyer groups based on your expertise (Laravel/PHP, Docker/K8s, AI-assisted dev, queue systems, infrastructure). These are not the only options — they are starting points. Pick 3–5 to score.
 
-### Your pre-filled likely scores (based on your 14 years + 6 years freelance)
+### Your pre-filled likely scores (based on your 15 years PHP / 10+ years Laravel + 6 years freelance)
 
 These are starting estimates. Adjust based on your own knowledge of your network and market.
 
@@ -59,7 +59,7 @@ These are starting estimates. Adjust based on your own knowledge of your network
 | D. Eng manager (legacy) | 4 | 5 | 4 | 2 | 3 | 4 | 2 | 3 | 27 |
 | E. Solo dev / indie | 3 | 2 | 5 | 4 | 3 | 5 | 3 | 5 | 30 |
 
-**Recommended default:** C (Agency owner) for short-term revenue. A (Tech founder) for long-term positioning. If you can't decide, start with C.
+**Recommended default:** C (Agency owner) for short-term revenue. This matches your CV: Pentalog team leadership, Digitalkrikits client delivery, freelance MVPs, and training 15 beginners — you know how agencies work. A (Tech founder) for long-term positioning. If you can't decide, start with C.
 
 ### Candidate buyer groups
 

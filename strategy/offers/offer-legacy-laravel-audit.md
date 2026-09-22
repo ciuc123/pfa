@@ -103,9 +103,9 @@ This is a read-only audit. You are not changing their code. The worst case is a 
 
 ## Suggested starter price range
 
-€500–1,500 for the full audit + report + walkthrough call.
+€750–1,500 for the full audit + report + walkthrough call.
 
-- €500 for a small codebase (1–2 years old, < 50k lines)
+- €750 for a small codebase (1–2 years old, < 50k lines)
 - €1,000 for a medium codebase (2–5 years old, 50k–150k lines)
 - €1,500 for a large codebase (5+ years old, 150k+ lines, multiple modules)
 

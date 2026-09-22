@@ -34,7 +34,7 @@ You don't sell one thing. You sell a path: free → entry → core → ongoing. 
 - **After 10 clients:** raise to premium pricing (upper range).
 - **Price by outcome, not by hour.** "I'll find your top 10 codebase risks in 5 days" is worth more than "I'll spend 5 hours looking at your code."
 - **Offer a paid-up-front discount.** "€1,500 for the audit, or €1,200 if you pay upfront." Fast decisions = better clients.
-- **Never position yourself as cheap help. Position yourself as senior risk reduction.** You have 14 years of experience and 6 years of freelance work. That's your differentiator.
+- **Never position yourself as cheap help. Position yourself as senior risk reduction.** You have 15 years of PHP, 10+ years of Laravel, and 6 years of freelance work. That's your differentiator.
 
 ---
 

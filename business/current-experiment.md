@@ -25,11 +25,11 @@ Before cold outreach, tap your existing network. This is your fastest path to ca
 
 Message your 10 warm contacts:
 
-> "Hey [name], I'm productizing my Laravel/AWS backend consulting into fixed-scope audits. Looking for 2–3 teams with messy Laravel apps, performance issues, or deployment risk. I'll do a full audit for €500 (normally €1,500) in exchange for a testimonial. Do you know anyone who'd benefit?"
+> "Hey [name], I'm productizing my Laravel/AWS backend consulting into fixed-scope audits. 15 years PHP, 10 years Laravel. Looking for 2–3 teams with messy Laravel apps, performance issues, or deployment risk. I'll do a full audit for €500 (normally €1,500) in exchange for a testimonial. Do you know anyone who'd benefit?"
 
 Also message 10 agencies/dev shops on LinkedIn:
 
-> "Hi [name], noticed your agency does Laravel work. I'm a senior Laravel backend developer (14y experience) offering fixed-scope codebase audits and performance reviews. If you ever need overflow capacity for audits or rescue work, I deliver these as fixed packages. Open to a quick chat?"
+> "Hi [name], noticed your agency does Laravel work. I'm a senior Laravel backend developer (15y PHP, 10y Laravel, AWS, Kafka) offering fixed-scope codebase audits and performance reviews. If you ever need overflow capacity for audits or rescue work, I deliver these as fixed packages. Open to a quick chat?"
 
 ### Days 6–7: Follow up and start cold outreach
 

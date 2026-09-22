@@ -82,8 +82,8 @@ Don't DM cold. Engage with their content first. Reply to their LinkedIn posts wi
 
 ```
 Find signal → Send free value asset → They reply "thanks" → 
-Offer the entry audit (€500-1500) → If yes, deliver audit → 
-Offer implementation (€2000-5000) → Offer retainer (€1000-3000/mo)
+Offer the entry audit (€750-1,500) → If yes, deliver audit → 
+Offer implementation (€2,500-6,000) → Offer retainer (€1,500-3,500/mo)
 ```
 
 The free asset is Step 0. It goes BEFORE the outreach messages in START_HERE.

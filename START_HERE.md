@@ -11,7 +11,7 @@ This is the only file you need to read. Follow the steps in order. Don't read ot
 3. **The goal is 30 messages, not the perfect offer.** You learn by sending, not by planning.
 4. **If you're stuck, pick the easiest option.** The buyer group you can reach fastest. The offer you can deliver most confidently. Start there.
 5. **Done is better than perfect.** Ship the message. Fix it later.
-6. **You are not a beginner.** You have 14 years of experience and 6 years of freelance work. Your problem is lead flow and packaging, not ability.
+6. **You are not a beginner.** You have 15 years of PHP experience, 10+ years with Laravel, and 6 years of freelance work. Your problem is lead flow and packaging, not ability.
 
 ---
 
@@ -24,7 +24,7 @@ If you're overwhelmed by choices, here's the recommended default based on your a
 - **Offer:** Backend Rescue Audit or Legacy Laravel Codebase Audit (€750–1,500)
 - **Goal:** First paid productized client within 30 days
 
-You don't have to follow this. But if you can't decide, this is where you start.
+This matches your CV: Laravel/AWS freelance work, high-throughput regulated systems, API integrations, team leadership, and training experience.
 
 ---
 

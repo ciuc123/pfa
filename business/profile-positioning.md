@@ -1,13 +1,13 @@
 # Profile positioning — your LinkedIn and personal site
 
-Your LinkedIn headline and personal site (ciuculescu.com) should position you as a senior specialist, not a generalist freelancer. You have 14 years of experience and 6 years of freelance work. Position accordingly.
+Your LinkedIn headline and personal site (ciuculescu.com) should position you as a senior specialist, not a generalist freelancer. You have 15 years of PHP experience, 10+ years with Laravel, and 6 years of freelance work. Position accordingly.
 
 ---
 
 ## LinkedIn headline (pick one)
 
 **Option A (outcome-first):**
-> Laravel/PHP Backend Consultant | API Performance, AWS & Reliability for Scaling Teams | 14y Experience
+> Laravel/PHP Backend Consultant | API Performance, AWS, Kafka & Reliability | 15y PHP / 10y Laravel
 
 **Option B (offer-first):**
 > I help Laravel/PHP teams find and fix production risks before they break | Audits & Implementation Sprints
@@ -24,7 +24,7 @@ Pick one. Update your LinkedIn headline today.
 ```
 I help Laravel/PHP teams fix performance, reliability, deployment, and legacy-code bottlenecks through focused audits and implementation sprints.
 
-I've spent 14 years building backend systems, including high-throughput regulated environments supporting ~5,000 requests/min.
+I've spent 15 years building backend systems with PHP, including high-throughput regulated environments supporting ~5,000 requests/min. I've also led teams, trained 15 junior developers, and delivered freelance Laravel/AWS projects for startups and SMEs across Europe.
 
 What I do:
 - Laravel codebase audits: find the top risks blocking delivery, get a prioritized 30-day fix plan
@@ -34,6 +34,20 @@ What I do:
 
 If your Laravel app is slowing releases, failing under load, or becoming hard to maintain, message me "audit" and I'll send you a quick risk checklist.
 ```
+
+---
+
+## Credibility bullets to reuse in outreach and content
+
+Pick the relevant ones per prospect. Do not list all at once.
+
+- 15 years PHP, 10+ years Laravel, production systems handling ~5,000 requests/min
+- High-throughput transactional platform integrating game developers with gaming casinos (Kafka, MySQL, Redis)
+- Laravel/AWS freelance MVPs for startups and SMEs (booking, healthcare/NHS, landing pages)
+- API integrations: Stripe, Google, Slack, Mailgun, Mailchimp
+- Team leadership: hired and led a team at Pentalog, trained 15 junior developers (100 hours, 100% pass rate)
+- Architecture: DDD, SOLID, KISS, event-driven systems, CI/CD, Docker, AWS
+- Community: Laracon 2017 Amsterdam, Defcamp 2022, Larcon 2020
 
 ---
 

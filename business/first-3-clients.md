@@ -1,6 +1,6 @@
 # First 3 clients playbook — getting proof when you're already experienced
 
-You have 14 years of experience and 6 years of freelance work. You are NOT starting from zero. Your problem is lead flow and packaging, not ability. Your first 3 productized clients are about proving the productized format works — not about proving you can code.
+You have 15 years of PHP experience, 10+ years with Laravel, and 6 years of freelance work. You are NOT starting from zero. Your problem is lead flow and packaging, not ability. Your first 3 productized clients are about proving the productized format works — not about proving you can code.
 
 ---
 
@@ -17,7 +17,7 @@ You have 14 years of experience and 6 years of freelance work. You are NOT start
   - [ ] A screenshot of the audit report (with sensitive info removed)
   - [ ] A LinkedIn recommendation (they post it on your profile)
   - [ ] Permission to turn it into a YouTube video (anonymized)
-  - [ ] A referral to 1 other person who might need this
+  - **Free only if the strategic value is obvious:** strong testimonial, case study permission, or referral access. Otherwise, always charge.
 
 ### Client 2: Near-market price
 
@@ -72,4 +72,4 @@ You already have a network. Use it:
 
 **Never position yourself as cheap help. Position yourself as senior risk reduction.**
 
-Your 14 years and 6 years of freelance experience are your differentiator. A €500 audit from a 14-year senior is a steal. A €500 audit from a junior is a risk. Make sure prospects know which one you are.
+Your 15 years of PHP, 10+ years of Laravel, and 6 years of freelance experience are your differentiator. A €500 audit from a 15-year senior is a steal. A €500 audit from a junior is a risk. Make sure prospects know which one you are.

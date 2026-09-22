@@ -120,10 +120,10 @@ You are adding files to their codebase (test files), which is higher risk than a
 
 ## Suggested starter price range
 
-€750–2,000 for the full sprint (assessment + AI-generated tests + review + CI setup + playbook + walkthrough).
+€1,000–2,000 for the full sprint (assessment + AI-generated tests + review + CI setup + playbook + walkthrough).
 
-- €750 for a small codebase (focus on 3–5 critical paths)
-- €1,200 for a medium codebase (5–10 critical paths)
+- €1,000 for a small codebase (focus on 3–5 critical paths)
+- €1,500 for a medium codebase (5–10 critical paths)
 - €2,000 for a large codebase (10+ critical paths, full CI setup)
 
 ## What proof/content can come from it

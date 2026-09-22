@@ -119,6 +119,22 @@ Agencies and dev shops that are overloaded are great buyers for subcontracted au
 
 ---
 
+## Signal type 8: API, integration, and event-driven systems
+
+Companies building or maintaining API-heavy, event-driven, or integration-heavy systems are prime candidates for performance and architecture reviews. This directly matches your Kafka/event-driven experience.
+
+| Signal | What it tells you | Where to find it | Search example |
+|---|---|---|---|
+| Job post mentioning Kafka, event-driven, webhooks, or high-throughput APIs | They have complex event-driven architecture; may need performance or reliability help | LinkedIn job posts | `"kafka" OR "event-driven" OR "webhooks" laravel` |
+| Company integrates with payments, booking, healthcare, or marketplaces | Integration-heavy systems; API reliability is business-critical | Company website, engineering blog, job posts | Search company + "API integration" |
+| Job post mentioning MySQL/Redis scaling, queues, or uptime | They are hitting infrastructure limits; reliability is a known concern | LinkedIn job posts | `"redis" OR "mysql" OR "uptime" laravel` |
+| Company has a public API or developer portal | API is a product surface; performance and reliability matter | Company website, API docs | Check company website for /docs or /api |
+| Engineering blog post about microservices or event-driven architecture | They are actively working on distributed systems; may need architecture review | Company blog, Dev.to, Medium | `"microservices" OR "event-driven" laravel site:medium.com` |
+
+**How to act on it:** "Noticed your team is building event-driven systems with Laravel — if Kafka or queue reliability is becoming a bottleneck, I can run a focused performance review. I work with similar high-throughput systems (~5,000 req/min) in production."
+
+---
+
 ## How to use signals in your workflow
 
 1. Pick one signal type to focus on per research session (e.g. "hiring signals only" for one day).
