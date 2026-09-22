@@ -1,6 +1,6 @@
 # Offers — candidate productized services
 
-These are candidate offers you can choose from after picking your ICP (see `business/ICP_PICKER.md`). They are not commitments — they are a menu. Each offer doc includes:
+These are candidate offers you can choose from after picking your ICP (see `business/01-pick-icp.md`). They are not commitments — they are a menu. Each offer doc includes:
 
 - Who it's for
 - What pain it solves
@@ -17,11 +17,7 @@ These are candidate offers you can choose from after picking your ICP (see `busi
 
 ## How to use this folder
 
-1. Pick your ICP first (see `business/ICP_PICKER.md`).
-2. Read the offers that match your chosen buyer group's pain.
-3. For each relevant offer, fill in the "Can I deliver this?" checklist honestly.
-4. Pick ONE offer for your 30-day validation sprint.
-5. We will then help you adapt it into a full 30-day plan.
+Do NOT read every offer today. Skim the table below, pick 1 or 2 offers that match your chosen ICP's pain, and open only those. Fill in the "Can I deliver this?" checklist honestly. Pick ONE offer for your 30-day validation sprint.
 
 ## Offer list
 

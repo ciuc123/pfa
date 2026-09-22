@@ -1,12 +1,19 @@
-# ICP Picker — how to choose who you sell to
+# Step 1 — Pick who you sell to
 
-This is a step-by-step helper for picking your first Ideal Customer Profile (ICP). You have never done this before, so this guide is designed to take you from "I don't know who to sell to" to "I have one buyer group chosen for a 30-day test" in under an hour.
+You have never picked an ICP before. This guide takes you from "I don't know who to sell to" to "I have one buyer group chosen" in under an hour.
 
-You are not picking forever. You are picking for a 30-day validation sprint. If it doesn't work, you pick again.
+You are not picking forever. You are picking for a 30-day test. If it doesn't work, you pick again.
+
+**Quick steps:**
+1. Read the "Should you sell to CTOs?" table below
+2. Score the 5 candidate buyer groups on 8 criteria
+3. Pick the highest-scoring one
+4. Write your one-line ICP at the bottom of this file
+5. Then go to `02-validate-market.md`
 
 ---
 
-## Step 1: Understand what an ICP actually is
+## What an ICP actually is
 
 An ICP is not "companies that use Laravel." That's a market. An ICP is a specific person, at a specific type of company, who has a specific pain they will pay to solve right now.
 
@@ -136,8 +143,8 @@ Technical founder of a Laravel SaaS (1–10 people) who needs a codebase audit a
 After you pick your ICP:
 1. Pick one offer from `strategy/offers/` that matches your chosen buyer group's pain.
 2. Adapt the offer to your ICP (we'll help you with this in the next step).
-3. Rewrite `strategy/ICP.md` with your finalized one-line ICP.
-4. Start the 30-day validation sprint from `business/workflow.md`.
+3. Rewrite `business/01-pick-icp.md` with your finalized one-line ICP (fill in the template at the bottom of this file).
+4. Start the 30-day validation sprint from `business/03-weekly-workflow.md`.
 
 You are not committing to this ICP forever. You are testing it for 30 days. If it doesn't produce meetings, you come back to this file, pick a different buyer group, and test again.
 

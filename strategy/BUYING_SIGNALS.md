@@ -123,7 +123,7 @@ Agencies and dev shops that are overloaded are great buyers for subcontracted au
 
 1. Pick one signal type to focus on per research session (e.g. "hiring signals only" for one day).
 2. Find 10 prospects with that signal.
-3. Copy the exact signal wording into `TRACKING_SHEET.csv`.
+3. Copy the exact signal wording into `strategy/validation-tracker.csv`.
 4. Use the signal as the first line of your outreach message.
 5. Track which signal types produce the highest reply rate — double down on what works.
 
