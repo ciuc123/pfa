@@ -1,1180 +1,1185 @@
-First Name	Last Name	URL	Email Address	Company	Position	Connected On	Last reached out	Column 2	Target Category		
-Tome	Nedinkovski	https://www.linkedin.com/in/tome-nedinkovski		Psyent	Co-Founder & Managing Director | Talent Consultant	21 Sep 2018			Primary Target		
-Abdel	El-wekil	https://www.linkedin.com/in/elwekil		Remote Work	Senior Full Stack Developer | Expert in PHP (Laravel&Symfony) / JavaScript (Node&React) | Contractor	21 Jan 2023			Primary Target		
-Adrian	Rindasu	https://www.linkedin.com/in/adrianrindasu		Crosswork	Co-Founder and Managing Partner	25 Jan 2023			Primary Target		
-Valentina	Brysina	https://www.linkedin.com/in/hireyourteam		Digital Pipl	Co-Founder & Head of Talent Acquisition	18 Jan 2023			Primary Target		
-Nicu	Mardari	https://www.linkedin.com/in/nicu-mardari-b39a3477	nicu.mardari@7code.ro	7code	Co-Founder and CEO	02 Nov 2022			Primary Target		
-Sergiu	Neagu	https://www.linkedin.com/in/sergiu-neagu		Data Partner Solutions	Managing Director & Sr. Full Stack Developer	08 Aug 2021			Primary Target		
-Ernestas	Petkevicius	https://www.linkedin.com/in/epetkevicius		JSC Vertex	CEO & Co-founder	08 Dec 2020			Primary Target		
-Alvin	Stanescu	https://www.linkedin.com/in/alvin-stanescu		UiPath	Director, Software Engineering	19 Feb 2020			Primary Target		
-Joanna	Ufniak	https://www.linkedin.com/in/joanna-ufniak-283a82a6		Magic Mondayz Miami	Co-Founder / Head of Client Relations	06 Aug 2019			Primary Target		
-Gustaf	Kornias	https://www.linkedin.com/in/gustafkornias		Fitpass.ro	CEO & Co-founder	31 Jan 2019			Primary Target		
-Ana	Arcalianu	https://www.linkedin.com/in/ana-arcalianu-8a229710a		Amaze Consulting Agency	PPC Amazon Consulting Co-Founder at Amaze Consulting Agency	18 Jul 2018			Primary Target		
-Alexandru	RADOVICI	https://www.linkedin.com/in/alexandruradovici		OxidOS Automotive	Co-Founder and CEO	15 Apr 2012			Primary Target		
-Bogdan-Agnus	Tica	https://www.linkedin.com/in/bogdan-tica	dev.bogdan@tica.ro	Remote Work	Senior Node.js / PHP  Fullstack Developer / Contractor / Freelancer	06 Jun 2023			Primary Target		
-Serge	Lavrinchuk 🇺🇦	https://www.linkedin.com/in/lavrinchuck		Wild.Codes	Founder & CEO - Marketplace of Pre-Vetted Remote Developers	20 May 2022			Primary Target		
-Kashif	Ali	https://www.linkedin.com/in/kashif-opensourced		OpenSourced	Director & Founder - Search & Selection	03 May 2022			Primary Target		
-Raluca - Ștefania	Rîșnoveanu	https://www.linkedin.com/in/raluca-%C8%99tefania-r%C3%AE%C8%99noveanu-634360119		Meetgeek.ai	Co-Founder & CTO	28 Oct 2021			Primary Target		
-Daniel	Berigoi	https://www.linkedin.com/in/daniel-berigoi		Slashscore	Co-Founder & CTO	10 Feb 2021			Primary Target		
-Madalina	Dragoescu	https://www.linkedin.com/in/madalinadragoescu	madalina.dragoescu@itworx.ro	Itworx	Senior Recruiter - Technology & HR. Co-founder	21 Nov 2019			Primary Target		
-Guillaume	Costanza	https://www.linkedin.com/in/guillaume-costanza-0729a387		PINPO	Co-founder and CTO	31 Jan 2018			Primary Target		
-Tudor	Stanciu	https://www.linkedin.com/in/tudorstanciu		Ventures'n'Law	Co-Founder, Technology Lawyer	29 Jun 2017			Primary Target		
-Bogdan	Dragoescu	https://www.linkedin.com/in/bogdan-dragoescu-6139711		Itworx	Senior Recruiter - Technology & HR. Co-founder	30 May 2017			Primary Target		
-Ionut	Nicolae	https://www.linkedin.com/in/ionutnicolae		OZANIS	Founder, Managing Director	12 Feb 2013			Primary Target		
-Radu	Gabor	https://www.linkedin.com/in/radugabor		Bitwise Tech	Software Developer & Founder	14 Dec 2024	24/2/25		Primary Target		
-Ryan	Jennings	https://www.linkedin.com/in/ryan-jennings		Ryan Leigh Design Ltd	Director / Developer	22 Jan 2023			Primary Target		
-Adrian	Nastasoiu	https://www.linkedin.com/in/adrian-nastasoiu-web-developer		Fintech Galaxy	Software Engineer (PHP, Laravel)	28 Jun 2022			Secondary Target		
-George	Naftanaila	https://www.linkedin.com/in/george-naftanaila-1712267		Pentalog	Engineering Director	22 Oct 2018			Primary Target		
-Simona	Serban	https://www.linkedin.com/in/siserban		eMAG	People & Organisation Director - eMAG Tech Organisation	06 Dec 2012			Primary Target		
-Tudor	Constantinescu	https://www.linkedin.com/in/tudor-constantinescu-56aa034a		PROPHESEE	Software Systems Director	10 Jul 2012			Primary Target		
-Paweł	Tomczuk	https://www.linkedin.com/in/paweltomczuk		TechTree	Founder & CEO	20 Mar 2024			Primary Target		
-Catalin	Ungureanu	https://www.linkedin.com/in/catalin-ungureanu-5a0b9b99		Digital Yield	Founder & Managing Partner	03 Jan 2024			Primary Target		
-Dan	Suciu	https://www.linkedin.com/in/dan-suciu		Cluj Hackathon	Co-Founder	06 Oct 2023			Primary Target		
-Heorhii	Skoropad	https://www.linkedin.com/in/heorhii-skoropad		EVA - Philippines and Indonesia Manpower	CVO and Co-Founder	28 Jun 2022			Primary Target		
-Ioana	Patrui	https://www.linkedin.com/in/ioanapatrui		360Talent Co.	HR Managing Partner & Owner	10 Mar 2022			Primary Target		
-Stefano	Iervolino	https://www.linkedin.com/in/stefano-iervolino-3254a358		Fly Go Voyager	Founder & Ceo	27 Oct 2021			Primary Target		
-Adrian	Stanescu	https://www.linkedin.com/in/adrian-stanescu-095543140		Workit Romania	Owner and founder	27 Oct 2021			Primary Target		
-Daniel	Oltean	https://www.linkedin.com/in/daniel-oltean-10b0b81		FOSS Agency	Co-Founder	21 Jul 2020			Primary Target		
-Victor	Alex	https://www.linkedin.com/in/victor-alex-88395670		Netbee.co	CEO & Co Founder	09 Apr 2020			Primary Target		
-Laurentiu	Giurescu	https://www.linkedin.com/in/laurentiugiurescu		Soft Pepper	Founder & Managing Partner	09 Mar 2020			Primary Target		
-Octavian	Micu 🎯	https://www.linkedin.com/in/octavianmicu		Asigurăm Creditarea	✅ General Manager, Founder, 100% Owner 	24 Feb 2020			Primary Target		
-Adrian Paul	Ghițun	https://www.linkedin.com/in/adrian-paul-ghi%C8%9Bun-177ab281		NEOBYTES TECH	Mobile Consultant and Co-founder	17 Feb 2020			Primary Target		
-Ionut	Caval	https://www.linkedin.com/in/ionutcaval		Enduro Software	Co-Founder	06 Feb 2020			Primary Target		
-Monica Mihaela	Spiteri	https://www.linkedin.com/in/monicaspiteri		EarnDLT	Co-Founder	03 Feb 2020			Primary Target		
-Matei	Rogoz	https://www.linkedin.com/in/matei-rogoz-168716127		Kappa London	Co-Founder	26 Nov 2019			Primary Target		
-Alexandra	Lungu	https://www.linkedin.com/in/alexandra-lungu-929021140		One Stop HR	Co-Founder	19 Nov 2019			Primary Target		
-Ancu	Radu	https://www.linkedin.com/in/ancu-radu-61a36923		Loki - Paid Per Minute Audio, Video, Text Chats	Owner and CEO	12 Dec 2018			Primary Target		
-Alex	Balint	https://www.linkedin.com/in/alexandrubalint	alexandrubalint@gmail.com	Stripe	Head of Software Engineering, Payments Romania Site	24 Oct 2018			Secondary Target		
-Bogdan	Nicoară	https://www.linkedin.com/in/bogdan-nicoara		Bright Spaces	Founder & CEO	22 Aug 2018			Primary Target		
-Costina	Anastasescu	https://www.linkedin.com/in/costina-anastasescu-06aa4652		Hunt Executive Romania	Co-Founder - Partner, HR Outsourcing & Services	13 May 2018			Primary Target		
-Vivien	Untaru	https://www.linkedin.com/in/vivienuntaru		VON Consulting	Owner &CEO	03 Apr 2018			Primary Target		
-Mihai	Zaharia	https://www.linkedin.com/in/mihai-zaharia-4aa82562		Bunicel.ro	Founder & Owner	01 Mar 2018			Primary Target		
-Silvia	Marinescu	https://www.linkedin.com/in/silvia006		Chefs of Romania	Co-Founder	31 May 2017			Primary Target		
-Laura	Michaud	https://www.linkedin.com/in/laurammichaud		xpath.global	Chief Product Officer & Co-founder	07 Sep 2016			Primary Target		
-Bogdan	Anton	https://www.linkedin.com/in/bogdan-anton-809938113		Traista Urbana	Co-Founder	02 Feb 2016			Primary Target		
-Andreea	Istrati	https://www.linkedin.com/in/andreeaistrati		Hunt Recruitment Romania	Co-Founder - Partner, HR Recruitment & Services	02 Feb 2016			Primary Target		
-Cristina	Oprea Ciocoiu	https://www.linkedin.com/in/cristinaciocoiuoprea		QTeam Software Solutions	Co-Founder	20 Jun 2014			Primary Target		
-Georgiana	Dragomir	https://www.linkedin.com/in/georgianadragomir		Innerlook Consulting	Managing Partner, Head of Consulting, Psychology and Psychotherapy	26 Jul 2013			Primary Target		
-Marius	Baisan	https://www.linkedin.com/in/marius-baisan		Softbinator Technologies	Co-Founder & Advisor	01 Feb 2013			Primary Target		
-Dan	Grigoras	https://www.linkedin.com/in/dangrigoras		eSolutions Academy	Executive Director	18 Jul 2024	24/2/25		Primary Target		
-Armand	Codreanu	https://www.linkedin.com/in/armand-codreanu		iaBilet.ro	Full Stack Developer with Laravel	10 Feb 2025			Secondary Target		
-Giada	Salvo	https://www.linkedin.com/in/giada-salvo		LaunchDarkly	Director, Sales Development, EMEA & APAC	10 Jul 2023			Primary Target		
-Neal	Garman	https://www.linkedin.com/in/neal-garman		TechNG Ltd	Director	05 Nov 2022			Primary Target		
-Orazio	Principe	https://www.linkedin.com/in/orazio-principe		1X2 Network	Head of Engineering	24 Oct 2022			Primary Target		
-Cristian	Iosif	https://www.linkedin.com/in/ciosif		FilamentComponents.com	Founder & Lead Developer	13 May 2022			Primary Target		
-Mihai	Stoian	https://www.linkedin.com/in/mihai-s-9990b8109		Freelance	Freelance PHP Laravel Developer	04 Jan 2022			Secondary Target		
-Ioana	Sinca	https://www.linkedin.com/in/ioana-sinca-7722b876		GDM WEBMEDIA	PHP Backend Developer	27 Oct 2021			Secondary Target		
-Paul-James	Booth	https://www.linkedin.com/in/paul-james-booth-34127a173		IGT PlayDigital	Senior Director Product, Platforms & Tools	14 Oct 2021			Primary Target		
-Kharchenko	Ihor	https://www.linkedin.com/in/kharchenko-ihor-17352265		Digicode	Full stack software engineer	13 Oct 2021			Secondary Target		
-Dragos	Stanciu	https://www.linkedin.com/in/dragos-stanciu-4093467b		SEOmonitor.com	Head of Engineering	07 Oct 2021			Primary Target		
-Iulia	Istrate	https://www.linkedin.com/in/iuliaistrate		UiPath	Senior Director, Product Management	19 Jun 2020			Primary Target		
-George	Razvan	https://www.linkedin.com/in/george-razvan-stangaciu		SGRPFA	PHP Developer - Laravel	02 Jun 2020			Secondary Target		
-George	Nicola	https://www.linkedin.com/in/george-nicola-63176569		Indépendant	Lead Backend Engineer/Architect	21 Feb 2020			Secondary Target		
-Teodor	Grigor	https://www.linkedin.com/in/teogor		Marley Spoon	Technical Software Engineer Android	02 Feb 2020			Secondary Target		
-Cosmina	GUFFROY	https://www.linkedin.com/in/cosmina-guffroy-ukiyo		UKIYO Consulting	Managing Director	31 Jan 2020			Primary Target		
-Bill	Ward	https://www.linkedin.com/in/bill-ward-8306a7176		Jet Consulting Ltd	Director	27 Jan 2020			Primary Target		
-Cristiana	Cordos	https://www.linkedin.com/in/cristiana-cordos-a14496194		Hodfords	360 Recruitment Director	09 Dec 2019			Primary Target		
-Andy	Bitica	https://www.linkedin.com/in/andy-b-5a0770a3		Ideologiq	Director of Graphic Design	23 Sep 2019			Primary Target		
-Stefan Adrian	Marogel	https://www.linkedin.com/in/marogel		Brunomag Concept	Owner and CTO	02 Sep 2019			Primary Target		
-Justin	Borah	https://www.linkedin.com/in/justinborah		ConnexAI	Sales Director	27 Jun 2019			Primary Target		
-Alexandru	Voiculescu	https://www.linkedin.com/in/alexandru-voiculescu		PureQuad	Director	24 Apr 2019			Primary Target		
-Ivan	Bernat	https://www.linkedin.com/in/ivanbernat		Turing	Senior Director of Fulfilment, Enterprise	03 Jan 2019			Primary Target		
-Pierre	Manetti	https://www.linkedin.com/in/pierremanetti		Extia	Commercial Director Europe	12 Oct 2018			Primary Target		
-Robert Eduard	Herman	https://www.linkedin.com/in/hermaneduard		Machinas	Managing Director - Bucharest	07 Jun 2018			Primary Target		
-Monica	JIMAN	https://www.linkedin.com/in/monicajiman		Globant	TDC Director Europe & Middle East	05 Apr 2018			Primary Target		
-Thierry	BEAUCAMP	https://www.linkedin.com/in/thierry-beaucamp		2crypto.io	Founder | CTO & Product Delivery Manager	03 Apr 2018			Primary Target		
-Jan-Jaap	Arends	https://www.linkedin.com/in/jan-jaap-arends		CodeImpact B.V.	Founder / Solution architect	16 Feb 2018			Primary Target		
-🚀 Diana Ioana	Vlașin	https://www.linkedin.com/in/diana-vla%C8%99in		NEXT | Global headhunting	Founder | Technical recruiter | Scaling advisor	16 Oct 2017			Primary Target		
-Alexandru-Teodor	Iftimoaei	https://www.linkedin.com/in/alexandru-teodor-iftimoaei-8a7b7b24		SC TEXTILA SA	Director Adjunct	30 Aug 2017			Primary Target		
-Daniel	Sirbu	https://www.linkedin.com/in/sirbudaniel		ZONKWAVE	IT Manager/Full Stack PHP/Symfony/Laravel/Mentor IT	30 Aug 2017			Secondary Target		
-Gianinna	Romascu	https://www.linkedin.com/in/gianinnaromascu	gianinna@evolvetoday.ro	Evolve today Romania	Managing Director	30 Aug 2017			Primary Target		
-Lori	Haiducescu	https://www.linkedin.com/in/lorihaiducescu		Senior Software	Director operatiuni	12 Jun 2017			Primary Target		
-Narcisa-Laura	Bacau	https://www.linkedin.com/in/narcisabacau		ING Hubs Romania	Technical Product Owner / Product Manager	29 May 2017			Primary Target		
-Silvia	Stoica	https://www.linkedin.com/in/silvia-stoica-504351106		Playtika	Technical Product Owner	15 Feb 2017			Primary Target		
-Luminita	Petrache	https://www.linkedin.com/in/luminita-petrache-7952925		ARKANCE	HR Operations Director - EMEA Region	09 Jun 2016			Primary Target		
-Jasson	Michaud	https://www.linkedin.com/in/jasson-michaud		Ribbet	Creative Director	21 Mar 2016			Primary Target		
-Silviu	Stroe	https://www.linkedin.com/in/silviustroe		Brainic	Founder & CTO	28 Feb 2016			Primary Target		
-Viorela	Marcu	https://www.linkedin.com/in/viorelamarcu		UiPath	Director of Employee Experience	21 Jan 2015			Primary Target		
-Tudor	Neacsu	https://www.linkedin.com/in/tudor-neacsu-b3074225		TeamPro Strategy Consulting	Executive Director	27 Aug 2013			Primary Target		
-Alexandru	Benzari	https://www.linkedin.com/in/alexandru-b-46b83b101		CentralNic Registry	Software Engineering Manager	28 Jun 2022			Primary Target		
-Chris	Gyere	https://www.linkedin.com/in/chris-gyere-20a36bb8		Pentasia	Head of Practice - Tech & Operations Recruitment	03 Feb 2022			Low Priority		
-Marius	Costache	https://www.linkedin.com/in/mariuscostache	marius.costache.b@gmail.com	Onapsis	Software Engineering Manager	27 Oct 2021			Primary Target		
-Mihail	Serafim	https://www.linkedin.com/in/mihailserafim		Microsoft	Senior Software Engineering Manager	30 Jan 2020			Primary Target		
-Vlad	Durbaca	https://www.linkedin.com/in/vladdurbaca		Ipsos	Software Engineering Manager	16 Apr 2018			Primary Target		
-Laura	Preda	https://www.linkedin.com/in/laura-preda-33227b54		Microsoft	Software Engineering Manager	07 Jun 2016			Primary Target		
-Anicuta	Vasilache	https://www.linkedin.com/in/anicuta-vasilache-39126821		Anchor Grup SA	Head of Software Development	01 Nov 2015			Low Priority		
-Melby	Thomas	https://www.linkedin.com/in/melby-t-692662132		Innovation Incubator Advisory	Senior Software Engineer	10 Oct 2024			Secondary Target		
-Ionut	Balintoni	https://www.linkedin.com/in/ionutbalintoni		Qualia Executive Search	Managing Partner	28 May 2024			Primary Target		
-Codrin	Popa	https://www.linkedin.com/in/pcodrin	pcodrin96@gmail.com	Freelance	Full Stack Web Developer	20 Nov 2023			Secondary Target		
-Voloc	Andrei	https://www.linkedin.com/in/voloc-andrei-20b4571a6		webaz.ro	Founder	10 Oct 2023			Primary Target		
-Nicolae	Serban	https://www.linkedin.com/in/nicserban	nicolae.serbandb@gmail.com	Zitec	Senior Software Engineer	25 Jan 2023			Secondary Target		
-Rareș	Bană	https://www.linkedin.com/in/raresbana		woot.ro	Product Owner	21 Jan 2023			Primary Target		
-Rob	Owen	https://www.linkedin.com/in/rob-owen		Sandwell & West Birmingham NHS Trust	PHP Developer	20 Jan 2023			Secondary Target		
-Solange	BLUNDI	https://www.linkedin.com/in/solange-blundi		Freelance Web Development	Freelance Software Developer	14 Dec 2022			Secondary Target		
-mohamed	mostafa	https://www.linkedin.com/in/mohamed-mostafa-b76a20168		SoftwareONE	AWS Support Engineer	02 Nov 2022			Low Priority		
-Guillaume	Souillard	https://www.linkedin.com/in/guillaume-souillard		MyGuitare	Consultant Technique & Lead Développeur Laravel Vue/JS	08 Aug 2022			Secondary Target		
-Alexei	Khachatrian	https://www.linkedin.com/in/alexei-khachatrian		NGA - Next Generation Advanced	Senior Software Development Engineer	31 Jul 2022			Low Priority		
-Dragoș	Roșcuț	https://www.linkedin.com/in/dragos-roscut		Endava	PHP Developer	29 Jun 2022			Secondary Target		
-Mihai	Pricop	https://www.linkedin.com/in/mihaipricop		S.C. Leadsoft S.R.L.	PHP Developer	28 Jun 2022			Secondary Target		
-Elisa-Melania	Sferdian	https://www.linkedin.com/in/elisa-melania-sferdian-944269118		Canon Production Printing	Cloud Software Engineer	28 Jun 2022			Secondary Target		
-Adrian	Dobrescu	https://www.linkedin.com/in/adidobrescu		Endava	PHP Developer / Development Consultant	28 Jun 2022			Secondary Target		
-Alexandru-Sebastian	Boldisor	https://www.linkedin.com/in/alexandru-sebastian-boldisor-83058b1b1		Ropardo - Software Engineering	System Software Engineer	28 Jun 2022			Secondary Target		
-Andrei	Chirica	https://www.linkedin.com/in/andrei-chirica-163912127		eMAG	Software Developer	28 Jun 2022			Secondary Target		
-Tomasz	Drabik	https://www.linkedin.com/in/tomasz-drabik-76196175		Inte.Team	Full Stack Developer / Lead - Volunteering	28 Jun 2022			Secondary Target		
-Lidia	Lupu	https://www.linkedin.com/in/lidia-lupu-09095523b	lidia_elena_lupu@yahoo.com	Finastra	Software Developer	28 Jun 2022			Secondary Target		
-Andrei	Radu	https://www.linkedin.com/in/andrei-radu-dev		Remote Work	Software Developer with 3+ years | React | Typescript	28 Jun 2022			Secondary Target		
-Ștefan-Alexandru	Vladu	https://www.linkedin.com/in/stefanv23		Divine Solutions	Owner	28 Jun 2022			Primary Target		
-Norbert	Tamás	https://www.linkedin.com/in/tnconcept		SCAYLE Commerce Engine	Senior Full Stack Developer	28 Jun 2022			Secondary Target		
-Matthew	Evans	https://www.linkedin.com/in/mattevans88		All in Gaming	Founder	10 Mar 2022			Primary Target		
-Brian	Sadler	https://www.linkedin.com/in/wbsadler		Easy Direct Debits Limited	Senior Software Engineer	28 Feb 2022			Secondary Target		
-Alex	Mieila	https://www.linkedin.com/in/alexmieila		Raiffeisen Bank Romania	Java Software Developer	13 Jan 2022			Secondary Target		
-Alexandru	Matei	https://www.linkedin.com/in/alexandru-matei-b26751228		Joberty Romania	Senior Software Engineer	05 Jan 2022			Secondary Target		
-Alexandr	Sanzharovskiy	https://www.linkedin.com/in/alexandr-sanzharovskiy-735458145		IGT PlayDigital	PHP developer	24 Dec 2021			Secondary Target		
-Craciun	Iulian	https://www.linkedin.com/in/craciun-iulian-39b97a2		hello energy	Senior Software Engineer	28 Oct 2021			Secondary Target		
-Grigore	Rusnac	https://www.linkedin.com/in/grigore-rusnac		Software Mind Romania & Moldova	Java Software Engineer	27 Oct 2021			Secondary Target		
-Ionuț	Dănilă	https://www.linkedin.com/in/ionutdanila		Bolt	Senior Software Engineer	27 Oct 2021			Secondary Target		
-Costinel	Cocovean	https://www.linkedin.com/in/costinel-cocovean-7b8882181		MEDILIS TECHNICAL SOLUTIONS SRL	PHP Developer	27 Oct 2021			Secondary Target		
-Gregorio Benjamin	Gullo	https://www.linkedin.com/in/benjitadev	benjadeveloper@gmail.com	Darwoft	Full Stack Developer	26 Oct 2021			Secondary Target		
-Theodora	Badulescu	https://www.linkedin.com/in/theodorahrxtoday		HRxToday™	Senior IT Recruiter | HR Consultant | Founder	26 Oct 2021			Primary Target		
-Janki	Chaudhari	https://www.linkedin.com/in/janki-chaudhari-700a5227		IGT PlayDigital	Software Engineer (dev) Manager 3	18 Oct 2021			Secondary Target		
-Ana	Sandu	https://www.linkedin.com/in/sanduana		mōtem	Founder	27 Jul 2021			Primary Target		
-Denis	JIFCU	https://www.linkedin.com/in/denis-jifcu-a25b44113		Play'n GO	Product Owner	23 Jun 2021			Primary Target		
-Laura	Nita-Ciurea	https://www.linkedin.com/in/laura-nita-ciurea		Zynala	Co-Owner	21 May 2021			Primary Target		
-Florina	Constantin	https://www.linkedin.com/in/florina-constantin-04151b152		eMAG	IT Product Owner	16 Apr 2021			Primary Target		
-Ąžuolas L.	Adlys	https://www.linkedin.com/in/azuolasladlys		House of People	Managing Partner (Recruiting Operations)	16 Apr 2021			Primary Target		
-Ivan	Theunissen	https://www.linkedin.com/in/ivantheunissen		Visionnear	Managing Partner	01 Apr 2021			Primary Target		
-Mihaela	Capitan	https://www.linkedin.com/in/mihaela-capitan-91904aba		Cyber Nest  Talent Acquisition	Managing Partner	06 Feb 2021			Primary Target		
-Flavian-Catalin	Pah	https://www.linkedin.com/in/flavian-catalin-pah-b86307102		Carpathia Investing Club	Founder & President	10 Dec 2020			Primary Target		
-Dragoș	Tarțău	https://www.linkedin.com/in/drago%C8%99-tar%C8%9B%C4%83u-47a7b925		Trieres - Software and IT&C Services	Managing Partner	30 Nov 2020			Primary Target		
-Yaroslav	Pokhyl	https://www.linkedin.com/in/yaroslav-pokhyl-aa246499		Complete Solar	Senior Software Engineer	20 Nov 2020			Secondary Target		
-Razvan	Topliceanu	https://www.linkedin.com/in/razvantopliceanu		Kubeshop	Software Engineer	03 Nov 2020			Secondary Target		
-Andreea-Valentina	Iote	https://www.linkedin.com/in/andreea-valentina-iote-135181152		New Business Dimensions	Support Engineer & Oracle + SQL Developer	27 Sep 2020			Secondary Target		
-Ionut-Alexandru	Muresan	https://www.linkedin.com/in/ionut-alexandru-muresan-176628193		accesa.eu	Front End Software Engineer/Angular	04 Sep 2020			Secondary Target		
-Mihnea	Stoian	https://www.linkedin.com/in/mihnea-stoian-9a918a18b		Veve Geek	Founder	28 Jul 2020			Primary Target		
-Catalin	Stan	https://www.linkedin.com/in/catalin-stan-38288466		Free Soft SCG	Senior Software Engineer	24 Jun 2020			Secondary Target		
-Alin	Metesan	https://www.linkedin.com/in/alinmetesan	alin@espaceit.ro	In Afaceri	Owner	17 Jun 2020			Primary Target		
-Andreea	Topliceanu	https://www.linkedin.com/in/andreea-topliceanu-86979298		Revolut	Technical Recruiter - Engineering	16 Jun 2020			Secondary Target		
-Erhan	Abibula	https://www.linkedin.com/in/erhan-abibula		Adobe	Senior Software Engineer	02 Apr 2020			Secondary Target		
-Nikita	Gruia	https://www.linkedin.com/in/gruia-dev		AutoDS - Automatic Dropshipping Tools	Senior Python Engineer	29 Mar 2020			Low Priority		
-Afonso	Costa	https://www.linkedin.com/in/afonso-costa-38631911a		AWAREWAYS	PHP Developer	27 Mar 2020			Secondary Target		
-Teodor	Arteni	https://www.linkedin.com/in/teodorarteni		Freelance	Senior Software Engineering Consultant	11 Mar 2020			Secondary Target		
-Nicolae-Dan	Mutu	https://www.linkedin.com/in/nicolaedanmutu		Adcelerum Digital Agency	🤙 Small Business Owner	05 Mar 2020			Primary Target		
-Ovidiu	Muntean	https://www.linkedin.com/in/ovidiu-muntean		IMAWO INC	Senior Android Software Engineer	27 Feb 2020			Secondary Target		
-Elena Alexandra	Juverdeanu	https://www.linkedin.com/in/elena-alexandra-juverdeanu-74a28514a		Expert Network	Product Owner	26 Feb 2020			Primary Target		
-Dana	Ardeleanu	https://www.linkedin.com/in/dana-ardeleanu-691693125		eMAG	Software Engineer	25 Feb 2020			Secondary Target		
-Adrian	Dumitrana	https://www.linkedin.com/in/adriandumitrana		Cognizant Softvision	Software Engineer	24 Feb 2020			Secondary Target		
-Cristi	Cosofret	https://www.linkedin.com/in/cristi-cosofret-66523869		BeeNear	Full Stack Developer	23 Feb 2020			Secondary Target		
-Sebastian	Teodorescu	https://www.linkedin.com/in/sebastian-teodorescu-05a11aa1		Salt Bank	Senior Software Engineer	23 Feb 2020			Secondary Target		
-Alexandru	Efimov	https://www.linkedin.com/in/alexandruefimov		Cisco	Engineering Technical Lead	18 Feb 2020			Low Priority		
-Cosmin	Mavrichi	https://www.linkedin.com/in/cosmin-mavrichi		Sportserve	Senior Software Engineer - Java	17 Feb 2020			Secondary Target		
-Marius-Sorin	Stratulat	https://www.linkedin.com/in/smariussorin		Heimdal®	Software Architect	17 Feb 2020			Low Priority		
-Andreea	Gheorghiță	https://www.linkedin.com/in/andreea-gheorghita-910598b6		Storyclash	PHP Developer	17 Feb 2020			Secondary Target		
-Cristi	Sava	https://www.linkedin.com/in/imcristi		CSE Sound & Lights	Company Owner	15 Feb 2020			Primary Target		
-Andra	Radu	https://www.linkedin.com/in/raduandra		Freelance / Contract / Self-Employed	Senior DevOps Engineer  | Azure Cloud Architect	14 Feb 2020			Low Priority		
-Anca	Solot	https://www.linkedin.com/in/anca-solot-060160145		Tutored by Teachers	Full Stack Engineer	11 Feb 2020			Secondary Target		
-Marian	Tătărău	https://www.linkedin.com/in/marian-t%C4%83t%C4%83r%C4%83u-a87b4a55		DontPayFull	Full Stack Developer	11 Feb 2020			Secondary Target		
-Alexandru	Diaconu	https://www.linkedin.com/in/aldiaconu		Schedulicity	Principal Software Engineer - Native Applications Lead	10 Feb 2020			Secondary Target		
-Alina	Zimțea	https://www.linkedin.com/in/alina-zim%C8%9Bea-02237299		risico systems	Senior Software Developer	10 Feb 2020			Secondary Target		
-Diana	Vodă	https://www.linkedin.com/in/vodadiana		Tremend Software Consulting	Senior Software Engineer	07 Feb 2020			Secondary Target		
-Andreea Elena	Florea	https://www.linkedin.com/in/andreea-elena-florea-10		European Commission	Senior Full Stack Developer	06 Feb 2020			Secondary Target		
-Iulian	Cata	https://www.linkedin.com/in/iulian-cata		Cognizant Softvision	Software Engineer	06 Feb 2020			Secondary Target		
-Maria	Radu	https://www.linkedin.com/in/maria-radu-225949ba		ING Hubs Romania	Java Software Engineer	06 Feb 2020			Secondary Target		
-Sergiu	Mogan	https://www.linkedin.com/in/sergiu-mogan-78b76087		Sonova Group	Senior Mobile Software Engineer	06 Feb 2020			Secondary Target		
-Sorin	MARIAN	https://www.linkedin.com/in/sorin-marian		freelancer	Senior Backend Engineer	06 Feb 2020			Secondary Target		
-Bogdan Alexandru	Militaru	https://www.linkedin.com/in/bogdan-alexandru-militaru		Manager Flota	Founder of Manager Flota	05 Feb 2020			Primary Target		
-Marius	Ghitoiu	https://www.linkedin.com/in/mariusghitoiu		Initial Commit	Founder	04 Feb 2020			Primary Target		
-Mircea	Troaca	https://www.linkedin.com/in/mircea-troaca-080293120		Lenovo	DevOps/AI Technical Engineer	04 Feb 2020			Low Priority		
-Ene	Mihai Claudiu	https://www.linkedin.com/in/enemihaiclaudiu		froots	Senior PHP Developer - Team Lead	03 Feb 2020			Secondary Target		
-Cristian	Popa	https://www.linkedin.com/in/cristian-popa-589189152		Thales	Software Engineer	02 Feb 2020			Secondary Target		
-⭐Sorin	Olteanu	https://www.linkedin.com/in/sorinolteanu	sorin.olteanu90@gmail.com	Invibes Advertising	Technical Solutions Engineer	24 Dec 2019			Low Priority		
-Dragos	Padineanu	https://www.linkedin.com/in/dragos-padineanu-011592a5		Premier Properties	Senior Sales Manager- owner	18 Dec 2019			Primary Target		
-Andrei	Vlad	https://www.linkedin.com/in/andrei-vlad18		Grubhub	Senior Software Engineer	14 Aug 2019			Secondary Target		
-Yash	Shah	https://www.linkedin.com/in/yashshah0597		Our National Conversation (ONC)	Software Engineer Intern (Machine Learning)	19 Jul 2019			Secondary Target		
-Alice Flavia	Pirvu	https://www.linkedin.com/in/alice-flavia-pirvu-baba29103		Mastex Software SRL	Software Developer Dotnet	27 Apr 2019			Secondary Target		
-Alex	Rosca	https://www.linkedin.com/in/fartat		Prologue Advertising	Managing Partner	09 Apr 2019			Primary Target		
-Andi	Stoica	https://www.linkedin.com/in/andistoica		GAMEXPERT	Founder	05 Apr 2019			Primary Target		
-Emil	Muthu	https://www.linkedin.com/in/emil-muthu		Neurony	Managing Partner	21 Mar 2019			Primary Target		
-Cornelia	Vizental	https://www.linkedin.com/in/cornelia-vizental-22122a10		Naiya	Managing Partner	18 Feb 2019			Primary Target		
-Timur	Poperecinii	https://www.linkedin.com/in/timur-poperecinii		Modus 10	Senior Laravel Developer	17 Dec 2018			Secondary Target		
-Marcel	Turcan	https://www.linkedin.com/in/marcelturcan		Milestone Technology	Software Engineer	14 Dec 2018			Secondary Target		
-Andrei	Puiu	https://www.linkedin.com/in/andrei-puiu-profile		Self-employed	Freelance Full Stack Engineer	14 Dec 2018			Secondary Target		
-Amada	Matei	https://www.linkedin.com/in/amada-matei		Cognizant Softvision	Software Quality Assurance Engineer	13 Nov 2018			Low Priority		
-Anand	Dattani	https://www.linkedin.com/in/dattanianand		Self-employed	Freelance Software Developer	10 Nov 2018			Secondary Target		
-Catalin Nicolae	Anghel	https://www.linkedin.com/in/catalin-nicolae-anghel-408a5716		Top-Rate IT Education SRL	Managing Partner	06 Nov 2018			Primary Target		
-Adrian	Voicu	https://www.linkedin.com/in/adrian-voicu-avenirer		Globant	Full Stack Web Developer	29 Oct 2018			Secondary Target		
-Ioan	Chera	https://www.linkedin.com/in/ioan-chera-1800b91b		Globant	Senior System Software Engineer II	27 Sep 2018			Secondary Target		
-Roxane	Capodagli	https://www.linkedin.com/in/roxane-capodagli-9857b2a9		Season	Cheffe de projet / Product Owner	18 Jul 2018			Primary Target		
-Cazacu	Razvan	https://www.linkedin.com/in/cazacurazvan		CityPRO	Founder	18 Jul 2018			Primary Target		
-Florentina	A.	https://www.linkedin.com/in/florentinaa		Human HR	Founder and Talent Acquisition Manager	09 Jul 2018			Primary Target		
-Anja	Brandt	https://www.linkedin.com/in/anja-brandt-8908354		Jetconsulting	Owner	23 Feb 2018			Primary Target		
-Gabriel	Trandafirescu	https://www.linkedin.com/in/rosentall-coaching		Archetype	Founder	18 Feb 2018			Primary Target		
-Elena	Baron	https://www.linkedin.com/in/elena-baron-52282924		Freelancer IT	Founder	18 Feb 2018			Primary Target		
-Cristina Maria	Bitu	https://www.linkedin.com/in/cristina-maria-30092017		Elite Hire Consulting	Talent Acquisition Consultant & Founder	14 Feb 2018			Primary Target		
-Marius Viorel	Dinca	https://www.linkedin.com/in/marius-viorel-dinca-b1190b15		Active Life Romania	Business Owner & General Manager	31 Jan 2018			Primary Target		
-George	Cristescu	https://www.linkedin.com/in/gecristescu		Pineapple Media Interactive	Owner	31 Jan 2018			Primary Target		
-Florin	Bera	https://www.linkedin.com/in/florin-bera-60710478		Tripadvisor	Senior Software Engineer	12 Jan 2018			Secondary Target		
-Andreea	Radu	https://www.linkedin.com/in/raduandreea		She is Mom	Founder	17 Nov 2017			Primary Target		
-Cristian	Bîrlea - Exclusivitate NOVA	https://www.linkedin.com/in/cristian-b%C3%AErlea-exclusivitate-nova-2898b746		Exclusivitate NOVA	Real Estate Broker/Co-Owner	16 Oct 2017			Primary Target		
-Maria	Stanciu	https://www.linkedin.com/in/maria-stanciu-05392264		TotalSoft	Technical Consultant/SQL Developer	16 Oct 2017			Secondary Target		
-Monica	Urziceanu	https://www.linkedin.com/in/monica-urziceanu-82ba254b		FABRIKA HR	Founder & Talent Partner -  Headhunting & more	03 Sep 2017			Primary Target		
-Corina	Hodorogea	https://www.linkedin.com/in/corinahodorogea		SELO	Co-Owner	07 Jul 2017			Primary Target		
-Ciprian	Harabagiu	https://www.linkedin.com/in/ciprianharabagiu		Decalex Digital	Managing Partner	29 Jun 2017			Primary Target		
-Cristian	Boba	https://www.linkedin.com/in/cristianboba		Rakuten Travel Xchange	Software Engineer	21 Jun 2017			Secondary Target		
-Lucian	Apetre	https://www.linkedin.com/in/lucian-apetre-45727429		Expero	Software Engineering Consultant	30 May 2017			Secondary Target		
-Iunia	Lugoji	https://www.linkedin.com/in/iunia-lugoji-82778364		Freelance (Self employed)	Senior Software Engineer	11 Apr 2017			Secondary Target		
-Costin	Moraru	https://www.linkedin.com/in/costinmoraru		Exivity	Software Engineer	07 Apr 2017			Secondary Target		
-Ana	Giurca	https://www.linkedin.com/in/anagiurca		Brainspotting	Managing Partner	07 Apr 2017			Primary Target		
-Catalina	Postolache	https://www.linkedin.com/in/catalina-postolache-885277b3		Just Eat Takeaway.com	Senior Software Engineer	01 Feb 2017			Secondary Target		
-Daniela	Stoian	https://www.linkedin.com/in/daniela-stoian-a3035782		EPAM Systems	Software Testing Engineer	16 Jan 2017			Low Priority		
-Iulian	Neculai	https://www.linkedin.com/in/iulian-neculai-12150ab6		Ateliere Creative Technologies	iOS Software Engineer	01 Aug 2016			Secondary Target		
-Emanuel	Bucsa	https://www.linkedin.com/in/emanuelbucsa		Ensemble Software Romania	Software Developer	10 Jul 2016			Secondary Target		
-Elena	Florea 🌼	https://www.linkedin.com/in/elena-florea		Suvoda	Software Test Engineer	09 Jun 2016			Low Priority		
-Cristina	Lixandru	https://www.linkedin.com/in/cristina-lixandru-bb354957		HR Gold	HR Managing Partner	07 Jun 2016			Primary Target		
-Florian	Iancu	https://www.linkedin.com/in/florianiancu		Oracle	Software Engineer	14 Apr 2016			Secondary Target		
-Lucian	Marin	https://www.linkedin.com/in/lucian-marin		Moonstar.ai	Head of Product	13 Apr 2016			Primary Target		
-Bogdan	Stroescu	https://www.linkedin.com/in/bogdanstroescu		Orange Services	Senior Java Software Engineer	28 Feb 2016			Secondary Target		
-Catalin	Modorcea	https://www.linkedin.com/in/catalinmodorcea		Freelance	Enterprise Program Manager & Product Owner	17 Feb 2016			Primary Target		
-Roxana	Dafinoiu	https://www.linkedin.com/in/roxana-dafinoiu		Cognizant	Java Software Engineer	16 Nov 2015			Secondary Target		
-Andrei	Manea	https://www.linkedin.com/in/andrei-manea		SSAB AG	Technical Bidding Engineer	13 Nov 2015			Low Priority		
-Anca	Dogar	https://www.linkedin.com/in/ancadogar		ING Hubs Romania	Full Stack Developer	09 Jun 2015			Secondary Target		
-Cristian	Dinu	https://www.linkedin.com/in/dinucristian		Oracle	Oracle CX Sales and B2B Service Technical Support Engineer	19 May 2015			Low Priority		
-Vlad-Alexandru	VASILE	https://www.linkedin.com/in/vlad-alexandru-vasile-8b081986		Euler Hermes	Software Engineer	28 Dec 2014			Secondary Target		
-Dan	Romescu	https://www.linkedin.com/in/dromescu		Sanawerk Technology Sarl	Chief Executive Officer - Founder	12 Jun 2014			Primary Target		
-Cristina	Muntean	https://www.linkedin.com/in/cristina-muntean-b5587841		Primul Milion	Owner	22 May 2014			Primary Target		
-Alina	Meresescu	https://www.linkedin.com/in/alina-meresescu		Thales	Software Developer	08 Apr 2014			Secondary Target		
-Cristian Andrei	Mitroi	https://www.linkedin.com/in/andreimitroi		Betfair Romania Development	Software Engineer	21 Mar 2014			Secondary Target		
-Ionut	Taranu	https://www.linkedin.com/in/ionuttaranu		STIMA SOFT	Managing Partner	07 Feb 2014			Primary Target		
-Aneta	Neagomir	https://www.linkedin.com/in/aneta-neagomir-1b56a139		JumpingHouse	Managing Partner	25 Oct 2013			Primary Target		
-George	Serban	https://www.linkedin.com/in/georgeserban		Monsson Alma	Senior Software Engineer	27 Aug 2013			Secondary Target		
-Ştefan	Şovărel	https://www.linkedin.com/in/%C5%9Ftefan-%C5%9Fov%C4%83rel-50239536		Club Design SRL	Owner	03 Jul 2013			Primary Target		
-Madalin Ioan	Ene	https://www.linkedin.com/in/madalin-ioan-ene		Morningstar Sustainalytics	Senior Software Engineer	17 Oct 2012			Secondary Target		
-Victor	Carbune	https://www.linkedin.com/in/vcarbune		Google	Staff Software Engineer	11 Mar 2012			Secondary Target		
-Rareș	Adam	https://www.linkedin.com/in/arl		Self Employed	Recruitment Consultant | Freelancer | Independent contractor	21 Jan 2023			Primary Target		
-Ana	Dan	https://www.linkedin.com/in/ana-dan-509594253		Spitalul Universitar de Urgenta Bucuresti - Emergency University Hospital	Resident Doctor	26 Oct 2022			Primary Target		
-Paris	Michailos	https://www.linkedin.com/in/parismichailos		DatingLeads.com	Head of Recruitment & Culture	23 Aug 2022			Low Priority		
-Lars	Kollind	https://www.linkedin.com/in/lars-kollind-8583bb12		Swintt	Head of Business Development	22 Feb 2022			Low Priority		
-Francisco	Crespo	https://www.linkedin.com/in/francisco-crespo-805b574a		IGT PlayDigital	Engineering Manager	01 Dec 2021			Primary Target		
-🚀 Marian	Vasile	https://www.linkedin.com/in/nairamelisav		Blue Air	Head of Digital & Ancillaries	01 Nov 2021			Low Priority		
-Andrei	Stoia	https://www.linkedin.com/in/andrei-stoia-757b39107		Eightpoint	iOS Engineering Manager	27 Oct 2021			Primary Target		
-Georgian-Andrei	Oprisor	https://www.linkedin.com/in/georgian-andrei-oprisor-60859012b		Revolut	Head of People Product	27 Oct 2021			Low Priority		
-Joe	Henry Maybanks	https://www.linkedin.com/in/joe-henry-maybanks-90a507193		Select Tech - Dynamics. Cloud. Data	Delivery Lead	20 Sep 2021			Low Priority		
-Antonio	Di Pinto	https://www.linkedin.com/in/antoniodipinto		Tapistrii	Chief Technology Officer	20 Jun 2021			Primary Target		
-Luci	Savu	https://www.linkedin.com/in/luci-savu-4405682		Arnia Software	Head Of Recruitment	09 Nov 2020			Low Priority		
-Alexandru	Dumitrescu	https://www.linkedin.com/in/dxax		Femyo	Chief Technology Officer	07 Oct 2020			Primary Target		
-Sarah	James-O'Connell	https://www.linkedin.com/in/sarahjamesoc		Transition Partners	Head of DACH Recruitment	08 Jun 2020			Low Priority		
-Peri	Andy	https://www.linkedin.com/in/andy-perieteanu		TabaNET Technology Consulting	Head of Talent Acquisition EMEA	22 May 2020			Secondary Target		
-Nirav	Gohil	https://www.linkedin.com/in/nirav-gohil-742276194		TecMantras	CEO	03 Mar 2020			Low Priority		
-Ionut	Pistol	https://www.linkedin.com/in/ionutpistol		European Patent Office	Senior ReactJS Frontend Contractor	11 Feb 2020			Primary Target		
-Vali	Malinoiu ⚛	https://www.linkedin.com/in/0x4139		Humans.ai	Chief Technology Officer	05 Feb 2020			Primary Target		
-Gregory	Rondin	https://www.linkedin.com/in/gregoryrondin		Veridion (formerly Soleadify)	Head of Customer Success	04 Feb 2020			Low Priority		
-Vlăduţ Angel	Stan	https://www.linkedin.com/in/stanvladut		VESPR	Engineering Manager & Partner	18 Dec 2019			Primary Target		
-Stefan	Kis	https://www.linkedin.com/in/stefan-kis-4b931b116		Eyes of Wonder	Head of People and Operations	17 Dec 2019			Low Priority		
-Victor	Tudosa	https://www.linkedin.com/in/victor-tudosa		Webaround software	CEO	19 Jan 2019			Low Priority		
-Andrei	Ioniță	https://www.linkedin.com/in/doradosystems		Dorado Systems	CEO	20 Oct 2018			Low Priority		
-Anca	Copariu	https://www.linkedin.com/in/anca-copariu-725ba05		A-HEAT Allied Heat Exchange Technology AG	Head of Digital Strategy and Innovation	19 Oct 2018			Low Priority		
-🍻Bogdan	Duda	https://www.linkedin.com/in/bogdanthedude		BEE CODED	Chief Technology Officer	01 Sep 2018			Primary Target		
-Cornel	FATULESCU	https://www.linkedin.com/in/cornelfatulescu		Globant	CTO France & DACH Globant	03 Apr 2018			Primary Target		
-Benoit	Fillon	https://www.linkedin.com/in/benoitfillon		Powens (ex-Budget Insight)	CTO	03 Apr 2018			Primary Target		
-Alexandru	Pascu	https://www.linkedin.com/in/alex2pascu		Leanpay	Head of Operations | Member of the Board	07 Feb 2018			Low Priority		
-Petru	Metzger	https://www.linkedin.com/in/petru-metzger-89009017		Blankfactor	President, Global Head of Payments 	01 Feb 2018			Low Priority		
-Andreea	Pröll	https://www.linkedin.com/in/andreeaanton		MKP System Engineering	CEO	12 Dec 2017			Low Priority		
-Bogdan	Anuta	https://www.linkedin.com/in/bogdananuta		Waters Corporation	Engineering Manager	22 Oct 2017			Primary Target		
-Antonio	Coli	https://www.linkedin.com/in/acoli		Carmedia	CEO	01 Aug 2017			Low Priority		
-Doron	Marcu	https://www.linkedin.com/in/doron-m-6a5042aa		ZNAPP	CEO	11 Apr 2017			Low Priority		
-Claudia	Lunca	https://www.linkedin.com/in/claudialunca		Academia 1,61	Instructor	11 Apr 2017			Primary Target		
-Sonia	Damian	https://www.linkedin.com/in/soniabighiu		Crew Capital	Head of Platform & Community	10 Aug 2016			Low Priority		
-Cătălin	Hobeanu	https://www.linkedin.com/in/catalinhobeanu		NewCold	Agile Delivery Lead	17 Feb 2016			Low Priority		
-Sorin	Zavelita	https://www.linkedin.com/in/sorinzavelita		Ionic Partners	VP of Engineering	11 Feb 2016			Primary Target		
-Dan	Lazar	https://www.linkedin.com/in/dan-lazar-947344a6	lazar.v_dan@yahoo.com	TF Service	Head Of Research And Development	15 Dec 2015			Low Priority		
-Mihaela	Chiraples	https://www.linkedin.com/in/mdinu		Encora Inc.	Global PMO Head, Office of the CEO	11 Dec 2015			Low Priority		
-Diana	Balta	https://www.linkedin.com/in/diana-balta-691653105		coverletter.tech	Head of Talent Acquisition	08 Dec 2015			Secondary Target		
-Aida	Tudoroiu	https://www.linkedin.com/in/aida-tudoroiu		1&1 Internet Development	Head of Human Resources	25 Nov 2015			Low Priority		
-Stancu	Romina	https://www.linkedin.com/in/stancu-romina-224063106		Mirton-Barnutiu	Corector	22 Sep 2015			Primary Target		
-Maria	Chiriac	https://www.linkedin.com/in/maria-chiriac-53a1bb29		Deloitte Technology Romania	SAP SuccessFactors Consultant	10 Aug 2015			Primary Target		
-Rogier	Rouppe van der Voort	https://www.linkedin.com/in/rrjrouppevandervoort		PCN	CEO	12 May 2015			Low Priority		
-Cristian	Valcea	https://www.linkedin.com/in/cristianvalcea		Bionex Consulting	CEO	31 Jan 2015			Low Priority		
-PERFECT	CASA	https://www.linkedin.com/in/perfect-casa-0263a754		PERFECT CASA INTERMED SRL	Real Estate Agency	11 Feb 2013			Low Priority		
-Bogdan	Banculescu	https://www.linkedin.com/in/bogdan-banculescu-628a392		Ice and Sleep Lab	Instructor	12 Mar 2012			Primary Target		
-Cristina	Iosif	https://www.linkedin.com/in/cristina-twl		#Talentwelove	Senior Tech Recruiter	21 Jan 2025			Secondary Target		
-Mara	Morar	https://www.linkedin.com/in/maramorar		Brain Source	Technical Recruiter	14 Jan 2025			Secondary Target		
-Vladimir	Arjoca	https://www.linkedin.com/in/vladimir-arjoca-194397126		Orange Services	Network Engineer	14 Dec 2024			Low Priority		
-Maria	Chitu	https://www.linkedin.com/in/maria-c-9aa99a229		_VOIS	Test Engineer	25 Sep 2024			Low Priority		
-Florin	Bujoreanu	https://www.linkedin.com/in/florin-bujoreanu-5b2737118		Self Employed	Full-stack Developer	06 Aug 2024			Secondary Target		
-Irina	Cristian	https://www.linkedin.com/in/irina-cristian-896a9243		BE | Shaping The Future Romania	Technical Recruiter	24 Jul 2024			Secondary Target		
-Alexandru	Marchis	https://www.linkedin.com/in/alexandru-marchis-b0383952		Freelance	Software Tester	25 Jun 2024			Low Priority		
-Codreanu	Ioana-Andra	https://www.linkedin.com/in/codreanu-ioana-andra-07b8b4230		-	Full-stack Developer	12 Jun 2024			Secondary Target		
-DANIEL IULIAN	ROTARU	https://www.linkedin.com/in/daniel-iulian-r-05613331		IBM iX	Senior Android Developer	23 Apr 2024			Secondary Target		
-Lucian	Crivoi	https://www.linkedin.com/in/luciancrivoi		Tech Rec	360° Technical Recruiter	13 Oct 2023			Secondary Target		
-Alex	Cocut	https://www.linkedin.com/in/alex-cocut-6551941ab		Luxoft	Information Technology Researcher	12 Oct 2023			Low Priority		
-Bitra	Tulasi	https://www.linkedin.com/in/bitra-tulasi-472012233		CloudXtreme LLC	Technical Recruiter	10 Oct 2023			Secondary Target		
-Raluca	Stere	https://www.linkedin.com/in/raluca-stere-01a077168		Cegeka	ICT Talent Acquisition / Tech Recruiter	10 Oct 2023			Secondary Target		
-Andrew	Poodle	https://www.linkedin.com/in/arpoodle		IGT PlayDigital	Manager Database Engineering	03 Aug 2023			Low Priority		
-Ashley	Allen	https://www.linkedin.com/in/ashleyjcallen		Ash Allen Design	Freelance Web Developer	21 Jan 2023			Secondary Target		
-Anne-Claire	Buléon	https://www.linkedin.com/in/anne-claire-buleon		L'Agence by AC	Tech Talent Acquisition Specialist | Personal Branding Coach	18 Jan 2023			Secondary Target		
-Anca	M	https://www.linkedin.com/in/anca-m-401416247		TRON	Technical Recruiter	17 Jan 2023			Secondary Target		
-Karyna	Lebedenko	https://www.linkedin.com/in/karyna-lebedenko-608782236		Self Employed	Technical Talent Acquisition Specialist	14 Dec 2022			Secondary Target		
-Iulian-Cosmin	Andries	https://www.linkedin.com/in/iulian-cosmin-andries-854224199		Riverbed Technology	DevOps Engineer	10 Nov 2022			Low Priority		
-Razvan	Ionescu	https://www.linkedin.com/in/razvantheodorionescu		Veeam Software	EMEA Principal Technical Trainer	02 Nov 2022			Low Priority		
-Robert	Marin	https://www.linkedin.com/in/robert-marin-14289a18b	robert.marin@dxc.com	Luxoft	Information Technology Recruiter	30 Sep 2022			Secondary Target		
-Roxana	Miclea	https://www.linkedin.com/in/roxana-miclea-483a1b236		Northwest Partners	Technical Recruiter	29 Aug 2022			Secondary Target		
-Alexandra	Faur	https://www.linkedin.com/in/alexandra-faur-057143231		HCLTech	Information Technology Recruiter	23 Aug 2022			Secondary Target		
-Jack	Keenan	https://www.linkedin.com/in/jack-keenan-64274a65		Self-employed	Freelance Web Developer	04 Jul 2022			Secondary Target		
-Mihai	Cirjaliu	https://www.linkedin.com/in/mihai-cirjaliu-091395196		Prologue Advertising	Web Developer	01 Jul 2022			Secondary Target		
-Stefan Alexandru	Florea	https://www.linkedin.com/in/stefan-alexandru-florea-b92203232		ADP	Java Developer	28 Jun 2022			Secondary Target		
-Olena	Yatsun	https://www.linkedin.com/in/olena-yatsun-88b014241		K-Trend	Technical Manager	28 Jun 2022			Low Priority		
-Muhammed Said	ERDEM	https://www.linkedin.com/in/saiderdem		Alarko Contracting Group & Makyol İnşaat Sanayi Turizm ve Ticaret A.Ş.	Network Engineer	28 Jun 2022			Low Priority		
-Paul Dumitru	Purcel	https://www.linkedin.com/in/paul-dumitru-purcel-15684264		Cognizant Technology Solutions	Senior NodeJS Developer	28 Jun 2022			Secondary Target		
-Alexandru	Moș	https://www.linkedin.com/in/alex-mos		Contract & freelance	Full-stack web developer	28 Jun 2022			Secondary Target		
-Zota	Cosmin	https://www.linkedin.com/in/zota-cosmin-7858a014b		ContentSpeed, the eCommerce Agency	PHP Programmer	28 Jun 2022			Low Priority		
-Robert	Gheorghe	https://www.linkedin.com/in/robert-gheorghe-		Pocket Fun	Full-stack Developer	28 Jun 2022			Secondary Target		
-Kadambari	Bhardwaj	https://www.linkedin.com/in/kadambari-bhardwaj-115036168		Net2Source Inc.	Senior Technical Recruiter (UK/EU)	28 Jun 2022			Secondary Target		
-Mihai C.	Iliescu	https://www.linkedin.com/in/mihaiciliescu		NXP Semiconductors	Senior Hardware Engineer | I.MX Processors Family	20 May 2022			Low Priority		
-Cristi	Nica	https://www.linkedin.com/in/cristi-nica		VGW	Staff Engineer	14 May 2022			Low Priority		
-Alexandra	Mîrzea	https://www.linkedin.com/in/alexandraam		AMS Accelerate IT	Information Technology Recruiter & Key Account Manager	03 May 2022			Secondary Target		
-Viktor	Pop	https://www.linkedin.com/in/viktor-pop-855567214		Brain Source Recruitment	Recruiter and Business Developer	03 Mar 2022			Secondary Target		
-Ionut	Petre	https://www.linkedin.com/in/ionut-petre-402479136		Deloitte	HR Business Partner - Manager - Deloitte Technology Delivery Center	21 Feb 2022			Secondary Target		
-Cicero	Alves Teago	https://www.linkedin.com/in/ciceroalvesteago		Quantum Recruitment	Technology Recruitment Consultant	21 Dec 2021			Secondary Target		
-👋 Oana	Martin	https://www.linkedin.com/in/oanamartin		METRO.digital	Technical Recruitment Expert/HR Consultant	15 Nov 2021			Secondary Target		
-Dimitriu	Roman	https://www.linkedin.com/in/dimitriu-roman-117a3ab		Optimatic Solutions	Senior Process Engineer: HAZID/ HAZOP CHAIRMAN	28 Oct 2021			Low Priority		
-Fedora Bianca	Radu	https://www.linkedin.com/in/fedora-bianca-radu-648102b4		Thinslices	Javascript Developer	27 Oct 2021			Secondary Target		
-Andreea Livia	Pascu	https://www.linkedin.com/in/andreeapotrocea		MRM	Technical Lead	27 Oct 2021			Low Priority		
-Roman	Pysanka	https://www.linkedin.com/in/pysanka-roman		Digicode	QA Engineer	27 Oct 2021			Low Priority		
-Ciprian	Mate	https://www.linkedin.com/in/ciprian-mate-997011127		CGM Software Romania	Senior Frontend Developer	27 Oct 2021			Secondary Target		
-Nurye	Nigus	https://www.linkedin.com/in/nryngs	nryngs2006@gmail.com	ABULKHASE PLC	Sales and service engineer	26 Oct 2021			Low Priority		
-Roman	Zarvanskyi	https://www.linkedin.com/in/roman-zarvanskyi-1116bb1b7		Hoverla Soft	Frontend Developer	26 Oct 2021			Secondary Target		
-Samuel	Labagnère	https://www.linkedin.com/in/samuel-labagnere		Discurv (ex Madeinvote)	Développeur Full Stack	26 Oct 2021			Secondary Target		
-Felipe	Oliveira	https://www.linkedin.com/in/flpe-olivier		Orsegups Participações S/A	Frontend Developer	26 Oct 2021			Secondary Target		
-Valentin-Sorin	Tolea	https://www.linkedin.com/in/valentin-sorin-tolea-a92a2312		iSoftBet	Information Technology System Administrator	15 Oct 2021			Low Priority		
-Mattia	Biscontini	https://www.linkedin.com/in/mattia-biscontini-2971a5211		Techedia (ICT Solutions)	Proclaim Developer	10 Sep 2021			Secondary Target		
-Nikola	Hartnell (Mlezivova)	https://www.linkedin.com/in/nikola-hartnell		Okta	Associate Solutions Engineer - corporate	05 Aug 2021			Low Priority		
-Joao	Cordeiro	https://www.linkedin.com/in/jlcordeiro		iSoftBet	UK Software Development Manager	23 Jul 2021			Low Priority		
-Paulo	Rodrigues	https://www.linkedin.com/in/paulo-rodrigues-4797a31a1		Eduplaytion	Senior Back End Developer	23 Jun 2021			Secondary Target		
-George	Zica	https://www.linkedin.com/in/george-z-2b3a0419b		ITLab Services & Security SRL	Information Technology Security Specialist	13 Jun 2021			Low Priority		
-Ana	Costache Macri	https://www.linkedin.com/in/ana-florina-costache		Knowledge Pillars	Chief Technology & Product Officer (CTPO)	29 Mar 2021			Low Priority		
-Anca	Dinu	https://www.linkedin.com/in/anca-d-046b02175		LSEG (London Stock Exchange Group)	Technical Writer	13 Jan 2021			Low Priority		
-Jean Joel	Kakou	https://www.linkedin.com/in/jean-joel-kakou		Microsoft	Dynamics CRM Support Engineer | CE Customizations	12 Nov 2020			Low Priority		
-Carmen-Maria	Petrescu	https://www.linkedin.com/in/carmen-maria-petrescu-427837147		TherCore	Lead Technical Recruiter	02 Oct 2020			Secondary Target		
-Karim	Issoufou	https://www.linkedin.com/in/karim-issoufou		Globant	Tech Advisor - Client Partner	17 Aug 2020			Low Priority		
-Cosmin	Baciu	https://www.linkedin.com/in/cosmin-baciu-76402b12b		Deloitte Digital Romania	Java developer	27 Jun 2020			Secondary Target		
-Maria	Dimitriu	https://www.linkedin.com/in/mariadimitriu29		Fortis Games	Senior Talent Acquisition Partner | Engineering	26 Jun 2020			Secondary Target		
-Andrei	Nedelus	https://www.linkedin.com/in/andreinedelus		Aperture Tech Labs	Senior React Developer	11 Jun 2020			Secondary Target		
-Vlad	Brisan	https://www.linkedin.com/in/vlad-brisan-4804a519		KejiLabs	Dynamics 365 F&O Architect & Consultant	26 May 2020			Secondary Target		
-Diana	Chiriacescu	https://www.linkedin.com/in/diana-chiriacescu		Freelance	Information Technology Recruitment Consultant	08 Apr 2020			Secondary Target		
-Dana Florența	Curculescu	https://www.linkedin.com/in/dana-curculescu		Ventures'n'Law	Technology Lawyer	29 Mar 2020			Low Priority		
-Ion Cosmin	Grigore	https://www.linkedin.com/in/grigorecosmin		Pearl Labs	Solidity Developer	15 Mar 2020			Secondary Target		
-Tresa	John	https://www.linkedin.com/in/tresa-john-98341ab5		Tesco Mobile	QA Automation Engineer	11 Mar 2020			Low Priority		
-Alexandra	Iamandii (Cuciureanu)	https://www.linkedin.com/in/alexandra-iamandii-cuciureanu-1481758a		Pentalog	Frontend Developer - Streamwide project	05 Mar 2020			Secondary Target		
-Sorin	Bahmata	https://www.linkedin.com/in/sorin-bahmata-109524a4		TiVo Romania Engineering Center (TREC)	Senior Java Developer	26 Feb 2020			Secondary Target		
-Cristina	Daj	https://www.linkedin.com/in/cristina-daj-3380b6191		Medicover	Information Technology Recruiter	25 Feb 2020			Secondary Target		
-George	Bitoleanu	https://www.linkedin.com/in/george-bitoleanu		IBM	Application Developer	24 Feb 2020			Secondary Target		
-Valentin	Marin	https://www.linkedin.com/in/valentinmarinro		wpdevel	Wordpress Developer	24 Feb 2020			Secondary Target		
-Duduman	Bogdan Vlad	https://www.linkedin.com/in/duduman-bogdan-vlad-5a02b330		8x8	Senior Frontend Developer	21 Feb 2020			Secondary Target		
-Teodor Madalin	Dumitru	https://www.linkedin.com/in/teodor-madalin-dumitru-0505a4191		Adobe	Big Data Engineer	21 Feb 2020			Low Priority		
-Mariana Monica	Vasile	https://www.linkedin.com/in/mariana-monica-vasile-755237162		Lucanet	Frontend Developer	21 Feb 2020			Secondary Target		
-Eduard	Omusoru	https://www.linkedin.com/in/eduard-omusoru-381743b		Crypto Finance Group	Lead Frontend Engineer	20 Feb 2020			Low Priority		
-Andreea	Bucurica	https://www.linkedin.com/in/andreea-bucurica-0a0a8943		Deloitte	Salesforce Developer	19 Feb 2020			Secondary Target		
-Hurba	Alexandru - Ionut	https://www.linkedin.com/in/hurba-alexandru-ionut-7b101727		Pentalog	Android Technical Team Lead	18 Feb 2020			Low Priority		
-Vlad	Gâdescu	https://www.linkedin.com/in/vlad-gadescu		The Access Group	Engineering Team Lead	17 Feb 2020			Low Priority		
-Andrei	Boz	https://www.linkedin.com/in/andrei-boz-68029b120		Expert Network	Dev Engineer	17 Feb 2020			Low Priority		
-Mihai	Coman	https://www.linkedin.com/in/mihai-coman-3ba78382		INNOBYTE	Senior Magento 2 Developer	17 Feb 2020			Secondary Target		
-Filip	Gheorghe	https://www.linkedin.com/in/filipgheorghe		YLOAD	Founding member - Back End Developer in R&D	14 Feb 2020			Secondary Target		
-Diana	Odea	https://www.linkedin.com/in/diana-odea-132a5b64		Sitline Technology	.NET Technical Lead	14 Feb 2020			Low Priority		
-Lucia	Toma	https://www.linkedin.com/in/lucia-toma-b24048a8		TicketSwap	Frontend Web Developer	14 Feb 2020			Secondary Target		
-Ilie	Sochirca	https://www.linkedin.com/in/ilie-sochirca-158a60106		KPN	DevOps Engineer	12 Feb 2020			Low Priority		
-Eduard	U.	https://www.linkedin.com/in/eduard-u-2267a133		Oracle	Senior Database Developer	10 Feb 2020			Secondary Target		
-Nicolae	Abacioaiei	https://www.linkedin.com/in/nicolae-abacioaiei		Amazon	Software Development Manager	10 Feb 2020			Low Priority		
-Mihai Andrei	Georgescu	https://www.linkedin.com/in/georgescumihai09		OLX Group	Senior iOS Developer	10 Feb 2020			Secondary Target		
-Mihai	Munteanu	https://www.linkedin.com/in/munteanumihai		RomSoft	Frontend Developer	07 Feb 2020			Secondary Target		
-Alex	Astrum	https://www.linkedin.com/in/alexastrum		Google	Developer Relations	06 Feb 2020			Secondary Target		
-Alexandru	Paşca	https://www.linkedin.com/in/alexpasca		Pentalog	Senior  .NET Developer - Team Leader	06 Feb 2020			Secondary Target		
-Alex	Toma	https://www.linkedin.com/in/alex-toma-47441a97		Arnia Software	Senior QA Automation Engineer	05 Feb 2020			Low Priority		
-Ioana Adriana	DOLTU	https://www.linkedin.com/in/ioana-adriana-doltu		Bigstep	QA Automation Software Tester	04 Feb 2020			Low Priority		
-Andrei	Panturu	https://www.linkedin.com/in/andrei-panturu-87885974		Custify	Lead Frontend Developer	03 Feb 2020			Secondary Target		
-Adrian	Magdalina	https://www.linkedin.com/in/adrian-m-a9683b10b		EPAM Systems	Back End Developer	03 Feb 2020			Secondary Target		
-Gheorghe	Cristian Gabriel	https://www.linkedin.com/in/crgheorghe		Arnia Software	QA Engineer	30 Jan 2020			Low Priority		
-Dan	Bite-Toma	https://www.linkedin.com/in/dan-bite-toma-9788a58		Geek Box	Java Architect/Consultant	30 Jan 2020			Secondary Target		
-Palade	Radu	https://www.linkedin.com/in/palade-radu		OMG, Inc.	Frontend Developer	30 Jan 2020			Secondary Target		
-Daniela	Anton	https://www.linkedin.com/in/daniela-anton-talent-journey		Xogito Group, Inc	International Technical Recruiter	30 Jan 2020			Secondary Target		
-Ana	Ionescu	https://www.linkedin.com/in/ana-ionescu-79b2a2b2		Reconomy	Technical Talent Acquisition Specialist	06 Jan 2020			Secondary Target		
-Alexandru	Farcas	https://www.linkedin.com/in/alexandru-farcas-a0014661		Dedeman	DevOps Engineer	20 Dec 2019			Low Priority		
-Delia	Crista	https://www.linkedin.com/in/delia-crista-b96a546		Akkodis	Senior Technical Recruiter	11 Dec 2019			Secondary Target		
-Maria	Cosmina C.	https://www.linkedin.com/in/maria-c-51029b146		vidaXL	Marketplace Technical Specialist with French	10 Dec 2019			Low Priority		
-Milena	Rotaru	https://www.linkedin.com/in/milena-rotaru		HRS Romania	Senior Technology Recruitment Consultant	21 Nov 2019			Secondary Target		
-Paul	Măduța	https://www.linkedin.com/in/paul-m%C4%83du%C8%9Ba-165336120		HELLA	System Engineer	12 Aug 2019			Low Priority		
-Alexandru	Stancu	https://www.linkedin.com/in/alexandru-stancu		XOPS CTRL	Site Reliability Engineer	05 Aug 2019			Low Priority		
-Cristina Theodora	Schnel	https://www.linkedin.com/in/cristinatheodoraschnel		R Systems	Information Technology Recruiter	27 Jun 2019			Secondary Target		
-Vasile	Putina	https://www.linkedin.com/in/vasile-putina-a8895326		Globant	Vice President of Technology	25 Jun 2019			Low Priority		
-Andrei-Mihai	Florea	https://www.linkedin.com/in/florea-andrei		Remote Work	Senior React Native Developer	28 May 2019			Secondary Target		
-Andrew	Thompson	https://www.linkedin.com/in/andrew-thompson-consol		RED Global	Practice Manager - Cloud I DevOps I Infrastructure - UK&I / Scandinavia	09 Apr 2019			Low Priority		
-Vlad	Moșoi	https://www.linkedin.com/in/vlad-mo%C8%99oi-6086ba139		CoreDux	Technical Operator	31 Mar 2019			Low Priority		
-malaxa	petru	https://www.linkedin.com/in/malaxa-petru-8243a0123		Agrogal  Galati	Agricultural Engineer	21 Mar 2019			Low Priority		
-Cristina Ioana	Capatina (Dinca)	https://www.linkedin.com/in/cristina-ioana-capatina-dinca-74150953		Pentalog	Web Developer	20 Mar 2019			Secondary Target		
-Victor	Ribac	https://www.linkedin.com/in/victor-ribac-614232143		Lislex	Marketing Automation Engineer	19 Oct 2018			Low Priority		
-Gabriel-George	Roman	https://www.linkedin.com/in/gabriel-george-roman-655a31112		RCS & RDS	NOC Transmission Engineer	27 Sep 2018			Low Priority		
-Stoian	Corina Maria	https://www.linkedin.com/in/stoian-corina-maria-4a3407161	stoiancorinamaria@gmail.com	Thales	Power BI Developer	01 Sep 2018			Secondary Target		
-Alexandra	Stanciu	https://www.linkedin.com/in/alexandra-stanciu		Arnia Software	Senior Frontend Developer	22 Jul 2018			Secondary Target		
-Alina Mihaela	Petre	https://www.linkedin.com/in/alina-mihaela-petre		NTT DATA Romania	Technical Recruiter	18 Jul 2018			Secondary Target		
-Valentin Alexandru	Fagetean	https://www.linkedin.com/in/valentin-alexandru-fagetean-b445b283		Eightpoint	QA Engineer	13 May 2018			Low Priority		
-Dan	Bodnar	https://www.linkedin.com/in/dan-bodnar-70359829		Volvo Cars	iOS Engineer on Volvo Cars app	27 Apr 2018			Low Priority		
-Adrian	Marina	https://www.linkedin.com/in/adrianmarina		PFA Marina Adrian	Software Consultant	03 Apr 2018			Secondary Target		
-Marian Alexandru	Dumitriu	https://www.linkedin.com/in/marian-alexandru-dumitriu-b14b85146		Ness Digital Engineering Romania	Senior QA Automation Engineer	03 Apr 2018			Low Priority		
-Georgiana	Zagrean	https://www.linkedin.com/in/georgiana-zagrean-836b1255		HRS Romania	Senior Technology Recruitment Consultant	29 Mar 2018			Secondary Target		
-Dragan	Daniel	https://www.linkedin.com/in/dragan-daniel-91484755		Digijobs	Senior Information Technology Recruiter	29 Mar 2018			Secondary Target		
-Liviu	Popescu	https://www.linkedin.com/in/liviu-popescu-721b40b5		CELAD	Technical Project Manager / Vendor IVI	07 Mar 2018			Low Priority		
-Alex	Andr	https://www.linkedin.com/in/alexa3		FREELANCE PLANET	Web Application Developer	18 Feb 2018			Secondary Target		
-Elena Madalina	Spiru	https://www.linkedin.com/in/elena-madalina-spiru		T-Systems Romania	ServiceNow Developer	15 Feb 2018			Secondary Target		
-Cristian	Onisor	https://www.linkedin.com/in/onisorcristian		AccentOnPeople.com	Tech Recruiter and COO	15 Feb 2018			Secondary Target		
-Andrei	CHIVU	https://www.linkedin.com/in/andrei-chivu		Scopeworker -  We are hiring!	Angular Developer	11 Feb 2018			Secondary Target		
-Petre	Pătraşc	https://www.linkedin.com/in/petrepatrasc		Dreamlabs	Solutions Architect	03 Feb 2018			Low Priority		
-Marius	Cimpoeru	https://www.linkedin.com/in/marius-cimpoeru-070070121		ALTEN Romania	Frontend Developer	01 Feb 2018			Secondary Target		
-Khaled	Marouani	https://www.linkedin.com/in/khaled-marouani-a42b7560		ENGIE Romania	Web Developer	31 Jan 2018			Secondary Target		
-Bogdan	Crisu	https://www.linkedin.com/in/bogdan-crisu-a411b189		Ezugi	Javascript Engineer	31 Jan 2018			Low Priority		
-Adriana	Andreescu	https://www.linkedin.com/in/adrianaandreescu		Dennemeyer	Software Tester	28 Nov 2017			Low Priority		
-Tiberiu	Dumitru	https://www.linkedin.com/in/tiberiu-dumitru-981a50122		European Commission	Frontend Developer	10 Nov 2017			Secondary Target		
-Ionela	Timoce	https://www.linkedin.com/in/ionela-timoce-0a3182a6		NTT DATA Romania	Talent Acquisition Manager, Embedded Technologies & Innovation & UI/UX| Human Resources|	10 Nov 2017			Secondary Target		
-Dana Alexandra	Chiroiu	https://www.linkedin.com/in/danachiroiu		MassMutual Romania	Technical Recruiter	06 Oct 2017			Secondary Target		
-Adrian	Rusen	https://www.linkedin.com/in/adrian-rusen-01742a140		Stefanini EMEA	Software QA Tester	14 Sep 2017			Low Priority		
-Mihaela	Enescu	https://www.linkedin.com/in/mihaela-enescu-45192b88		UniCredit	Full-stack Developer	12 Sep 2017			Secondary Target		
-Karim	Aloui	https://www.linkedin.com/in/karim-aloui-b938b8118		ARLANIS REPLY	Salesforce  Developer	08 Sep 2017			Secondary Target		
-DIANA	DIDEA	https://www.linkedin.com/in/diana-didea-1059974		Hewlett Packard Enterprise	Global HR - Head for Communication and Technology Group	03 Jul 2017			Secondary Target		
-Anka	Stan	https://www.linkedin.com/in/anka-stan-0647b554		Upwork	Technical Recuiter / Sourcer	30 May 2017			Secondary Target		
-Irina	Paduraru	https://www.linkedin.com/in/irina-paduraru-pif		_VOIS	nGUM 2nd Line Engineer SOX	19 Apr 2017			Low Priority		
-Madalina	Marin	https://www.linkedin.com/in/madalina-marin-412521128		Salt Bank	Senior Technical Recruiter	11 Apr 2017			Secondary Target		
-Claudiu	Tamas	https://www.linkedin.com/in/tmsclaudiu		Ascend NetSolutions	QA Engineer	11 Apr 2017			Low Priority		
-Marius	Micu	https://www.linkedin.com/in/marius-micu-50a26a111		Tain	Senior QA Engineer	07 Apr 2017			Low Priority		
-Adrian	Pandelea	https://www.linkedin.com/in/adrian-pandelea-6a428ba3		Cognizant Softvision	iOS Developer	16 Jan 2017			Secondary Target		
-Alexandra	Anghelina	https://www.linkedin.com/in/alexandrapopescuhr		Palo Alto Networks	Senior Tech Recruitment Business Partner EMEA	08 Dec 2016			Low Priority		
-Andrei	Scurtu	https://www.linkedin.com/in/ascurtu		Mindit.io	Front-end Developer	19 Oct 2016			Secondary Target		
-Razvan Gabriel	Danila	https://www.linkedin.com/in/razvan-gabriel-danila-3b01b992		MW Werften	Hull Detail Design Engineer	13 Apr 2016			Low Priority		
-Ioana	Motoran	https://www.linkedin.com/in/ioana-niculescu		Vodafone	OSS Transformation Senior Expert - Network Strategy and Engineering	11 Mar 2016			Low Priority		
-Iris-Denisse	Darvish	https://www.linkedin.com/in/iris-denisse-darvish-8aa75275		Hays	Tech Recruitment Consultant	26 Feb 2016			Secondary Target		
-Dan	Iosif	https://www.linkedin.com/in/dan-iosif		ClearRoute	Quality Cloud Architect	22 Feb 2016			Low Priority		
-Banica	Cosmin Alexandru	https://www.linkedin.com/in/banica-cosmin-alexandru-b0a17578		Deloitte Digital	Senior Information Technology Consultant / Performance Lead	17 Feb 2016			Secondary Target		
-Catalin	Radulescu	https://www.linkedin.com/in/catalinbuletin		Sincron HR Software	Senior PHP Programmer	17 Feb 2016			Low Priority		
-Laurentiu	Daisoreanu	https://www.linkedin.com/in/laurentiu-daisoreanu-49208490		The Estée Lauder Companies Inc.	Senior iOS Engineer	11 Feb 2016			Low Priority		
-Bogdan	Rosu	https://www.linkedin.com/in/bogdan-rosu-a78327112		FLOWX.AI	Solutions Architect	11 Jan 2016			Low Priority		
-Andrei	Vucicu	https://www.linkedin.com/in/andreivucicu		Record Ventures	Growth architect	15 Nov 2015			Low Priority		
-Soare	Danut Cosmin	https://www.linkedin.com/in/soare-danut-cosmin-642a32b9		Societe Generale	Support Developer	13 Nov 2015			Secondary Target		
-Claudiu	Jalba	https://www.linkedin.com/in/claudiuj		Nextus Solutions	Senior Web Developer	01 Nov 2015			Secondary Target		
-Vlad	Baicu	https://www.linkedin.com/in/vlad-baicu		Bentley Motors	Integration Engineer - Lighting	13 Jul 2015			Low Priority		
-Raluca	Enache	https://www.linkedin.com/in/raluca-enache-01876792		Teamnet	Java Developer	04 May 2015			Secondary Target		
-Diana	Lebediuc	https://www.linkedin.com/in/dianalebediuc		Deutsche Bank	QA Engineer	25 Feb 2015			Low Priority		
-Iulia	Zamfira	https://www.linkedin.com/in/iuliazamfira		Adobe	Sr. Talent Acquisition Partner, Engineering	18 Feb 2015			Secondary Target		
-Alexandru	Vrancianu	https://www.linkedin.com/in/vrancianualexandru		Microsoft	Engineering Recruiter	27 Jan 2015			Secondary Target		
-Traian	Chivu	https://www.linkedin.com/in/traian-chivu-2009861a		R-HR.RO	Recruiter & Business Developer	22 Oct 2014			Secondary Target		
-Teodora	Moroe	https://www.linkedin.com/in/teomoroe		Amazon Web Services (AWS)	Strategy & Operations Lead, Australia and New Zealand Solutions Architecture	20 Oct 2014			Low Priority		
-Marius	Mandoiu	https://www.linkedin.com/in/marius-mandoiu-22344435		Lenovo	Senior Product Engineer	02 Oct 2014			Low Priority		
-Dallassandra	Murgu	https://www.linkedin.com/in/dallassandra-murgu-b7291899		Groupe Renault	System Engineering Leader for Access and Protection Perimeter	29 Jul 2014			Low Priority		
-Ovidiu Gabriel	Guzgan	https://www.linkedin.com/in/ovidiu-gabriel-guzgan-71731168		European Economic and Social Committee	Senior Front End Developer - Consultant	27 May 2014			Secondary Target		
-Loredana	Banu	https://www.linkedin.com/in/loredana-banu-78780885		Deloitte	Senior Technical Consultant	23 May 2014			Secondary Target		
-Stefania-Violeta	Medelet	https://www.linkedin.com/in/stefania-medelet		Stefanini EMEA	Business Intelligence Developer	22 May 2014			Secondary Target		
-Mihai	Porojan	https://www.linkedin.com/in/mihai-porojan-a41a8563		Endava	Development Consultant / Technical Lead	22 May 2014			Secondary Target		
-Bogdan	Vaciu	https://www.linkedin.com/in/bogdan-vaciu-86917894		COSMO CONSULT	Senior Dynamics 365 F&O Technical Consultant	11 Apr 2014			Secondary Target		
-Cristina	Postelnicu	https://www.linkedin.com/in/cristina-postelnicu-74724743		AD/01	Sap Business Warehouse Developer	10 Apr 2014			Secondary Target		
-Andreea	Manea	https://www.linkedin.com/in/andreea-manea-76552840		Accenture	Microsoft D365 FO Functional & Technical Specialist	09 Apr 2014			Low Priority		
-Adelina	Trocan	https://www.linkedin.com/in/adelina-trocan-b197aa7b		ASML	Java Developer (Luxoft)	16 Jan 2014			Secondary Target		
-Vlad	Vadim	https://www.linkedin.com/in/vlad-vadim-11a69462		Honeywell Building Solutions	Field Services Engineer	08 Oct 2013			Low Priority		
-Silvia Elena	Stanculescu	https://www.linkedin.com/in/silvia-elena-stanculescu		Endava	Senior .NET Back End Developer	07 Sep 2013			Secondary Target		
-WALID	BENMAHMOUD	https://www.linkedin.com/in/walidbenmahmoud		Ericsson	Technical Authority Expert	19 Apr 2013			Low Priority		
-Robert-Alex	Vamanu	https://www.linkedin.com/in/vamanu-alex		Booking Holdings (NASDAQ: BKNG)	Senior Data Engineer	13 Mar 2013			Low Priority		
-Alex	Vida	https://www.linkedin.com/in/alex-vida-2205263a		ActiveColor	Lead Web Developer	11 Feb 2013			Secondary Target		
-Ioana	Angelescu	https://www.linkedin.com/in/ioanaangelescu		Microsoft	Sr Service Engineer @ Microsoft Advertising	08 Feb 2013			Low Priority		
-Elena	Paun, MBA	https://www.linkedin.com/in/elenampaun		Adobe	Senior Technical Account Manager	06 Dec 2012			Low Priority		
-Mihaela	Joian	https://www.linkedin.com/in/mihaelajoian		Cegeka Romania	HR Manager_Infrastructure Division	27 Sep 2012			Secondary Target		
-Georgiana	Paise	https://www.linkedin.com/in/georgianapaise		Lenovo	EMEA HR Partner - Solutions & Services Group (SSG) and Infrastructure Solutions Group (ISG)	26 Sep 2012			Secondary Target		
-Sorin	Lacriteanu-Georgescu	https://www.linkedin.com/in/sorin-lg		Nexthink	Senior DevOps Engineer	28 Aug 2012			Low Priority		
-Camelia	Hurghis	https://www.linkedin.com/in/cameliahurghis		Amazon Web Services (AWS)	Senior Technical Recruiter - Global Industry Business Units	02 Jul 2012			Secondary Target		
-Simona	Vintila	https://www.linkedin.com/in/simona-vintila-b1892b20		Microsoft	Support Escalation Engineer	26 Mar 2012			Low Priority		
-Andra	Carbunaru	https://www.linkedin.com/in/andracarbunaru		Intergo Telecom	Product Manager	07 Oct 2021			Primary Target		
-Madalin	Naum	https://www.linkedin.com/in/nmadalin	mnaum@adobe.com	Adobe	Product Manager	12 Feb 2020			Primary Target		
-Alina	Stoica	https://www.linkedin.com/in/alina-stoica		Microsoft	Senior Product Manager	22 Mar 2018			Primary Target		
-Cristina	Zamfirache	https://www.linkedin.com/in/cristina-zamfirache-886701142		Fashion Days Group	Junior Product Manager	04 Sep 2017			Primary Target		
-Cristian Dorian	Balan	https://www.linkedin.com/in/cristian-dorian-balan-8451b014		Ateliere Creative Technologies	Product Manager	03 Feb 2016			Primary Target		
-Costin-Adrian	Ene	https://www.linkedin.com/in/enecostin		Senior Software	Sales Team Lead	24 Jul 2024	24/2/25		Low Priority		
-Simona	Novacescu	https://www.linkedin.com/in/simona-novacescu-79232416		EPAM Systems	Talent Acquisition Manager	13 Feb 2025			Secondary Target		
-Radu	Metes	https://www.linkedin.com/in/radumetes		sezamo.ro	Chief Marketing Officer	10 Feb 2025			Low Priority		
-Jyothi	M	https://www.linkedin.com/in/jyothi-m-7a6365225		Sansaone	Talent Acquisition Specialist	14 Jan 2025			Secondary Target		
-Eugen L.	Marc	https://www.linkedin.com/in/eugen-l-marc		REI Development Services	Group IT Recruitment Specialist	14 Jan 2025			Low Priority		
-Sirarpi	Solomonyan	https://www.linkedin.com/in/sirarpi-solomonyan-4958a91b9		Blackscale Media	Talent Recruiter	04 Nov 2024			Secondary Target		
-Cosmin	Chelcea	https://www.linkedin.com/in/cosmin-chelcea-nicolae		NN Group	Financial Services Consultant	04 Nov 2024			Secondary Target		
-Yana	Ivanova	https://www.linkedin.com/in/yana-ivanova	yana.ivanova@andersenlab.com	Andersen Lab	IT Recruiter at Andersen Lab	27 Sep 2024			Secondary Target		
-Madalina Andreea	D.	https://www.linkedin.com/in/madalina-andreea-d-4889a8153		Deviqon Labs	People Manager || IT Recruiter	23 Sep 2024			Secondary Target		
-Sepehr	Dinarvand	https://www.linkedin.com/in/sepehrdibainfor		DataStax	Enterprise Account Executive	30 Aug 2024			Low Priority		
-Mariana	Tulean	https://www.linkedin.com/in/mariana-tulean08		IT Teams	IT Recruiter	28 Aug 2024			Secondary Target		
-Tosho	Trajanov	https://www.linkedin.com/in/tstrv		Hampton	Member	28 Aug 2024			Low Priority		
-Nataliia	Kosovska	https://www.linkedin.com/in/natalya-kosovska		United Software	Talent Sourcer	28 Aug 2024			Secondary Target		
-Mane	Andreevski	https://www.linkedin.com/in/mane-andreevski-53700330		Adeva	Senior Client Partner	27 Aug 2024			Low Priority		
-Gabriela	Pop	https://www.linkedin.com/in/gabriela-pop-69032031a		Self-employed	Programator	31 Jul 2024			Secondary Target		
-Elena	S	https://www.linkedin.com/in/elena-s-166531177		Freelance (Self employed)	Senior Recruitment Consultant	31 Jul 2024			Secondary Target		
-Nicolette	Borontis	https://www.linkedin.com/in/nicolette-borontis-9074a572		Serrala	Product Business Analyst	13 Jul 2024			Low Priority		
-Alexandra	Toma	https://www.linkedin.com/in/alexandra-toma-91236335		Betfair Romania Development	Talent Acquisition Specialist	25 Jun 2024			Secondary Target		
-Ivana	Kochmanova Zivkovska	https://www.linkedin.com/in/ivana-kochmanova-zivkovska-304b9916b		Adeva	Client Partner	25 Jun 2024			Low Priority		
-Serena	Dumitru	https://www.linkedin.com/in/serenadumitru		XWiki	HR&Admin	25 Jun 2024			Secondary Target		
-Larisa Mihaela	Gheorghe	https://www.linkedin.com/in/larisa-mihaela-gheorghe-825393132		IGT Solutions	Executive Recruiter	18 Jun 2024			Secondary Target		
-Sandeep	Sunkari	https://www.linkedin.com/in/sandeep-sunkari-31255b14b		SAGE IT	HR Operations	14 Jun 2024			Secondary Target		
-Rafik Fawzy	Soliman	https://www.linkedin.com/in/rafik-fawzy-soliman-46941830		Amazon Web Services (AWS)	Gen AI/ML Sales Specialist	10 Jun 2024			Low Priority		
-Mechelle	De La Torre Bolinas	https://www.linkedin.com/in/mbolinas		Speechify	Recruiter | Sourcer	29 Mar 2024			Secondary Target		
-Mihai	Comșa	https://www.linkedin.com/in/mihai-comsa88		Capgemini	IT&C/ SAP Recruitment and Employer Branding Manager	28 Mar 2024			Low Priority		
-Alexandra	Gheorghe	https://www.linkedin.com/in/alexandra-gheorghe-09149b239		Partnerd	Recruitment Consultant	15 Feb 2024			Secondary Target		
-Stefania	Neagoe	https://www.linkedin.com/in/stefania-neagoe-603180221		Sales Consulting	HR Consultant	13 Feb 2024			Secondary Target		
-Cristina	Plic-Borza	https://www.linkedin.com/in/cristina-plic-borza-2a7b86123		AXON-Soft	HR Specialist	15 Jan 2024			Secondary Target		
-Roxana Andreea	Damian	https://www.linkedin.com/in/roxana-andreea-damian-900782179		Hewlett Packard Enterprise	Global Operation Specialist	05 Jan 2024			Low Priority		
-Laura	Duma	https://www.linkedin.com/in/laura-duma-622179271		Oracle	Recruiter Coordinator	08 Dec 2023			Secondary Target		
-Nicoleta	Mocanu, PCC	https://www.linkedin.com/in/nicoleta-mocanu-pcc-b687264		Cabinet Individual de Psihologie Nicoleta Mocanu	Certified Professional Coach & CBT Psychotherapist	30 Nov 2023			Low Priority		
-Artur	Rarinca	https://www.linkedin.com/in/arturrarinca		Talentor Romania	IT Recruiter	28 Sep 2023			Secondary Target		
-Ana-Stefania	Alexandru	https://www.linkedin.com/in/ana-stefania-alexandru-5755581b7		Luxoft Romania	IT Recruitment Researcher	31 May 2023			Low Priority		
-Connor	Leyland	https://www.linkedin.com/in/connor-leyland-bb9978226		Evolution Nordics	Business Manager (Denmark)	04 May 2023			Low Priority		
-Stoia	Cosmin	https://www.linkedin.com/in/stoia-cosmin-zin023		IGT PlayDigital	Senior Graphic Designer	02 Mar 2023			Low Priority		
-Emily	Hedin	https://www.linkedin.com/in/emily-hedin-597b0718b		Elizabeth School of London	English Language Support Tutor	21 Feb 2023			Low Priority		
-Sarang	Sangamnerkar	https://www.linkedin.com/in/sarang-sangamnerkar-845671211		ALOIS Solutions	Talent Acquisition Specialist	16 Feb 2023			Secondary Target		
-Florian	Kalcher	https://www.linkedin.com/in/florian-k-792169150		Florian Kalcher IT Consulting	IT-Berater	01 Feb 2023			Low Priority		
-William	Adamson	https://www.linkedin.com/in/williamadamson		Warrantywise	IT Manager	30 Jan 2023			Low Priority		
-David	Ciolovan	https://www.linkedin.com/in/david-ciolovan-465ba0105		IGT PlayDigital	Partner Manager	28 Jan 2023			Low Priority		
-Jeremy	Leonard	https://www.linkedin.com/in/jeremy-leonard-b984561a8		TRG	Sales Executive	25 Jan 2023			Low Priority		
-Danylo	Konev	https://www.linkedin.com/in/danylo-konev-186b941b7		Self-employed	Marketing Strategist	18 Jan 2023			Low Priority		
-Ionela	Ioniță	https://www.linkedin.com/in/ionela-ioni%C8%9B%C4%83-bb86b320a		Seatbelt Consulting	Health & Safety Consultant	18 Jan 2023			Secondary Target		
-Andreea	Grosu	https://www.linkedin.com/in/andreea-grosu-248755114		Wellhub	Business Development Executive	05 Jan 2023			Low Priority		
-Tudor	Stirbetiu	https://www.linkedin.com/in/tudor-stirbetiu		Vodafone	Talent Acquisition Consultant	14 Nov 2022			Secondary Target		
-Elif	Samedin	https://www.linkedin.com/in/elifsamedin		Liber-profesionist	DevOps Consultant	02 Nov 2022			Secondary Target		
-Irina-Elena	Tărîță	https://www.linkedin.com/in/irina-elena-t%C4%83r%C3%AE%C8%9B%C4%83		AUTO1 Group	Talent Acquisition Specialist	29 Sep 2022			Secondary Target		
-Lara	Lynch	https://www.linkedin.com/in/lara-lynch-51b50010a		Kaseya	Senior Account Manager	27 Sep 2022			Low Priority		
-Amalia	Costea	https://www.linkedin.com/in/amalia-costea-037218149		Publicis Sapient	Talent Acquisition Specialist	29 Aug 2022			Secondary Target		
-Andrei	Rusu	https://www.linkedin.com/in/andrei-rusu-a3b1b110a		Legrand Romania	Business Development Manager	23 Aug 2022			Low Priority		
-Nina	Mihaylova	https://www.linkedin.com/in/nina-mihailova		ES Bright Consultants	Human Resources Manager	23 Aug 2022			Low Priority		
-Irina	Micu	https://www.linkedin.com/in/irina-micu-a5701122a		TWL Recruitment	Talent Growth Consultant	23 Aug 2022			Secondary Target		
-Maria	Alexandra	https://www.linkedin.com/in/maria-alexandra-9956a6232		TabaNET Technology Consulting	Talent Acquisition Specialist	23 Aug 2022			Secondary Target		
-Madalina	Constantin	https://www.linkedin.com/in/hellonicetomeetyou		Asociația The Social Incubator	Career Counselor	23 Aug 2022			Low Priority		
-Helena	McAlinden	https://www.linkedin.com/in/helena-mcalinden		Stripe	Account Executive UKI - Startup & SMB Lead	23 Aug 2022			Low Priority		
-Sofiia	Yanush	https://www.linkedin.com/in/sofiiayanush		Sharkscode	Talent Acquisition Manager	26 Jul 2022			Secondary Target		
-Bianca	Pop	https://www.linkedin.com/in/bianca-pop-14886416b		iSoftBet	Configuration Manager	05 Jul 2022			Low Priority		
-Radu Mihai	Tudoran	https://www.linkedin.com/in/radumihaitudoran		Concentrix Catalyst	Senior Business Manager	29 Jun 2022			Low Priority		
-Vlad	Benchea	https://www.linkedin.com/in/vlad-benchea-46b386173		OpenText	Team Lead Manager	29 Jun 2022			Low Priority		
-Federica	Maraschio	https://www.linkedin.com/in/federicamaraschio		Alpiq	Senior Talent Acquisition Manager	28 Jun 2022			Secondary Target		
-Andrei-Florin	TIMURLEA	https://www.linkedin.com/in/andrei-florin-timurlea		IGT PlayDigital	Games Development Team Leader	28 Jun 2022			Low Priority		
-Mihaela	Ionescu	https://www.linkedin.com/in/mihaelaionescu		Raw Geeks	Assistant Manager in Property Management and Recruitment Specialist	28 Jun 2022			Low Priority		
-Madalina	Butnariu	https://www.linkedin.com/in/madalina-butnariu-197a11113		Pentalog HR	Recruitment Lead Europe	28 Jun 2022			Low Priority		
-Oana	Muțiu	https://www.linkedin.com/in/oanamutiu		Bosch Romania	Human Resources Business Partner	28 Jun 2022			Low Priority		
-Laetitia	Panaitescu	https://www.linkedin.com/in/laetitia-panaitescu-9ba22a155		htss	IT Recruiter	28 Jun 2022			Secondary Target		
-Josh	Skurnik	https://www.linkedin.com/in/josh-skurnik-05605b74		Broadway Direct	Group Sales Associate	23 Jun 2022			Low Priority		
-Aleksandra	Gańko	https://www.linkedin.com/in/aleksandra-ganko		DLA Piper	Junior HR Specialist - Learning and Development Operations	23 Jun 2022			Secondary Target		
-Joshua A.	Dass	https://www.linkedin.com/in/joshuadass		Hanson Regan - Recruitment experts in ERP, SAP IT & associated technologies	Delivery Consultant	20 Jun 2022			Secondary Target		
-Maria	Langa	https://www.linkedin.com/in/maria-langa-80838122a		Connections Consult	Recruitment Analyst	24 May 2022			Low Priority		
-Adrian	Ivan	https://www.linkedin.com/in/adrianivan23		InCrys	Talent Acquisition Specialist	05 May 2022			Secondary Target		
-Velislava	Peneva	https://www.linkedin.com/in/velislava-peneva-2712a4105		REMOTE TECH LTD	Talent Acquisition Manager/ Project Executive	03 May 2022			Secondary Target		
-Daniela	MUREȘAN	https://www.linkedin.com/in/dana-mrsn		Betfair Romania Development	Talent Acquisition Specialist	21 Apr 2022			Secondary Target		
-Boris	Borisov	https://www.linkedin.com/in/bborisov	boris.borisov@remotemore.com	RemoteMore	Advisor	15 Apr 2022			Low Priority		
-Elisabeta	Moldoveanu	https://www.linkedin.com/in/elisabeta-moldoveanu		Gi Group Holding	Business Unit Manager Grafton Romania @GiGroupHolding	07 Apr 2022			Low Priority		
-Iryna	Mishchenko	https://www.linkedin.com/in/iryna-mishchenko-8b6118219		Hire&Flare	Recruiter	07 Apr 2022			Secondary Target		
-Ioana-Cristina	Cristea	https://www.linkedin.com/in/ioana-cristea-c8888		Green Energy Engineering	Business Development Consultant	22 Mar 2022			Secondary Target		
-Flavius B. Petru	DUMA	https://www.linkedin.com/in/flavius-duma-remote-recruiter		UPPER	Senior Talent Acquisition Specialist	22 Mar 2022			Secondary Target		
-Mădălina	Rus	https://www.linkedin.com/in/m%C4%83d%C4%83lina-rus-956038174		Cabinet individual de psihologie	Psiholog/ psihoterapeut cognitiv-comportamental	22 Mar 2022			Low Priority		
-Oleksandr	Bilibinskyi	https://www.linkedin.com/in/oleksandr-bilibinskyi-999a70212		Upwork	Freelance Recruiter	22 Mar 2022			Secondary Target		
-Mirona	Noru	https://www.linkedin.com/in/mirona-noru		Casa Capsa	Sales And Marketing Specialist	14 Mar 2022			Low Priority		
-Maria-Ruxandra	Băcanu	https://www.linkedin.com/in/maria-ruxandra-b%C4%83canu-05572422b		ALTEN Romania	Junior IT Recruiter	10 Mar 2022			Secondary Target		
-Andreea	Tusinean	https://www.linkedin.com/in/andreea-tusinean-9111b121a		Cognizant	Analyst	10 Mar 2022			Low Priority		
-Geanina	Chiluți	https://www.linkedin.com/in/geanina-chilu%C8%9Bi-904ba2150		Garmin Cluj	Senior Human Resources Generalist	10 Mar 2022			Low Priority		
-Angela	Buburuzan	https://www.linkedin.com/in/angela-buburuzan-a5691013a		Stefanini EMEA	Jr. Delivery Manager	10 Mar 2022			Low Priority		
-Carmen	Hliza	https://www.linkedin.com/in/carmenhliza		Medicover	Human Resources Business Partner	21 Feb 2022			Low Priority		
-Andreea	Gancea	https://www.linkedin.com/in/andreeagancea		Senior Software	IT Recruiter	17 Feb 2022			Secondary Target		
-Ramona Georgiana	Stan	https://www.linkedin.com/in/ramona-georgiana-stan-211753163		Pentalog HR	IT Recruiter	10 Feb 2022			Secondary Target		
-Maria	Sabaila	https://www.linkedin.com/in/mariasabaila		PlentyONE Development	Human Resources Manager	09 Feb 2022			Low Priority		
-Alexandra	Harcea	https://www.linkedin.com/in/alexandraharcea		Webgy Land	Operations Manager	09 Feb 2022			Low Priority		
-Cristina	Rautu	https://www.linkedin.com/in/cristina-rautu-994a3b84		Printify	Recruitment Lead	09 Feb 2022			Low Priority		
-Ajnácska	Gáll	https://www.linkedin.com/in/ajnacska		Accenture Romania	Program & Project Management Professional	08 Feb 2022			Low Priority		
-Oana Alexandra	Teslariu	https://www.linkedin.com/in/oana-alexandra-teslariu-3a0a2a214		Heaven Solutions	Executive Vice President	07 Feb 2022			Low Priority		
-Zsolt	KOVÁCS	https://www.linkedin.com/in/zsolt-kov%C3%A1cs-8b090014		Accenture	Senior Strategic Talent Sourcer	27 Jan 2022			Secondary Target		
-Veronica	Grigorie	https://www.linkedin.com/in/carmenveronicagrigorie		Jerry's Pizza	Human Resources Consultant	27 Jan 2022			Secondary Target		
-Ioana-Maria	Tiurean	https://www.linkedin.com/in/ioana-maria-t-4482a91b7		Emerson	Talent Acquisition Analyst	27 Jan 2022			Secondary Target		
-Irina	Rotaru	https://www.linkedin.com/in/irina-rotaru-683a5882		BDO Romania	Payroll Manager - Business Services & Outsourcing	27 Jan 2022			Low Priority		
-Tom	Lintsen	https://www.linkedin.com/in/tom-lintsen		Datadog	Mid Market Account Executive - UK/I	27 Jan 2022			Low Priority		
-Cristina	Tiulete	https://www.linkedin.com/in/cristina-tiulete-866962b4		Roweb	IT Recruiter	18 Jan 2022			Secondary Target		
-Valentin	Pasecinic	https://www.linkedin.com/in/valentin-pasecinic-91a63227		UPQODE	Web Project Manager	17 Jan 2022			Low Priority		
-Théodore	Autexier	https://www.linkedin.com/in/atxtheo		Accessi+	Web Accessibility Expert	13 Jan 2022			Low Priority		
-Daniel Constantin	Laza	https://www.linkedin.com/in/daniel-constantin-laza-ab5a2915a		HCL Technologies	Project Lead	06 Jan 2022			Low Priority		
-Madalina	Sirbescu (Popoiu)	https://www.linkedin.com/in/madalinapopoiu		Pentalog HR	Talent Growth Specialist	23 Dec 2021			Secondary Target		
-DAN CRISTIAN	ALEXANDRESCU	https://www.linkedin.com/in/dan-cristian-alexandrescu-marketing		WebSEM Marketing Digital	General Manager	22 Dec 2021			Low Priority		
-Alina	Linte	https://www.linkedin.com/in/alina-linte-0669aa7b		Linte Alina Cristina Cabinet Individual de Psihologie	Psychologist	14 Dec 2021			Low Priority		
-Alexandru	Puscas	https://www.linkedin.com/in/alexandru-puscas-7b1b6274		Luminos Labs	VP, Delivery	09 Dec 2021			Low Priority		
-Haybet	Ortiz	https://www.linkedin.com/in/haybet-ortiz-571ba0133		Games Global	People Administrator	09 Dec 2021			Low Priority		
-Alex	Piller	https://www.linkedin.com/in/alex-piller		Piller & Partners IT Recruitment	Recruitment Specialist	03 Dec 2021			Low Priority		
-Delia - Alexandra	Mihăilă	https://www.linkedin.com/in/delia-alexandra-mih%C4%83il%C4%83-b3a136182		Inetum	IT Talent Acquisition	24 Nov 2021			Secondary Target		
-Denisa	Maria	https://www.linkedin.com/in/denisa-maria-93766a218				24 Nov 2021			Low Priority		
-Robert	Cristian	https://www.linkedin.com/in/robert-cristian-9014031a5		Sage	Senior Global IT Recruiter contracted by AMS	20 Nov 2021			Secondary Target		
-Mussa	Ashfaq	https://www.linkedin.com/in/mussa-ashfaq-7435201b8		Grupo PAF	Freelance Graphic Designer	17 Nov 2021			Low Priority		
-Inés	Paris Cózar	https://www.linkedin.com/in/in%C3%A9sparisc%C3%B3zar		EMETEL	Técnico de Gestión de Talento	28 Oct 2021			Secondary Target		
-INTERBLOCK	TECH	https://www.linkedin.com/in/interblock-tech-48042719a		INTERBLOCK	Chief Executive Officer	28 Oct 2021			Low Priority		
-Anne	Muscat Scerri	https://www.linkedin.com/in/anne-muscat-scerri		Immense Group	Chief People Officer	27 Oct 2021			Low Priority		
-Soraya	González Piñeiro	https://www.linkedin.com/in/soraya-gonz%C3%A1lez-pi%C3%B1eiro-2b2008164		Revolut	People Specialist - Performance Operations	27 Oct 2021			Low Priority		
-Razvan	Eliad	https://www.linkedin.com/in/greliad		Kestria	Partner - Kestria Romania	26 Oct 2021			Low Priority		
-Trif	Sergiu	https://www.linkedin.com/in/trif-sergiu		Teleperformance	Customer Service Representative for E-commerce - English	26 Oct 2021			Low Priority		
-Alejandro Gabriel	Jiménez Canales	https://www.linkedin.com/in/alejandrojimenezcanales	alejandro.jimenez.canales@gmail.com	Alphanumeric Systems	Junior Recruiter	26 Oct 2021			Secondary Target		
-Alexander	Hignett	https://www.linkedin.com/in/alexander-hignett		Overseas RUFC	Rugby Player	22 Oct 2021			Low Priority		
-Iuliana	Rusu	https://www.linkedin.com/in/iuliana-rusu-28138926		Integritate pe bune	Project Manager	22 Oct 2021			Low Priority		
-Miruna	Crisu	https://www.linkedin.com/in/miruna-crisu-74635917		IGT PlayDigital	HR Business Partner	15 Oct 2021			Secondary Target		
-Valentin	Petrovici	https://www.linkedin.com/in/valentin-petrovici-9a3b5134		iSoftBet	Configuration / Game Release Manager	15 Oct 2021			Low Priority		
-Florina	Ciubotaru	https://www.linkedin.com/in/florina-ciubotaru-b4193619a		Orange	Well-being & Recognition Designer	07 Oct 2021			Low Priority		
-Dav	Johnson	https://www.linkedin.com/in/dav-johnson-083307221		DAG IT Consult	Digital Transformation Consultant	27 Sep 2021			Secondary Target		
-Cristina	Ionescu	https://www.linkedin.com/in/cristina-i-a1612bb8		Lucrător independent	IONESCU GEORGETA-CRISTINA PFA	20 Sep 2021			Low Priority		
-Bogdan	Birladianu	https://www.linkedin.com/in/bogdan-birladianu		Software Development Academy	Trainee	18 Sep 2021			Low Priority		
-Vlad	Martiniuc	https://www.linkedin.com/in/vlad-m-301943a0		Brillio	Senior Talent Acquisition Specialist	01 Sep 2021			Secondary Target		
-Mihaela	Pitulac	https://www.linkedin.com/in/mihaela-pitulac		AMD	Campus Talent Consultant	27 Jul 2021			Secondary Target		
-Oana	Irimia	https://www.linkedin.com/in/oana-irimia-25947420b		RAI Software	CallReplay	27 Jul 2021			Low Priority		
-Madalina	Manea	https://www.linkedin.com/in/madalina-manea-a271111b8		TMC Romania	HR Specialist IT Partner	23 Jun 2021			Secondary Target		
-Mihail	Popescu	https://www.linkedin.com/in/mihail-popescu-1a39691ba				11 Jun 2021			Low Priority		
-Anca	Maria	https://www.linkedin.com/in/anca-maria-6a3705a7		InCrys	IT Recruiter	05 May 2021			Secondary Target		
-Cristina	Visan	https://www.linkedin.com/in/cristina-visan		Vișan Cristina - Cabinet individual de psihologie	Psiholog clinician	05 May 2021			Low Priority		
-Cristina Daniela	Paraschiv	https://www.linkedin.com/in/cristina-daniela-paraschiv-02197244		At home	Retired	19 Apr 2021			Low Priority		
-Daiana	Moraru	https://www.linkedin.com/in/daiana-moraru-0a9707164		VON Consulting	Senior IT Recruiter & Account Manager	07 Apr 2021			Secondary Target		
-Hannah	Mackie	https://www.linkedin.com/in/hannah-mackie-6138151b6		Cloud International	SAP Recruitment Consultant	31 Mar 2021			Secondary Target		
-Adela	Rotaru	https://www.linkedin.com/in/adela-rotaru-27a14b194		IT Boutique	Talent Recruitment Specialist	27 Mar 2021			Secondary Target		
-Catalina	Stoicescu, Assoc CIPD	https://www.linkedin.com/in/catalina-stoicescu-assoc-cipd-2754197		Expro	Sr. HR Advisor	26 Mar 2021			Secondary Target		
-Ana	Umnova	https://www.linkedin.com/in/ana-umnova		Self-employed	Freelance Talent Hunter	16 Mar 2021			Secondary Target		
-Irina	Sofron	https://www.linkedin.com/in/irina-s-431a34167		LuxonTech	IT HR Business Partner	06 Feb 2021			Secondary Target		
-Teodora	Ionita	https://www.linkedin.com/in/teodora-ionita-55794712a		Intelactsoft	IT Recruitment Researcher	06 Feb 2021			Low Priority		
-Ana-Maria	Sahlean	https://www.linkedin.com/in/ana-maria-sahlean-574a70173		Heaven Solutions	Business Consultant	06 Feb 2021			Secondary Target		
-Narcisa	Lăzăroiu ⛰️	https://www.linkedin.com/in/narcisalazaroiu		Globant	Global Employer Branding	02 Feb 2021			Low Priority		
-Cristina	Livadaru	https://www.linkedin.com/in/cristina-livadaru		VON Consulting	Maternity Leave	13 Jan 2021			Low Priority		
-Andra	Popescu	https://www.linkedin.com/in/andra-popescu-559511155				06 Jan 2021			Low Priority		
-Taddeo	Moise	https://www.linkedin.com/in/taddeo-moise-74b8a1202		Sc Eclectarte studio srl	Senior 3D Artist	29 Dec 2020			Low Priority		
-Gabriela	Gradinaru	https://www.linkedin.com/in/gabriela-gradinaru		IDEMIA	Global Talent Acquisition Specialist	08 Dec 2020			Secondary Target		
-Ioana Madalina	Alecu	https://www.linkedin.com/in/ioana-madalina-alecu-669447189	ioana.alecu01@yahoo.com	18GYM România	Personal Fitness Trainer	03 Dec 2020			Low Priority		
-David	Healion	https://www.linkedin.com/in/david-healion		byrd	Senior Talent Acquisition Manager	30 Nov 2020			Secondary Target		
-Anca-Maria	Ion	https://www.linkedin.com/in/anca-maria-ion		vidaXL	Conversion Rate Optimization Specialist	26 Nov 2020			Low Priority		
-Bratu	Gabriel	https://www.linkedin.com/in/bratu-gabriel-a145171b9		SAROM Packaging	Asistent Comercial	24 Nov 2020			Low Priority		
-Mihaela	Dina	https://www.linkedin.com/in/mihaela-dina-2039a3a3		Stefanini EMEA	Talent Acquisition Lead	24 Nov 2020			Secondary Target		
-Alexandra	Rad	https://www.linkedin.com/in/alexandra-rad-a377a8103		NTT DATA Romania	Talent Acquisition Manager	21 Nov 2020			Secondary Target		
-Alicja	D	https://www.linkedin.com/in/alicja-d-525542174		SNI	IT Recruitment Assistant  Consultant	19 Nov 2020			Secondary Target		
-Jed	Parmenter-Rons	https://www.linkedin.com/in/jed-p-rons		Dynamic Search Solutions	SAP Recruitment Consultant	18 Nov 2020			Secondary Target		
-Bianca Elena	Danciu	https://www.linkedin.com/in/bianca-elena-danciu-a38ba41b2		Deloitte	Project Support Associate 1	18 Nov 2020			Low Priority		
-Monica	Balasoiu	https://www.linkedin.com/in/monicabalasoiu		coverletter.tech	People Manager (Hewlett Packard RO account)	07 Nov 2020			Low Priority		
-Ana	Ionita	https://www.linkedin.com/in/ana-ionita		Zensai	Product Video Specialist	07 Nov 2020			Low Priority		
-Neeharika	Madhusudan	https://www.linkedin.com/in/neeharika-madhusudan-65095615a		Recro	TA Lead	01 Nov 2020			Low Priority		
-Cristina	Tanase	https://www.linkedin.com/in/cristina-tanase-327a8317a		Pentalog	 Team Leader, Marketing Data	29 Oct 2020			Low Priority		
-Mihaela	Bârlădeanu	https://www.linkedin.com/in/mihaela-b%C3%A2rl%C4%83deanu-a06294179	mihaela.barladeanu@yahoo.com	Elite Searchers & Partners / Agilium Worldwide Executive Search	Consultant	26 Oct 2020			Secondary Target		
-Karmele	Guibert	https://www.linkedin.com/in/karmele-guibert-		ISG International Service Group	Senior Consultant	25 Oct 2020			Secondary Target		
-Bianca	Iarca	https://www.linkedin.com/in/bianca-iarca-701922172		LSEG (London Stock Exchange Group)	Senior Talent Acquisition Partner	15 Oct 2020			Secondary Target		
-Cristiana	Pislariu	https://www.linkedin.com/in/cristiana-pislariu-1181948b		TherCore	Recruitment Manager	05 Oct 2020			Low Priority		
-Ioana	Popa	https://www.linkedin.com/in/ioana-popa-588a05128		Easy Recruiting	IT Recruiter	05 Oct 2020			Secondary Target		
-Evelin	Rozek	https://www.linkedin.com/in/evelin-rozek-319266199		Blankfactor	Senior IT Recruiter	02 Oct 2020			Secondary Target		
-Andrei	Angel Dan	https://www.linkedin.com/in/andrei-angel-dan-419bb0146		Digijobs	Senior Recruiter	19 Sep 2020			Secondary Target		
-Laurențiu	Plăcintă-Șalaru	https://www.linkedin.com/in/laurentiu-placinta-salaru		Amber	QA Tester	17 Sep 2020			Low Priority		
-Neha	Ghosh	https://www.linkedin.com/in/neha-ghosh-7651b2191		Flexiple	Recruiting Manager	15 Sep 2020			Low Priority		
-Yuriy	Grischenko	https://www.linkedin.com/in/yuriy-grischenko		ANVI Software Development Teams	Human Resources Assistant	15 Sep 2020			Low Priority		
-Iulia	Anghel	https://www.linkedin.com/in/iulia-anghel-66a592197		EveryMatrix	Office Manager	04 Sep 2020			Low Priority		
-Carmen	Ardelean	https://www.linkedin.com/in/carmen-ardelean-650900125	carmen.recruitlab@gmail.com	ClujHub	Community&Events Coordinator	02 Sep 2020			Low Priority		
-Violeta-Georgiana	Gaina	https://www.linkedin.com/in/violeta-georgiana-gaina		Lucrător independent	Freelance Recruiter	28 Aug 2020			Secondary Target		
-Ana-Maria	Gheorghiu	https://www.linkedin.com/in/gheorghiuana		Aquarius Solutions	IT Recruitment Partner	14 Aug 2020			Low Priority		
-Andrei	Salajan	https://www.linkedin.com/in/andrei-salajan-707245198		Flatwise Properties	Financial Analyst	07 Aug 2020			Low Priority		
-Cristina-Ioana	Năstasă	https://www.linkedin.com/in/cristina-ioana-n%C4%83stas%C4%83-b56554173		YOUng Steps Kenya	Volunteer	05 Aug 2020			Low Priority		
-Razvan Andrei	Pascu	https://www.linkedin.com/in/razvan-andrei-pascu		Freelance (Self employed)	Media Buyer	28 Jul 2020			Low Priority		
-Alexandra Gabriela	Dascalu	https://www.linkedin.com/in/alexandra-gabriela-dascalu-74b75a87		Luxoft Romania	Team Lead	27 Jul 2020			Low Priority		
-Joanna	Cetlin	https://www.linkedin.com/in/joannacetlin		Allianz Partners	Talent Acquisition Partner	21 Jul 2020			Secondary Target		
-IAW	Germany	https://www.linkedin.com/in/iaw-germany-8803b11a1		IAW germany	Manager	21 Jul 2020			Low Priority		
-Iulian	Satnoianu	https://www.linkedin.com/in/iulian-satnoianu-46483419b		Chain IQ Group AG	Recruiting Specialist	21 Jul 2020			Low Priority		
-Alexandra	Dascalu	https://www.linkedin.com/in/alexandra-dascalu-746940136		eMAG	Recruitment Team Leader	21 Jul 2020			Low Priority		
-Luminita	Stefan	https://www.linkedin.com/in/luminita-stefan-9582835b		NCH Advisors Inc.	Manager Resurse Umane	30 Jun 2020			Low Priority		
-Gabriela	Brezuica	https://www.linkedin.com/in/gabriela-brezuica-0a9967101		Brainspotting | Technology Recruitment	Senior IT Recruitment Consultant	26 Jun 2020			Secondary Target		
-Alexandra	Timis	https://www.linkedin.com/in/alexandratimis		accesa.eu	Recruitment Team Lead	23 Jun 2020			Low Priority		
-Catalin	Sinescu	https://www.linkedin.com/in/catalin-sinescu		Kuehne+Nagel	Driver manager	21 Jun 2020			Low Priority		
-Lavinia	Dadarlat	https://www.linkedin.com/in/laviniad		the Syndicate	Senior Copywriter	21 Jun 2020			Low Priority		
-Andreea	Tudor	https://www.linkedin.com/in/andreea-t-baa054182		Tremend Software Consulting	Team Coordinator	17 Jun 2020			Low Priority		
-Maria	Toma	https://www.linkedin.com/in/mariatoma047		AllCloud	Talent Acquisition Specialist	08 Jun 2020			Secondary Target		
-Sorina	Săpunaru	https://www.linkedin.com/in/sorina-ionela-s%C4%83punaru		rinf.tech	Talent Acquisition Specialist	25 May 2020			Secondary Target		
-Drink IT	Romania	https://www.linkedin.com/in/drink-it-romania		Independent Contractor	Youtuber	22 May 2020			Low Priority		
-Luiza	Petre	https://www.linkedin.com/in/luiza-petre-b673a91a1		mindit.io	Senior Talent Acquisition Partner	22 May 2020			Secondary Target		
-Raluca	Tiptiș	https://www.linkedin.com/in/ralucatiptis		IJC	Senior IT Recruiter	22 May 2020			Secondary Target		
-Malina	Cristescu	https://www.linkedin.com/in/malinacristescu		University of Bucharest	Student	22 May 2020			Low Priority		
-Andrei	Stefan	https://www.linkedin.com/in/andrei-stefan-999468a7		Hilio - hilio.com	Psychotherapist	22 May 2020			Low Priority		
-Crina	Gheorghe	https://www.linkedin.com/in/crina-gheorghe-50a256192		DigiTribe	Digital Enabler	06 May 2020			Low Priority		
-Luminita	Burcea	https://www.linkedin.com/in/luminita-burcea		Hyperfy	Talent Acquisition & Employer Branding Specialist	27 Apr 2020			Secondary Target		
-Elena	Miron	https://www.linkedin.com/in/elena-miron-96938b131		VON Consulting	IT Recruiter/Account Manager	27 Apr 2020			Secondary Target		
-Cristiana A,	Pieleanu	https://www.linkedin.com/in/adriana-cristiana-p		Accenture	Strategic Sourcing Partner	27 Apr 2020			Low Priority		
-Ilona	Zuczkowska	https://www.linkedin.com/in/ilona-zuczkowska-663a5a197		My own company	International IT Recruiter Freelancer	24 Apr 2020			Secondary Target		
-Denisa	Minea	https://www.linkedin.com/in/denisa-minea-71219a176		Randstad Digital Romania	HR Business Partner & Team Lead Recruitment	24 Apr 2020			Secondary Target		
-Maria	Constantin	https://www.linkedin.com/in/maria-constantin-		HRS Romania	IT Recruitment Consultant	24 Apr 2020			Secondary Target		
-Aaron	Hyde	https://www.linkedin.com/in/aaronhydeobodo		obodo	Talent Manager	22 Apr 2020			Secondary Target		
-Adina-Eliza-Maria	Pătrașcu	https://www.linkedin.com/in/adina-eliza-maria-p%C4%83tra%C8%99cu-b03795110		United Media Services	Performance Manager	22 Apr 2020			Low Priority		
-Mariia	B	https://www.linkedin.com/in/mariia-b-0b9a581a6		REED	Recruitment Specialist	10 Apr 2020			Low Priority		
-Razvan	Petre	https://www.linkedin.com/in/petrerazvan		Danfoss	Area Sales Manager	09 Apr 2020			Low Priority		
-Andreea	Toader	https://www.linkedin.com/in/andreea-toader		eMAG	People Development Consultant	02 Apr 2020			Secondary Target		
-Madalina	Nitu	https://www.linkedin.com/in/madalina-nitu-3b3006176		Adobe	Senior University Talent Partner	01 Apr 2020			Secondary Target		
-📌Alex G.	Bolog	https://www.linkedin.com/in/alex-g-bolog		AMS Accelerate IT	Senior Consultant - IT Talent Acquisition	31 Mar 2020			Secondary Target		
-Dragos	Gruia	https://www.linkedin.com/in/dragos-gruia-148b54a6		OC Prod	Recruitment Consultant	27 Mar 2020			Secondary Target		
-Ianovici	Vasile	https://www.linkedin.com/in/vasile-ianovici		Ianovici Negotium S.R.L.	Administrator	26 Mar 2020			Low Priority		
-Ovidiu Sebastian	Goidescu	https://www.linkedin.com/in/ovidiu-sebastian-goidescu-0b9045189	goidescu_sebastian@yahoo.com	Palo Alto Networks	Professional Services Operations Analyst	26 Mar 2020			Low Priority		
-Irina Stefania	Apostolie	https://www.linkedin.com/in/irina-apostolie	apostolieis@gmail.com	WIKA Group	Back Office Order Processing	13 Mar 2020			Low Priority		
-Raluca	Panait	https://www.linkedin.com/in/raluca-panait-6351a513b		SII Romania	Talent Acquisition Analyst	12 Mar 2020			Secondary Target		
-Raluca	Ciubotaru	https://www.linkedin.com/in/raluca-ciubotaru		Toptal	Designer	09 Mar 2020			Low Priority		
-Ramona	Tolas	https://www.linkedin.com/in/ramona-tolas-686867116		Ullink - now part of Broadridge Trading and Connectivity Solutions	Development Team Lead	05 Mar 2020			Low Priority		
-Lavinia	Raicu	https://www.linkedin.com/in/lavinia-raicu-09862043		Deutsche Bank	Senior Talent Acquisition	03 Mar 2020			Secondary Target		
-George	Enache	https://www.linkedin.com/in/georgeenache		Haulotte	System Administrator	03 Mar 2020			Low Priority		
-Muhammad Hussan	Ullah Khan	https://www.linkedin.com/in/hussankhan		upwork	Professional Graphic Designer/ Web Designer	02 Mar 2020			Low Priority		
-Alexandr	Capatina	https://www.linkedin.com/in/alexandr-capatina-64a34634		AdsWizz	Development Team Lead	25 Feb 2020			Low Priority		
-Alexandru Ștefan	Tănase	https://www.linkedin.com/in/alexandrustefantanase		Benefits Entertainment	Manager	24 Feb 2020			Low Priority		
-Vlad	Olaru	https://www.linkedin.com/in/vladolaru		Automattic	Code Wrangler	21 Feb 2020			Low Priority		
-Sinziana	Preda	https://www.linkedin.com/in/sinziana-preda-b428a152		Rohde & Schwarz Topex	Human Resources Specialist	21 Feb 2020			Low Priority		
-Eniko	Fulop	https://www.linkedin.com/in/eniko-fulop-13400024		Fuloplawyers.com	Managing Attorney	20 Feb 2020			Low Priority		
-Magda	Dumitrescu	https://www.linkedin.com/in/magda-dumitrescu-hr		SOFTWIN	Senior Talent Acquisition	20 Feb 2020			Secondary Target		
-Eleni	Antimisari	https://www.linkedin.com/in/eleniantimisari		TRASYS GREECE	Senior Talent Acquisition Partner	19 Feb 2020			Secondary Target		
-Jyotsna	Gehani	https://www.linkedin.com/in/jyotsna-gehani-b12631182		Freelance	Freelance Recruiter	19 Feb 2020			Secondary Target		
-Manole	Cosmin	https://www.linkedin.com/in/manole-cosmin-70142628	cosmin.manole@yahoo.com	Smart Impact Training	Senior Partner | Trainer | L&D Consultant	18 Feb 2020			Secondary Target		
-Sonia	Pipa	https://www.linkedin.com/in/sonia-pipa-1010a79b		Endava	Data Scientist	18 Feb 2020			Low Priority		
-Dan	Radoiu	https://www.linkedin.com/in/danradoiu		Dan Radoiu	10X Performance Coach	17 Feb 2020			Low Priority		
-Emil	Moise	https://www.linkedin.com/in/emilmoise		MHP – A Porsche Company	Manager	12 Feb 2020			Low Priority		
-Gabriel	Sandu	https://www.linkedin.com/in/gabriel-sandu-6b6175a2		EPAM Systems	Scrum Master	11 Feb 2020			Low Priority		
-Manzala	Andrei Iulian	https://www.linkedin.com/in/manzala-andrei-iulian-416b13162		FintechOS	Security Lead	11 Feb 2020			Low Priority		
-🚀Cristian	Burac	https://www.linkedin.com/in/cristianburac		Raiffeisen Bank Romania	Senior UX Designer	10 Feb 2020			Low Priority		
-Roxana	Urduzan	https://www.linkedin.com/in/roxana-urduzan		UiPath	EMEA Talent Acquisition Partner	10 Feb 2020			Secondary Target		
-Bogdan	Nanu	https://www.linkedin.com/in/bogdan-nanu-906148196		SII Romania	Business Manager	07 Feb 2020			Low Priority		
-mihaela	chelsoi	https://www.linkedin.com/in/mihaela-chelsoi-18a2a426		Cognizant	Senior Project Manager - Scrum Master + Project Mgmt + People Mgmt + Risk Mgmt + Delivery Mgmt	07 Feb 2020			Low Priority		
-Cristian	Dumitriu	https://www.linkedin.com/in/cristian-constantin-d-7967604b		Freelance	Freelancer	06 Feb 2020			Low Priority		
-Monica	Stan	https://www.linkedin.com/in/monica-stan-b790b518a		Smart Business Planning	European Funding & Grants Consultant	04 Feb 2020			Secondary Target		
-Lungu	Catalin - Marian	https://www.linkedin.com/in/lungucatalinmarian		Allbuy International SRL	Chief Executive Officer	03 Feb 2020			Low Priority		
-Loredana	Hermans	https://www.linkedin.com/in/loredana-hermans		Tegridy HR Consulting	Freelance Recruiter and HR Consultant	03 Feb 2020			Secondary Target		
-Abude	Bayassi	https://www.linkedin.com/in/abude		OneSpan	Research and Development Manager - Authentication	03 Feb 2020			Low Priority		
-Adrian	Besleaga 💻	https://www.linkedin.com/in/adrian-besleaga		Self-employed	Remote Freelancer	03 Feb 2020			Low Priority		
-Alina Georgiana	Elenescu, Assoc. CIPD	https://www.linkedin.com/in/alinaelenescu		Flix	Junior Agile Tester	03 Feb 2020			Low Priority		
-Sorin	Dumitrescu	https://www.linkedin.com/in/sorin-dumitrescu		Omniconvert	Chief Operations Officer	02 Feb 2020			Low Priority		
-Emanuel	Oprea	https://www.linkedin.com/in/emanuel-oprea		Lidl Digital Romania	Senior Consultant (Golang)	02 Feb 2020			Secondary Target		
-Andreea Ionela	Duma	https://www.linkedin.com/in/andreeaioneladuma		Evolve today Romania	Recruitment Project Manager	01 Feb 2020			Low Priority		
-Lăcrămioara	ROȘU	https://www.linkedin.com/in/lacramioara-rosu		Euro-Testing Software Solutions	Business Development Manager	31 Jan 2020			Low Priority		
-Cristina	Surdu	https://www.linkedin.com/in/cristina-surdu-1ababb14		Mega Image	Agile Project Manager	31 Jan 2020			Low Priority		
-Vlad	Ungureanu	https://www.linkedin.com/in/vlad-ungureanu-44407a66		Extensive Network SRL	Education Coordinator/Trainer/Coach	30 Jan 2020			Low Priority		
-Andreas	Stanca	https://www.linkedin.com/in/andreas-stanca-6bb212170		Bytex Technologies	Project Manager	30 Jan 2020			Low Priority		
-Alexandru	Aldescu	https://www.linkedin.com/in/alexandru-a-3a85b2123		Pegasus	Digital Strategy & Innovation	27 Jan 2020			Low Priority		
-Mihaela	Mot	https://www.linkedin.com/in/mihaela-mot-690a907a		Mense Consulting	Manager	27 Jan 2020			Low Priority		
-Rodica	Sapintan	https://www.linkedin.com/in/hrresearcher		Stefanini EMEA	Talent Acquisition Consultant	27 Jan 2020			Secondary Target		
-Narcis	Gavrilescu	https://www.linkedin.com/in/narcislion		Worldline	Investor	22 Dec 2019			Low Priority		
-Cristian	Bica	https://www.linkedin.com/in/cristian-bica-ncc-1701		Tazz by eMAG	Senior Program Manager	20 Dec 2019			Low Priority		
-Ne	Iulia	https://www.linkedin.com/in/ne-iulia-672709146		RINF TECH	IT Recruiter	19 Dec 2019			Secondary Target		
-Mirela	Dragomir	https://www.linkedin.com/in/mirela-alexandra-dragomir		Qualitest	Senior IT Recruitment Partner	16 Dec 2019			Low Priority		
-Corina	Popescu-Dumitru	https://www.linkedin.com/in/corinapopescudumitru		Hays	360 IT Recruitment Consultant	12 Dec 2019			Secondary Target		
-Andrei	Suciu	https://www.linkedin.com/in/andrei-suciu-265757153		Bookster	Marketing Project Manager	09 Dec 2019			Low Priority		
-Gabriela	Stan	https://www.linkedin.com/in/gabrielastan		Freelance	Independent Consultant	06 Dec 2019			Secondary Target		
-Victor	Stef	https://www.linkedin.com/in/victor-stef-80591180		Aperture.Film	Executive Producer	05 Dec 2019			Low Priority		
-Geanina Adriana	Ionescu	https://www.linkedin.com/in/geanina-adriana-ionescu-a15005a5		Public Sector	Human Resources Specialist	25 Nov 2019			Low Priority		
-Iulia	RANGA	https://www.linkedin.com/in/iulia-ranga-789946b4		Sowelo Consulting sp. z o.o. sp. k.	Project Manager	14 Nov 2019			Low Priority		
-Irina Maria	Neculae	https://www.linkedin.com/in/irinamarianeculae		Matrix42	Talent Acquisition Specialist	14 Nov 2019			Secondary Target		
-Alina	Cărădeanu	https://www.linkedin.com/in/caradeanu		Onapsis	Senior Talent Acquisition Partner	12 Nov 2019			Secondary Target		
-Andreea	Rarinca	https://www.linkedin.com/in/andreea-rarinca-645430158		EasyDo Digital Technologies	Senior Sales Account Manager	07 Nov 2019			Low Priority		
-CEXIT	Ploiesti	https://www.linkedin.com/in/cexit-ploiesti-271a09145				06 Nov 2019			Low Priority		
-Ana Maria	Bart	https://www.linkedin.com/in/anabart	a19bart@gmail.com	in-tech engineering services SRL	Recruitment Coordinator	04 Nov 2019			Low Priority		
-Maria Steliana	Filip	https://www.linkedin.com/in/maria-steliana-filip-6670311		DRÄXLMAIER Group	PM-IT Governance, Strategy, Projects| PMO for IT Solutions	20 Oct 2019			Low Priority		
-Ana-Maria	Necula	https://www.linkedin.com/in/ana-maria-necula		DS Contractors and Services SRL	Recruitment Sourcer	17 Oct 2019			Secondary Target		
-Alexandra	Marin	https://www.linkedin.com/in/alexandra-marin-a2873413b		ALTEN Romania	Competency Manager	14 Oct 2019			Low Priority		
-Marta	Gheorghe	https://www.linkedin.com/in/marta-gheorghe-b5164b51		Stefanini EMEA	Corporate Recruitment Partner	09 Oct 2019			Low Priority		
-Vlad	Mocanu	https://www.linkedin.com/in/vlad-mocanu		Stealth Startup	Operations and Marketing	09 Oct 2019			Low Priority		
-Emanuela	Ciubotaru	https://www.linkedin.com/in/emanuela-ciubotaru		Encora Inc.	Talent Acquisition Manager, Europe	03 Oct 2019			Secondary Target		
-Alexandra	Maxim	https://www.linkedin.com/in/alexandra-maxim-356872aa		HRxToday	Freelance IT Recruiter	01 Oct 2019			Secondary Target		
-Anca	Cioroianu	https://www.linkedin.com/in/anca-c-65069487	anca.cioroianu@siiromania.ro	SII Romania	Squad Lead	24 Sep 2019			Low Priority		
-Klauss	Andrei	https://www.linkedin.com/in/klaussa		Kappa.London	Captain	23 Sep 2019			Low Priority		
-Narcisa	Groza 🪐	https://www.linkedin.com/in/narcisagroza		Luxoft Romania	Lead IT Recruiter	17 Sep 2019			Secondary Target		
-Lorena	Baluta	https://www.linkedin.com/in/lorena-gaina		AscentCore	Senior Talent Acquisition Partner	09 Sep 2019			Secondary Target		
-Anca	Popa	https://www.linkedin.com/in/ancaepopa		AROBS Engineering	Team Lead Recruitment	04 Sep 2019			Low Priority		
-Alexandra	Descultu	https://www.linkedin.com/in/alexandradescultu		Trend Consult Group	Project Manager	02 Sep 2019			Low Priority		
-Diana	Stelianescu	https://www.linkedin.com/in/diananegreanuhrconsultant		Deutsche Bank	Talent Acquisition EMEA	21 Aug 2019			Secondary Target		
-Gloria	Gomez	https://www.linkedin.com/in/gloria-g-93a450169		SOLA Group	Senior Consultant	20 Aug 2019			Secondary Target		
-Raluca	Tanase	https://www.linkedin.com/in/raluca-tanase-5048955a		Cognizant	IT Recruitment Lead	16 Aug 2019			Low Priority		
-Maria	Iancu	https://www.linkedin.com/in/maria-iancu-810052151		GKN Aerospace	HR Advisor / Generalist	14 Aug 2019			Secondary Target		
-Rareș	Vișan	https://www.linkedin.com/in/raresvisan		TELUS International	Recruitment Specialist	24 Jul 2019			Low Priority		
-⭐Oana	C.	https://www.linkedin.com/in/oanagc		Qualitest	People Success Partner	17 Jul 2019			Low Priority		
-Florin	Pop	https://www.linkedin.com/in/florinpop17		iCodeThis	Creator	17 Jul 2019			Low Priority		
-Mihai	Sora	https://www.linkedin.com/in/mihai-sora		Archbee	Angel Investor	14 Jul 2019			Low Priority		
-Elena	Costescu	https://www.linkedin.com/in/elena-costescu-14177045		Pentalog HR	Talent Acquisition Lead	11 Jul 2019			Secondary Target		
-Lucy	Cunningham	https://www.linkedin.com/in/lucy-cunningham		Optimove	Talent Acquisition Partner	09 Jul 2019			Secondary Target		
-Madalina	R	https://www.linkedin.com/in/madalina-r-82631b188		Smart Recruiting	Recruitment Specialist	27 Jun 2019			Low Priority		
-Theodor	Grecu	https://www.linkedin.com/in/theodor-grecu-324a0362		TOMSEN Sports GmbH	Brand Ambassador	03 Jun 2019			Low Priority		
-Madalina	PRUTEANU	https://www.linkedin.com/in/madalina-pruteanu-5050b5133		Qualitest	HR Recruitment Projects Coordinator & Business Partner Lead	27 May 2019			Secondary Target		
-Arina	Ciocîrlan	https://www.linkedin.com/in/arina-ciocirlan		Orange	Service Delivery Manager	27 May 2019			Low Priority		
-Daniela	Tudos	https://www.linkedin.com/in/daniela-tudos-60786417b		Pedersen & Partners	Human Resources Executive, Hogan Admin	14 May 2019			Low Priority		
-Mihaela	Tudorica	https://www.linkedin.com/in/mihaela-tudorica-b86918167		PepsiCo	Senior Recruiter	14 May 2019			Secondary Target		
-Raluca-Ioana	Hanganu	https://www.linkedin.com/in/raluca-ioana-hanganu-976b97bb		Swissquote	Senior IT Recruiter	13 May 2019			Secondary Target		
-Remote	Jobs	https://www.linkedin.com/in/remote-jobs-only		remotejobsonly.com	Executive	13 May 2019			Low Priority		
-Bianca Maria	Demian	https://www.linkedin.com/in/bianca-demian		SugarCRM	EMEA Recruiter	24 Apr 2019			Secondary Target		
-David	Guiney	https://www.linkedin.com/in/david-guiney-ab76b178		Oxford Global Resources	Lead Recruiter	24 Apr 2019			Secondary Target		
-Andra	Țoe	https://www.linkedin.com/in/andra-%C8%9Boe		Deloitte	Senior Recruiter	09 Apr 2019			Secondary Target		
-Luiza	Florian	https://www.linkedin.com/in/luiza-florian-321445142		Playtika	HR Lead	09 Apr 2019			Secondary Target		
-Elena	Gorea	https://www.linkedin.com/in/elenagorea		ABC HUMAN CAPITAL	Senior Consultant	27 Mar 2019			Secondary Target		
-Ruben-Cristian	Nistor	https://www.linkedin.com/in/ruben-cristian-nistor-5a829014a		Flex	Operator SMT	24 Mar 2019			Low Priority		
-Iulia	David	https://www.linkedin.com/in/iulia-david-20100971			Responsable ventas servicios turisticos	21 Mar 2019			Low Priority		
-Khawaja Muhammad	Jawwad Siddiqi	https://www.linkedin.com/in/k-m-j-s	khawajamuhammadjawwadsiddiqi@gmail.com	Al Maha Advertising & Gifts Trading LLC	Graphic Designer	21 Mar 2019			Low Priority		
-Catalina	Stanciu	https://www.linkedin.com/in/catalina-stanciu-b5b2b2126		AIS CLINICS & HOSPITAL	Talent Acquisition Specialist	21 Mar 2019			Secondary Target		
-Andrei C.	Mușat	https://www.linkedin.com/in/andreimusat		Cegeka	Information Security Officer	21 Mar 2019			Low Priority		
-Sorin	Chirilă	https://www.linkedin.com/in/sorin-chiril%C4%83-b82538180		Life Art Distribuție	Service Manager - frigotehnist si electrician	21 Mar 2019			Low Priority		
-George	Petrache	https://www.linkedin.com/in/george-petrache-343325172		HN Services Romania	IT Recruitment Team Lead	26 Feb 2019			Low Priority		
-Codruta-Ioana	Adamache	https://www.linkedin.com/in/codrutaadamache	codruta.adamache@microchip.com	Microchip Technology Inc.	Recruitment Specialist	26 Feb 2019			Low Priority		
-Dumitru	Ilie	https://www.linkedin.com/in/dumitru-ilie-b2733032		Allianz Belgium	Ingénieur système Unix like	23 Feb 2019			Low Priority		
-Oana	Pruna	https://www.linkedin.com/in/oana-pruna-7b151613b		The HEINEKEN Company	Regional Activation Manager	18 Feb 2019			Low Priority		
-Mihail	Girnet	https://www.linkedin.com/in/mihailgirnet		Food Vision	Board Member	09 Feb 2019			Low Priority		
-Nicoleta	Blaga	https://www.linkedin.com/in/nicoleta-blaga		UiPath	Senior Talent Acquisition Partner	19 Jan 2019			Secondary Target		
-Camelia	Parfeni	https://www.linkedin.com/in/camelia-parfeni		Orion Innovation	Talent Acquisition Lead	19 Jan 2019			Secondary Target		
-Ramona	Rat	https://www.linkedin.com/in/ramona-rat-328867150		Ness Digital Engineering Romania	Senior Scrum Master | Team Leader	09 Jan 2019			Low Priority		
-enache	miron	https://www.linkedin.com/in/enache-miron-76a08416		pullman hotel	receptionist	08 Jan 2019			Low Priority		
-Diana	Dumitrascu	https://www.linkedin.com/in/diana-dumitrascuu		eMAG	Leadership and Talent Development Consultant	08 Jan 2019			Secondary Target		
-Bianca	Găvan	https://www.linkedin.com/in/biancag%C4%83van		NN	Recruitment Lead	02 Jan 2019			Low Priority		
-Johan	Simonneau	https://www.linkedin.com/in/johansimonneau		Tiime	Senior Marketing Manager	23 Dec 2018			Low Priority		
-Andreea	Mazere	https://www.linkedin.com/in/andreea-mazere-a402151a		Pentalog	Scrum Master	14 Dec 2018			Low Priority		
-Anthony	Chariault	https://www.linkedin.com/in/anthonychariault		GitGuardian	Senior Growth Manager	14 Dec 2018			Low Priority		
-Laura	Gaiu	https://www.linkedin.com/in/laura-gaiu-04ab7a9b		BearingPoint	Recruitment Expert	11 Dec 2018			Low Priority		
-Jack	Gilbert	https://www.linkedin.com/in/jack-gilbert-362bb277		Adapt Talent	Principle Consultant - AI/ML	11 Dec 2018			Secondary Target		
-Daniela	Drăgulin	https://www.linkedin.com/in/daniela-dr%C4%83gulin-722a3b135		Pentalog	Economist	11 Dec 2018			Low Priority		
-Cristina	Trandafir	https://www.linkedin.com/in/cristina-t-a5669b159		BMW TechWorks Romania	Senior IT Recruiter	06 Dec 2018			Secondary Target		
-Laura Georgiana	Nicolae	https://www.linkedin.com/in/laura-georgiana-nicolae-a10507153		SII Romania	Talent Acquisition Team Lead	04 Dec 2018			Secondary Target		
-Larisa	Lupusoru	https://www.linkedin.com/in/larisa-lupusoru-71592b153		Sales Consulting	Recruitment Team Leader	30 Nov 2018			Low Priority		
-Iuliana	Lebedov	https://www.linkedin.com/in/iuliana-lebedov-55931112		IT Teams	HR Manager	27 Nov 2018			Secondary Target		
-Valentin	Iftimi	https://www.linkedin.com/in/valentin-iftimi-senior-tech-recruiter007		Worldline	Talent Acquisition Team Lead	27 Nov 2018			Secondary Target		
-Iulia	Gherman	https://www.linkedin.com/in/iulia-gherman		Playtika	Recruitment Manager	23 Nov 2018			Low Priority		
-Radu	Ursache	https://www.linkedin.com/in/raduursache		iCazino.ro	Chief Executive Officer	23 Nov 2018			Low Priority		
-Vlad	Craciun	https://www.linkedin.com/in/vlad-craciun		EDUROM	Recruitment Delivery Manager	22 Nov 2018			Low Priority		
-Letitia	Marin	https://www.linkedin.com/in/letitia-marin-a961a65a		Ness Digital Engineering Romania	Senior Product Designer	21 Nov 2018			Low Priority		
-Gabriela	Nita	https://www.linkedin.com/in/gabriela-nita-6b45b7b1		HN Services Romania	Account Manager, RO and International Markets	19 Nov 2018			Low Priority		
-Raluca	Croitoru	https://www.linkedin.com/in/ralucacroitoru		Eurofins	ICT Talent Acquisition Specialist	16 Nov 2018			Secondary Target		
-Kamila	Ryguła (Zoubkova)	https://www.linkedin.com/in/kamilazoubkova		Hays	Principal Internal Recruiter	16 Nov 2018			Secondary Target		
-Andreea	Radulescu	https://www.linkedin.com/in/andreeadianaradulescu		DRUID AI	Content Strategist	15 Nov 2018			Low Priority		
-Sorin	Diorduc	https://www.linkedin.com/in/sorin-diorduc		GlobalStep	Recruitment Manager (International Hands-on Recruitment)	15 Nov 2018			Low Priority		
-Oana	Neagu (Smeureanu)	https://www.linkedin.com/in/oana-neagu-smeureanu-4808a051	smeureanu.oana@yahoo.com	PPC S.A.	Senior Talent Acquisition Consultant	14 Nov 2018			Secondary Target		
-Madalina	Neculae	https://www.linkedin.com/in/madalina-neculae-78647b34		Stefanini EMEA	IT Project Manager	13 Nov 2018			Low Priority		
-Rennate-Maria	Teodorescu	https://www.linkedin.com/in/rennate-maria-teodorescu-0745b8174		Societe Generale Global Solution Centre	Senior IT Recruiter	12 Nov 2018			Secondary Target		
-Biatrice	Radulescu	https://www.linkedin.com/in/biatrice-radulescu-b85a61156		NN	Consultant financiar Expert	10 Nov 2018			Secondary Target		
-Vlad	Vintila	https://www.linkedin.com/in/vintila-vlad-cristian		Vodafone	SR Reconciliation Specialist	03 Nov 2018			Low Priority		
-Mihai Daniel	Basamac	https://www.linkedin.com/in/mihai-daniel-basamac-213b3b165		DESCOURS & CABAUD	Preparator comanda	30 Oct 2018			Low Priority		
-Georgiana	Matache	https://www.linkedin.com/in/georgiana-matache		EPAM Systems	Salesforce Functional Consultant	25 Oct 2018			Secondary Target		
-Pierre	Peutin	https://www.linkedin.com/in/pierre-peutin		Scaleway	Senior Marketing Automation Manager	23 Oct 2018			Low Priority		
-Andrei	Ivanescu	https://www.linkedin.com/in/andrei-ivanescu-786b01a		OMV	Senior Expert Process Governance	17 Oct 2018			Low Priority		
-Gaaloul	Mohamed	https://www.linkedin.com/in/gaaloulmohamed	gaaloulmohamed1989@gmail.com	Acronis	Cloud services Advisor/ Services providers recruiter	13 Oct 2018			Secondary Target		
-Marko	Hinic	https://www.linkedin.com/in/marko-hinic-849a388b		Netcetera	Senior Human Capital Manager	13 Oct 2018			Low Priority		
-Gabriel	Zgovancu	https://www.linkedin.com/in/gabriel-zgovancu		IT Teams	Delivery Manager	12 Oct 2018			Low Priority		
-Alexandra	Cimpoeru	https://www.linkedin.com/in/alexandra-cimpoeru-472ab6168		Zitec	Senior Talent Acquisition Specialist	08 Oct 2018			Secondary Target		
-Cătălina	Mohora	https://www.linkedin.com/in/marialinca		Centrul Pentru Masini Inteligente	Program Advisor	03 Oct 2018			Low Priority		
-Andreea	Milea	https://www.linkedin.com/in/andreeap%C4%83tra%C8%99cu		Deutsche Bank	Scrum Master	03 Oct 2018			Low Priority		
-IntelSol	Romania	https://www.linkedin.com/in/intelsol-romania-231074ba		IntelSol	Partner	01 Oct 2018			Low Priority		
-Alexandru	Duma	https://www.linkedin.com/in/alexandru-duma-274592145		Rom Service Construct	Human Resources Responsible	27 Sep 2018			Low Priority		
-Simona	Cernescu	https://www.linkedin.com/in/simona-cernescu-5b3247104		EveryMatrix	Talent Acquisition Specialist	27 Sep 2018			Secondary Target		
-Madalina	Pohrib (Musat)	https://www.linkedin.com/in/madalina-musat		Arabelle Solutions	International Talent Acquisition Specialist	27 Sep 2018			Secondary Target		
-Paul	Iepan	https://www.linkedin.com/in/paul-iepan-6aa815a1		TechQuarter	Senior IT Recruiter/ HR Business Partner/ People Partner	27 Sep 2018			Secondary Target		
-Cristina	Lupu	https://www.linkedin.com/in/cristina-lupu-0994ab158		Societe Generale Global Solution Centre Romania	IT Business Analyst with Investment banking	27 Sep 2018			Low Priority		
-Frances	Ramsey	https://www.linkedin.com/in/frances-ramsey-1b2626146		Phaidon International	Senior Vice President -  Enterprise Talent Solutions	27 Sep 2018			Secondary Target		
-Grigore	Marius Cosmin	https://www.linkedin.com/in/mgrigore2410		ORTEC - Optimize Your World	System Administrator	10 Sep 2018			Low Priority		
-Marina Teodora	Pinzariu	https://www.linkedin.com/in/marina-teodora-pinzariu-20118a110		Hyperfy	Human Resources Operations Coordinator	22 Aug 2018			Low Priority		
-Lucas	Nilsson	https://www.linkedin.com/in/lucas-nilsson-203633164		Amaris Consulting	Regional Recruitment Manager	22 Aug 2018			Low Priority		
-Matan	Weissler	https://www.linkedin.com/in/matan-weissler-589532116		Green Tree Marketing SRL	Administrator	22 Aug 2018			Low Priority		
-Corina	Vlad	https://www.linkedin.com/in/corina-vlad-629b93141		Societe Generale Global Solution Centre Romania	Business Analyst for HR systems	13 Aug 2018			Secondary Target		
-Mihaela	Vasile	https://www.linkedin.com/in/mihaela-vasile-565b53144		Cegeka	HR Business Partner	06 Aug 2018			Secondary Target		
-Laurie	Loyeau	https://www.linkedin.com/in/laurie-loyeau		PayFit France	HRBP	01 Aug 2018			Secondary Target		
-Claudiu Gabriel	Albina	https://www.linkedin.com/in/claudiualbina		Cloud Business Services	Executive Sales Manager	01 Aug 2018			Low Priority		
-Alina	Nica	https://www.linkedin.com/in/alina-nica		Endava	Recruitment Business Partner & Career Coach	01 Aug 2018			Low Priority		
-Denisa	Iana	https://www.linkedin.com/in/denisa-iana-54636013a		Medicover Romania	Payroll and Administration Specialist	01 Aug 2018			Low Priority		
-Alexandra	Ilie	https://www.linkedin.com/in/alexandra-ilie		Wellhub	Client Sales Manager	27 Jul 2018			Low Priority		
-Adrian	Barsan	https://www.linkedin.com/in/adrian-barsan-b4927694		Computacenter	Social Media and Communications Specialist	27 Jul 2018			Low Priority		
-Mariana	Suceu	https://www.linkedin.com/in/hanco-mariana	mariana@hancoglobal.com	Hanco Global Solutions	Cyber Programs Coordinator	27 Jul 2018			Low Priority		
-Paula	Andrei	https://www.linkedin.com/in/paulacatalinaandrei		Endava	Learning and Development Consultant	24 Jul 2018			Secondary Target		
-Oana	Zamfir	https://www.linkedin.com/in/oana-zamfir-6b6877158		Deutsche Bank	Senior Talent Acquisition Specialist	21 Jul 2018			Secondary Target		
-Larisa	Gabudeanu	https://www.linkedin.com/in/larisa-gabudeanu		BCR	Chief Information Security Officer	21 Jul 2018			Low Priority		
-👋Alina Şt.	Luca	https://www.linkedin.com/in/%F0%9F%91%8Balina-%C5%9Ft-luca-654b00b2		METRO.digital	IT Talent Acquisition Partner	21 Jul 2018			Secondary Target		
-Elena	Ciobanu	https://www.linkedin.com/in/elena-ciobanu-25433412a		EPAM Systems	Scrum Master	19 Jul 2018			Low Priority		
-Andreea Raluca	Gutoiu	https://www.linkedin.com/in/mihalceaandreearaluca		Randstad Digital Romania	HR Business Partner	19 Jul 2018			Secondary Target		
-Monika	Nawrocka	https://www.linkedin.com/in/monika-nawrocka-79a58b159		WEA - We Exceed Your Expecttions	Senior Recruitment Consultant Renewable Energies	18 Jul 2018			Secondary Target		
-Marti	Piciorus	https://www.linkedin.com/in/marti-piciorus-b9a02b82		Banca Transilvania	Senior Information Security Officer	18 Jul 2018			Low Priority		
-Alexandra	Corban	https://www.linkedin.com/in/alexandra-corban-655b68164		MMX Solutions	Human Resources Manager	09 Jul 2018			Low Priority		
-Barbatescu	Roxana	https://www.linkedin.com/in/barbatescu-roxana-645576148				09 Jul 2018			Low Priority		
-Alex	Jovanovic	https://www.linkedin.com/in/alex-jovanovic-abb289116		Self-employed	International Recruitment Consultant	09 Jul 2018			Secondary Target		
-Catalina	Ion	https://www.linkedin.com/in/catalina-ion-3b7aa6136		EveryMatrix	IT Recruiter	09 Jul 2018			Secondary Target		
-Florentina	Radulescu	https://www.linkedin.com/in/florentina-radulescu-bb7541150		Acceleratorul Imobiliar®	Mentor	09 Jul 2018			Low Priority		
-Cristina	Ion	https://www.linkedin.com/in/cristina-ion-40b8a714b		iValue HR	HR Recruiter	09 Jul 2018			Secondary Target		
-Elena	Calin	https://www.linkedin.com/in/elena-calin-177a07bb		Roweb	Human Resources Specialist	09 Jul 2018			Low Priority		
-Razvan	Lapuste	https://www.linkedin.com/in/razvanlapuste		Bolt	Talent Acquisition Specialist	09 Jul 2018			Secondary Target		
-Ana	Nastase	https://www.linkedin.com/in/ana-nastase-473444159		Knolyx	Marketing Content Specialist	07 Jun 2018			Low Priority		
-Emilia	Sparlac	https://www.linkedin.com/in/emilia-sparlac-4b492516		BAT	Senior Executive TA Partner	07 Jun 2018			Low Priority		
-Maria-Diana	Anton	https://www.linkedin.com/in/maria-diana-anton-440043161		Self-employed	Health And Wellness Coach	07 Jun 2018			Low Priority		
-Roxana	Bumbăcea	https://www.linkedin.com/in/roxana-bumb%C4%83cea-912851116		SoftServe	Recruitment Team Lead	07 Jun 2018			Low Priority		
-Alexandra	Ciobanu	https://www.linkedin.com/in/alexandraciobanuprojectmanager		Sun Posse	Social Media Business Strategist	07 Jun 2018			Low Priority		
-Luiza	Vladu	https://www.linkedin.com/in/luiza-v-ab55b6151		Orion Innovation	Human Resources Consultant	07 Jun 2018			Secondary Target		
-Cornel	Stoica	https://www.linkedin.com/in/stoicacornel		Do IT Recruitment	Sales Manager	07 Jun 2018			Low Priority		
-Marcu	Marilena	https://www.linkedin.com/in/marcu-marilena-69650639		Cognizant	HR Talent Partner	13 May 2018			Secondary Target		
-Cristina	Negoescu	https://www.linkedin.com/in/cristina-n-65222246		Avanade	Operations Analyst	13 May 2018			Low Priority		
-Victor	Rentea	https://www.linkedin.com/in/victor-rentea-trainer		Victor Rentea Consulting	Trainer and Consultant	13 May 2018			Secondary Target		
-Raluca-Andreea	Balotă	https://www.linkedin.com/in/balot%C4%83-raluca-andreea		Orion Innovation	Recruitment Manager	13 May 2018			Low Priority		
-Andreea	Sandu	https://www.linkedin.com/in/andreea-sandu-8810601b		Cabinet Individual de Psihologie Andreea Sandu	Psihoterapeut	13 May 2018			Low Priority		
-Raisa	Oprea👩‍💻	https://www.linkedin.com/in/raisaoprea		OMV Petrom	Senior Expert IT Recruiter	13 May 2018			Secondary Target		
-Mihnea Andrei	Manole	https://www.linkedin.com/in/mihnea-andrei-manole-66a445162		PureFert Balkans SRL	Junior Accountant	13 May 2018			Low Priority		
-Adelina-Oana	Istrate	https://www.linkedin.com/in/adelina-oana-istrate-8b562657		Globant	Billing & Collections Area manager	05 May 2018			Low Priority		
-Jean-Francois	Mignon	https://www.linkedin.com/in/jeffmignon		US HealthConnect, Inc.	Chief Marketing & Product Officer	18 Apr 2018			Low Priority		
-Florin	Adamache	https://www.linkedin.com/in/adamacheflorin		Dacris România	Digital Marketing Specialist	13 Apr 2018			Low Priority		
-Eric	Gouin	https://www.linkedin.com/in/eric-gouin-589463		Pentalog	COO	08 Apr 2018			Low Priority		
-Helene	HEMERY	https://www.linkedin.com/in/helenehemery		Consulting Stratégique	Chief Marketing Officer	04 Apr 2018			Low Priority		
-Aymeric	Libeau	https://www.linkedin.com/in/aymericlibeau		NITID	Fondateur	04 Apr 2018			Low Priority		
-Şerban	Semenescu	https://www.linkedin.com/in/%C5%9Ferban-semenescu-88a08449		Banca Transilvania	UX/UI Expert	03 Apr 2018			Low Priority		
-Mihaela	Luca	https://www.linkedin.com/in/mihaela-luca-4717a3b4		Private aviation	VVIP flight attendant	03 Apr 2018			Low Priority		
-Radu	Voicu	https://www.linkedin.com/in/radu-voicu-ab05563		Equalys Services	Business Wizard	03 Apr 2018			Low Priority		
-Ionela	Varvaroi	https://www.linkedin.com/in/ionela-varvaroi-92307aa0		Extia	HR Manager - Italy	03 Apr 2018			Secondary Target		
-James	Kydd	https://www.linkedin.com/in/jamesguru		Guru Careers	Talent Acquisition Specialist (Development / Programming)	29 Mar 2018			Secondary Target		
-Cosmina	Trifan	https://www.linkedin.com/in/cosminatrifan		Scaleway	Chief Marketing Officer	22 Mar 2018			Low Priority		
-Stephanie Alvarita	Colón	https://www.linkedin.com/in/stephaniealvaritacolon		Bizbrains A/S	Content	22 Mar 2018			Low Priority		
-Adrian	Radu	https://www.linkedin.com/in/adiradu33		HazelHeartwood	SFMC Scrum Master	11 Mar 2018			Low Priority		
-Aline	MIRTI MANCINELLI	https://www.linkedin.com/in/alinemirti		Globant	Digital Accelerator for Pentalog a Globant Division	11 Mar 2018			Low Priority		
-Ana-Maria	Ghita	https://www.linkedin.com/in/ana-maria-ghita-8b040158		Wave Research	Senior Researcher	05 Mar 2018			Low Priority		
-Evelina	Cocoană	https://www.linkedin.com/in/evelina-cocoan%C4%83		Publicis Sapient	Recruitment Team Lead	27 Feb 2018			Low Priority		
-Trif	Razvan	https://www.linkedin.com/in/trif-razvan-a168b410		Infotree Global Solutions	EMEA Senior Business Development & Recruitment Consultant	23 Feb 2018			Secondary Target		
-Ioana	Gurgui	https://www.linkedin.com/in/ioana-gurgui-6aaa97104		Publicis Sapient	Recruitment Team Lead	23 Feb 2018			Low Priority		
-Madalina	Taina	https://www.linkedin.com/in/madalinataina		IxDF - Interaction Design Foundation	Local Leader of IxDF Bucharest	18 Feb 2018			Low Priority		
-Alex	Muller	https://www.linkedin.com/in/alexmullerdesign		Orgo	UI Designer	18 Feb 2018			Low Priority		
-Ruxandra	Cuzman	https://www.linkedin.com/in/ruxandra-cuzman-339684118		OPSWAT	Talent Acquisition & Employer Branding Specialist	18 Feb 2018			Secondary Target		
-Diana-Alexandra	Dima	https://www.linkedin.com/in/diana-alexandra-dima-1159a544	diana.dima05@gmail.com	IT Smart Systems	HR Business Partner	14 Feb 2018			Secondary Target		
-Stefania	Marin	https://www.linkedin.com/in/stefaniaangheloiu		Arnia Software	IT Recruiter	14 Feb 2018			Secondary Target		
-Bogdan	Radu	https://www.linkedin.com/in/bogdan-radu-2837a8122		Deutsche Telekom Services Europe Romania (DTSE Romania)	Senior Active Sourcing Specialist	01 Feb 2018			Low Priority		
-Georgiana	Asanache	https://www.linkedin.com/in/georgianapoteca		Pentalog	Talent Acquisition Manager_Europe&Asia	01 Feb 2018			Secondary Target		
-Adriana	Filip	https://www.linkedin.com/in/adriana-filip		Ness Digital Engineering Romania	Talent Acquisition - Senior Partner - 👇 HIRING 👇	01 Feb 2018			Secondary Target		
-Catalin	Giulan	https://www.linkedin.com/in/catalin-giulan-3431a719		ING	Analyst Programmer	31 Jan 2018			Low Priority		
-Nicoleta	Visan	https://www.linkedin.com/in/nicoletavisan		Ipsos	HR Business Partner Ipsos Askia	31 Jan 2018			Secondary Target		
-Alexandra	Petrus	https://www.linkedin.com/in/alexandrapetrus		Adobe	Product Management	31 Jan 2018			Low Priority		
-Carmen Irina	Ristea	https://www.linkedin.com/in/carmensafta	cristea@lenovo.com	Lenovo	EMEA Senior Talent Acquisition Specialist	31 Jan 2018			Secondary Target		
-Laurentiu-Stefan	Gutita	https://www.linkedin.com/in/laurentiu-stefan-gutita-ab54a667		VON Consulting	Recruiter	31 Jan 2018			Secondary Target		
-Ciprian	Savin	https://www.linkedin.com/in/cipriansavin		BRICK Human Resource Consulting	Senior HR Consultant	31 Jan 2018			Secondary Target		
-Anca	Lupu	https://www.linkedin.com/in/anca-lupu-8a69978		Michelin	Human Resources Specialist	31 Jan 2018			Low Priority		
-Ana-Maria	Tiron	https://www.linkedin.com/in/ana-maria-tiron-6154a7139		Orange Romania	Talent Acquisition Specialist	31 Jan 2018			Secondary Target		
-Elena	Constantin	https://www.linkedin.com/in/elena-constantin		HRS Romania	Team Leader - IT Recruitment Professional Placement	31 Jan 2018			Low Priority		
-Diana	Mazga	https://www.linkedin.com/in/diana-mazga-42466ba8		EPAM Systems	Senior IT Recruiter	31 Jan 2018			Secondary Target		
-Juliette	Leroux	https://www.linkedin.com/in/juliette-leroux-11748418		Extia	Transformation	31 Jan 2018			Low Priority		
-Bogdan	Ciobanu	https://www.linkedin.com/in/bogdan-ciobanu-1a971397		ALBOCENSA	Senior IT Consultant	31 Jan 2018			Secondary Target		
-Diana	Dehm-Andone	https://www.linkedin.com/in/diana-d-40939784		e.solutions GmbH	ERP-Projektleiter	31 Jan 2018			Low Priority		
-Teodora	Lungu	https://www.linkedin.com/in/teodora-lungu-talent-acquisition-lead-cegeka		Cegeka	ICT Talent Acquisition Lead	31 Jan 2018			Secondary Target		
-Natalia Mihaela	Vasile	https://www.linkedin.com/in/natalia-mihaela-vasile-b17643146		Qualysoft	Recruitment Manager & HR Business Partner	21 Dec 2017			Secondary Target		
-Daniela	Anghel	https://www.linkedin.com/in/daniela-anghel-98783662		Confidential Company	Recruitment IT Project Manager/ Senior Talent Acquisition	21 Dec 2017			Secondary Target		
-Florența Corina	Ilie	https://www.linkedin.com/in/corinailie1		Snap-on Romania	HR Manager	21 Dec 2017			Secondary Target		
-Elena	Grumazescu	https://www.linkedin.com/in/elena-grumazescu-24a370131		MetLife	Global Talent Acquisition Partner	21 Dec 2017			Secondary Target		
-Adina	Anastase	https://www.linkedin.com/in/adina-anastase		Freelance/Contract	Recruitment Consultant	12 Dec 2017			Secondary Target		
-Alexandra	Marcu	https://www.linkedin.com/in/alexandradinu91		SOFTEH PLUS	HR Manager	12 Dec 2017			Secondary Target		
-Roxana	Nicolescu	https://www.linkedin.com/in/roxana-nicolescu-5923b9102		BearingPoint	Resource Management Expert - Romania, Czech, India & Portugal	07 Dec 2017			Low Priority		
-Oana	Feraru	https://www.linkedin.com/in/busuiocoana		Deutsche Bank	Senior Recruiter	28 Nov 2017			Secondary Target		
-Ancuta	Amironesei	https://www.linkedin.com/in/anca-amironesei		Edenred Romania	HR Business Partner Lead	28 Nov 2017			Secondary Target		
-Ana - Maria	Robu	https://www.linkedin.com/in/anamariarobu		CrowdStrike	Talent Acquisition Manager	17 Nov 2017			Secondary Target		
-Ana-Maria	Misca	https://www.linkedin.com/in/ana-maria-misca-24a39361		Lucrător independent	Psihoterapeut Gestalt	14 Nov 2017			Low Priority		
-Roxana	Margarit	https://www.linkedin.com/in/roxana-margarit		R Systems	Recruitment Coordinator	10 Nov 2017			Low Priority		
-Andreea	Mantea	https://www.linkedin.com/in/andreea-mantea-89185622		Elite Searchers	Consultant	10 Nov 2017			Secondary Target		
-Mihaela	Alsamadi	https://www.linkedin.com/in/alsamadi		Adobe	Senior HR Consultant	07 Nov 2017			Secondary Target		
-Georges	Petrequin	https://www.linkedin.com/in/georgespetrequin		The Adaptavist Group	Content Marketing Manager	07 Nov 2017			Low Priority		
-Stefan	Ifrim	https://www.linkedin.com/in/stefan-ifrim-66896714a		Autonomo	Fotografo	03 Nov 2017			Low Priority		
-Adrian	Stan	https://www.linkedin.com/in/adrian05stan		Soft Galaxy	IT Recruitment Consultant	03 Nov 2017			Secondary Target		
-Mihaela	Tulcan	https://www.linkedin.com/in/mihaela-tulcan		Do IT Recruitment	IT Recruitment Specialist	03 Nov 2017			Low Priority		
-Duțescu	Melisa	https://www.linkedin.com/in/du%C8%9Bescu-melisa-b8255b11b		INOBOX	Senior Google Ads	31 Oct 2017			Low Priority		
-Claudia	Barna	https://www.linkedin.com/in/claudia-barna		Genpact	Senior Recruiter	28 Oct 2017			Secondary Target		
-Andreea	Badea	https://www.linkedin.com/in/andreea-badea-677872131		DKV Mobility	Talent Acquisition Consultant	23 Oct 2017			Secondary Target		
-Alexandra	Spalatelu (Arcana)	https://www.linkedin.com/in/alexandra-arcana		Uptime Technology	Recruitment Specialist	20 Oct 2017			Low Priority		
-Vlad-Florin	Melechett	https://www.linkedin.com/in/vlad-florin-melechett		Cegeka	Recruitment Manager - Global Delivery Center	20 Oct 2017			Low Priority		
-Ioana	Avram	https://www.linkedin.com/in/ioana-avram		Cognizant Softvision	PR & Marketing Specialist	18 Oct 2017			Low Priority		
-Laura	Pavliuc	https://www.linkedin.com/in/laura-georgiana-pavliuc		SoftServe	Recruitment Team Lead	16 Oct 2017			Low Priority		
-Cosmina	Dilimoț	https://www.linkedin.com/in/alexandracosminadilimot		Lagardère Travel Retail	Entrepreneur Manager	06 Oct 2017			Low Priority		
-Oltita	Volovat	https://www.linkedin.com/in/oltitavolovat		NNC Services	Marketing Rockstar	06 Oct 2017			Low Priority		
-Huiu	Teodor Matei	https://www.linkedin.com/in/huiu-teodor-matei-457100149		Brainspotting	IT&C Recruitment Intern	06 Oct 2017			Low Priority		
-Estera	Monea (Ghiur)	https://www.linkedin.com/in/estera-monea-ghiur-02919bb9		Evolve today Romania	Senior IT Recruiter	06 Oct 2017			Secondary Target		
-FOTACHE	CHRISTIAN	https://www.linkedin.com/in/fotache-christian-14843b21	liviuchristian@yahoo.com	Digijobs	Project Manager	06 Oct 2017			Low Priority		
-Madalina	Simileanu	https://www.linkedin.com/in/madalinasimileanu		Oracle	EMEA Talent Advisor	06 Oct 2017			Secondary Target		
-Daniel	Ivan	https://www.linkedin.com/in/daniel-ivan-0913a2132		Ivan Daniel - Cabinet individual de psihologie	Psihoterapeut	22 Sep 2017			Low Priority		
-Cristina	Brătășanu	https://www.linkedin.com/in/cristina-br%C4%83t%C4%83%C8%99anu-470b6814a		Laropharm	Chemical Analyst	20 Sep 2017			Low Priority		
-Ana-Maria	Focseneanu	https://www.linkedin.com/in/ana-maria-focseneanu-35b028b4		Stripe	Senior Talent Acquisition Specialist	20 Sep 2017			Secondary Target		
-Bogdan Petrica	Danita	https://www.linkedin.com/in/bogdan-petrica-danita-b4a322142		Bogdan Petrica Danita	Occupational Therapist	12 Sep 2017			Low Priority		
-Madalina	Florescu	https://www.linkedin.com/in/madalina-f-0767645a		1&1 Internet Development	Senior IT Recruitment Specialist	08 Sep 2017			Low Priority		
-Ana	Maria Ion	https://www.linkedin.com/in/ana-maria-ion-902238143		The Mandrake	People & Culture Coordinator	08 Sep 2017			Low Priority		
-Scutariu	Oana Maria	https://www.linkedin.com/in/scutariu-oana-maria-3677052b		Deloitte	Human Resources Generalist - project based	03 Sep 2017			Low Priority		
-Andreea	Găvănărescu	https://www.linkedin.com/in/andreea-g%C4%83v%C4%83n%C4%83rescu		HRS Romania	Senior IT Recruitment Consultant	03 Sep 2017			Secondary Target		
-Stefana	Acozmei	https://www.linkedin.com/in/stefana-acozmei-196909144		Cabinet Individual de Psihologie Stefana Acozmei	Clinical psychologist and psychotherapist	30 Aug 2017			Low Priority		
-Simona	Ionica	https://www.linkedin.com/in/sionica		OPEN	Human Resources Consultant	30 Aug 2017			Secondary Target		
-Adriana	Banescu	https://www.linkedin.com/in/adrianabanescu	banescuadriana@gmail.com	Gama Software	IT Senior Talent Sourcer	25 Jul 2017			Secondary Target		
-Dr. Ing. Viorel	Gazdaru	https://www.linkedin.com/in/viorel-gazdaru	viorel.gazdaru@yahoo.com	Groupama Asigurari Romania SA	Asigurari	25 Jul 2017			Low Priority		
-Andreea-Silvia	Laslo	https://www.linkedin.com/in/andreea-silvia-laslo-a524b213b		Societe Generale Global Solution Centre Romania	IT Recruiter	13 Jul 2017			Secondary Target		
-Andrei	Mitrana	https://www.linkedin.com/in/andreimitrana		National Cyber Security Directorate	Senior Cyber Security Manager - Human Capital	07 Jul 2017			Low Priority		
-Victor	Felea	https://www.linkedin.com/in/victor-felea		Cegeka	People Operations Manager	03 Jul 2017			Low Priority		
-Ely	Ciumacencu	https://www.linkedin.com/in/ely-ciumacencu-41523486		Tremend Software Consulting	Learning and Development Manager	03 Jul 2017			Low Priority		
-Madalina	Moise	https://www.linkedin.com/in/mada-moise		R Systems	Senior Human Resources Business Partner	03 Jul 2017			Low Priority		
-Ionescu	Adeline	https://www.linkedin.com/in/ionescu-adeline-a97241b1		Cabinet Individual de Psihologie Ionescu Adeline	Psihoterapeut, Psiholog Clinician 	29 Jun 2017			Low Priority		
-Cristina	Anghel ✔	https://www.linkedin.com/in/cristina-anghel-%E2%9C%94-4a91753		Bittnet Group	Human Resources Manager	29 Jun 2017			Low Priority		
-Alina	TOADER, ACC	https://www.linkedin.com/in/alinaelenatoader		GETIK	HR Business Partner	17 Jun 2017			Secondary Target		
-Petruta	Rotaru	https://www.linkedin.com/in/ionescupetruta		Hubgets	Team Success Manager	07 Jun 2017			Low Priority		
-Gabriel	DOBRANIȘ	https://www.linkedin.com/in/gabrieldobranis	gabriel.dobranis@gmail.com	BearingPoint	People & Business Partner IT&C | Senior Expert	07 Jun 2017			Low Priority		
-Ana	David	https://www.linkedin.com/in/ana-david-56045a108		SkillValue	IT Recruitment Partner-Pentalog	06 Jun 2017			Low Priority		
-Isabella	Pirnea	https://www.linkedin.com/in/isabella-pirnea-b78580127		Ariston Thermo Group	HR Specialist Romania & EE	30 May 2017			Secondary Target		
-Andreea	Runceanu	https://www.linkedin.com/in/andreearunceanu		Pentalog HR	Staffing Lead	29 May 2017			Low Priority		
-Andreea	Voicu	https://www.linkedin.com/in/voicuandreea		Deloitte	HR Business Partner	29 May 2017			Secondary Target		
-Monica	Petcu	https://www.linkedin.com/in/monica-petcu		YouGov	Marketing Automation Manager	28 May 2017			Low Priority		
-Ana-Maria	Stanca	https://www.linkedin.com/in/ana-maria-stanca-1294909b		Axway	Senior Talent Acquisition Sourcing Specialist	10 May 2017			Secondary Target		
-Razvan	Avramescu	https://www.linkedin.com/in/razvan-avramescu-899897ab		Allianz Technology	Recruitment Operations Team Lead	09 May 2017			Low Priority		
-laurentiu	butoianu	https://www.linkedin.com/in/laurentiu-butoianu-53b85a24		Self-employed	Manager de condominiu	11 Apr 2017			Low Priority		
-Alexandra	Curteanu	https://www.linkedin.com/in/alexandra-curteanu-02a7403a		Endava	Global Diversity, Inclusion and Wellbeing Consultant	07 Apr 2017			Secondary Target		
-Florentina	Ifrim	https://www.linkedin.com/in/florentina-ifrim-39983660		Softia	Chief People Officer	07 Apr 2017			Low Priority		
-Oana-Andreea	Zencenco	https://www.linkedin.com/in/oanazencenco		Planable	People & Culture Lead	07 Apr 2017			Low Priority		
-Andreea (Andra)	Petre	https://www.linkedin.com/in/andreea-andra-petre-9914738		Holycode	HR Lead	07 Apr 2017			Secondary Target		
-Irina	Iorga	https://www.linkedin.com/in/irina-iorga-098a91a7		NatWest	Associate Personal Banker, Personal &Business Banking	12 Mar 2017			Low Priority		
-Raluca	Pantrjel	https://www.linkedin.com/in/ralucapantrjel		ITPS	Senior Account Manager	06 Mar 2017			Low Priority		
-Claudia	Buciu	https://www.linkedin.com/in/claudia-buciu-2bba699b		Edenred Digital Center	HR Business Partner	22 Feb 2017			Secondary Target		
-Chivu	Roxana	https://www.linkedin.com/in/chivu-roxana-a3022b138		Teamland	IT Researcher Trainee	13 Feb 2017			Low Priority		
-Ramona	Mateescu	https://www.linkedin.com/in/ramonamateescu		Worldline	Talent Acquisition Lead -Shared Service Center-Worldline Romania	01 Feb 2017			Secondary Target		
-Andreea	Pauna	https://www.linkedin.com/in/paunaandreea				01 Feb 2017			Low Priority		
-Andreea Rebeca	Rapeanu	https://www.linkedin.com/in/andreea-rebeca-rapeanu-31798aa		Danco Vision Agency	Senior Account Manager	21 Jan 2017			Low Priority		
-Marian	Datcu, MBA	https://www.linkedin.com/in/marian-datcu-mba-9b6799b4		National Agency of Fiscal Administration,  Transfer Pricing and Advance Pricing Agreement Direction	Senior Adviser	21 Jan 2017			Low Priority		
-Gabriel	Ionescu	https://www.linkedin.com/in/gabriel-ionescu-b77100a9		GoPro	Staff Quality Analyst	16 Jan 2017			Low Priority		
-Eduard	Alexe	https://www.linkedin.com/in/eduardalexe		OpenText	Senior HR Shared Services Specialist	16 Jan 2017			Secondary Target		
-Aleksandra	Sajda	https://www.linkedin.com/in/aleksandrapluta		DareIT	HR Consultant	16 Jan 2017			Secondary Target		
-Iulia Nicoleta	Crasmariu	https://www.linkedin.com/in/iargintaru		Randstad Digital Romania	Country HR Lead	16 Jan 2017			Secondary Target		
-Catalina	Hristova	https://www.linkedin.com/in/catalina-hristova-b01922b1		Outsourcing Center	HR Specialist	12 Dec 2016			Secondary Target		
-Andra	State	https://www.linkedin.com/in/andra-state-00969a52		Odeen Software	IT Recruitment Manager	08 Dec 2016			Low Priority		
-Petronela	Ifrim	https://www.linkedin.com/in/petronela-ifrim		Professional HR Agency	HR Consultant	08 Dec 2016			Secondary Target		
-Alexandra	Smau	https://www.linkedin.com/in/alexandra-smau-6b459550		Eightpoint	Team Lead (Utility Apps)	03 Dec 2016			Low Priority		
-Daniel	Zaha	https://www.linkedin.com/in/danielzaha		Ecta Software	Senior Recruitment Specialist	19 Nov 2016			Low Priority		
-Andreea	Hrab	https://www.linkedin.com/in/andreeahrab		Ezugi	Team lead/ SR IT Recruiter	19 Nov 2016			Secondary Target		
-Alexandru Florin	Visan	https://www.linkedin.com/in/alexandruflorinvisan		BITTNET Systems	Business Development Manager	09 Nov 2016			Low Priority		
-Ana-Maria	Lupu	https://www.linkedin.com/in/lupuanamaria		Freelance	Digital Conversions Strategist and B2B sales consultant	01 Nov 2016			Secondary Target		
-Gabriela	Kowalczyk	https://www.linkedin.com/in/gabriela-kowalczyk-4a62a3108		Hewlett Packard Enterprise	Sales Compensation Analyst	31 Oct 2016			Low Priority		
-Dorina	Calistru Crubleau	https://www.linkedin.com/in/dorina-calistru-crubleau-629928b0		Cisco Meraki	Regional Sales Manager Nordics and Baltics SBU	11 Oct 2016			Low Priority		
-Anda	Buruleanu	https://www.linkedin.com/in/anda-buruleanu-19373b72		Thales	Senior Talent Acquisition Partner	10 Aug 2016			Secondary Target		
-Elena	Ungureanu	https://www.linkedin.com/in/ungureanuelena		Zitec	People Operations Manager	10 Aug 2016			Low Priority		
-Manuel	Damian	https://www.linkedin.com/in/manudamian		SmartDreamers	Chief Customer Officer	10 Aug 2016			Low Priority		
-Camelia	Vlad	https://www.linkedin.com/in/camelia-vlad-67823486		ING Hubs Romania	Customer Journey Expert/ IT Business Analyst	10 Aug 2016			Low Priority		
-Elena Gabriela	Ionescu	https://www.linkedin.com/in/elena-gabriela-ionescu-38388a125		BCR	IT Project Manager / Scrum Master	01 Aug 2016			Low Priority		
-Andreea	Tatarus	https://www.linkedin.com/in/andreea-tatarus-07740268		Globant	Delivery Manager	01 Aug 2016			Low Priority		
-Oana	Vintilă	https://www.linkedin.com/in/oanavintila		Simple. HR, made easy	GCDF Career Counselor / Recruitment Consultant	14 Jul 2016			Secondary Target		
-Radu	Zota	https://www.linkedin.com/in/radu-zota-aa5bba20	zota_radu@hotmail.com	Croitorie reparatii	Partner	13 Jul 2016			Low Priority		
-Alexandra	Șchianu	https://www.linkedin.com/in/schianualexandra		Self Employed	Certified Psychotherapist	30 Jun 2016			Low Priority		
-Teodora	Parauta	https://www.linkedin.com/in/teodoraparauta		R Systems	Recruitment Operations Lead	10 Jun 2016			Low Priority		
-Alexandru	Nitulescu	https://www.linkedin.com/in/alexandru-nitulescu-8993ba20		Airbus Defence and Space	In Service Support Manager	13 May 2016			Low Priority		
-Roxana	Angheloiu	https://www.linkedin.com/in/roxana-angheloiu		Google	Career Coach	12 May 2016			Low Priority		
-Ioana	Stăniloiu	https://www.linkedin.com/in/ioanaas		Tradeshift	Senior HR Business Partner	26 Apr 2016			Secondary Target		
-Irina	Constantinescu	https://www.linkedin.com/in/irina-constantinescu-2666b464		Groundfog	Talent & People Partner	22 Apr 2016			Secondary Target		
-Lavinia	Fusu	https://www.linkedin.com/in/laviniafusu		InfoMusic.ro	Reporter & Creative Writer	21 Apr 2016			Low Priority		
-Mihai-Lucian	Radu, Dr. ing., PMP	https://www.linkedin.com/in/mihai-lucian-radu-dr-ing-pmp-12084550		AWS Systemtechnik - Werksvertrag mit BMW	Nachtragsmanagement Bau	18 Apr 2016			Low Priority		
-Camelia	Radu	https://www.linkedin.com/in/camelia-radu-5785b612		OMV Petrom	Recruiter	17 Apr 2016			Secondary Target		
-Andrei	Dăianu-Rovinescu	https://www.linkedin.com/in/andrei-d%C4%83ianu-rovinescu-24b15657		htss	Application Expert	13 Apr 2016			Low Priority		
-Cristina-Victoria	Csizmadi	https://www.linkedin.com/in/cristina-victoria-csizmadi		Majorel Iberia & LatAm	Dutch Content Moderator	08 Apr 2016			Low Priority		
-Ioana	Constantina	https://www.linkedin.com/in/ioana-constantina-5163a259		IBM	Test Specialist	07 Apr 2016			Low Priority		
-Vladimir	Pejcic	https://www.linkedin.com/in/vladimirpejcic		Blue Heron Health News	Customer Support Specialist	04 Apr 2016			Low Priority		
-Carmen	Balanescu	https://www.linkedin.com/in/carmen-balanescu-598475117		EVO PROD	Recruitment Specialist	03 Apr 2016			Low Priority		
-Alexandra	Vasiliu	https://www.linkedin.com/in/morarualexandra		Magna International	HR Manager	28 Mar 2016			Secondary Target		
-Mihai	Dumitru-Paverman	https://www.linkedin.com/in/mihai-d-0a75b53a		Pellenc Group	Export Manager for southeast Europe	23 Mar 2016			Low Priority		
-Gabriel	Rotaru	https://www.linkedin.com/in/gabriel-rotaru		Technicalise IT	Freelance	18 Mar 2016			Low Priority		
-Ruxandra	Iletchi	https://www.linkedin.com/in/ruxandrailetchi		GlobalLogic Romania	Business Analyst	11 Mar 2016			Low Priority		
-Razvan Mihai	Duhan	https://www.linkedin.com/in/razvanduhan		Veeam Software	Senior Marketing Campaign Manager - Demand Generation	02 Mar 2016			Low Priority		
-Andra	Chereches	https://www.linkedin.com/in/andra-chereches-85a39533		accesa.eu	Career Coach	22 Feb 2016			Low Priority		
-Alexandru Andrei	Filip	https://www.linkedin.com/in/totofilip		Digital Krikits	Marketing Specialist	17 Feb 2016			Low Priority		
-Radu	Jianu	https://www.linkedin.com/in/radujianu		Cognizant Softvision	UI/UX Designer	17 Feb 2016			Low Priority		
-Andreea	Clair	https://www.linkedin.com/in/andreeaclair		Oracle	Senior Digital Marketing Specialist (Eloqua, Marketing Automation)	15 Feb 2016			Low Priority		
-Cristina	Honciuc	https://www.linkedin.com/in/cristina-honciuc-32747075		Yawo Services SRL	Inside Sales Specialist	02 Feb 2016			Low Priority		
-Gabriela	Serghi	https://www.linkedin.com/in/gabriela-serghi		SAP	Talent Discovery Senior Partner	19 Jan 2016			Secondary Target		
-Andreea	Serbanescu	https://www.linkedin.com/in/andreeafologea		Intelactsoft	HR Business Partner	15 Jan 2016			Secondary Target		
-Roxana	Maria (Mardare)	https://www.linkedin.com/in/roxana-maria-mardare-9248954b		Ayvens	Business Excellence Lead	08 Jan 2016			Low Priority		
-Marius	Gheorghe	https://www.linkedin.com/in/gheorghemarius31		Honeywell	Digital Marketing Manager	09 Dec 2015			Low Priority		
-Oana	Dina	https://www.linkedin.com/in/oana-dina-4761b910		Thales	HR Partner	08 Dec 2015			Secondary Target		
-Marius Cosmin	Stoica	https://www.linkedin.com/in/marius-cosmin-stoica-117bb143		MSC Mediterranean Shipping Company	Master Mariner	15 Nov 2015			Low Priority		
-Vincenzo	Cafarelli	https://www.linkedin.com/in/vincenzo-cafarelli-b3868341		Accenture	Learning Delivery Associate Manager	13 Nov 2015			Low Priority		
-Aleksandra	Mrzyglod	https://www.linkedin.com/in/aleksandra-mrzyglod		The Travel Corporation	GDS Air Coordinator	12 Nov 2015			Low Priority		
-Andreea	Balaci	https://www.linkedin.com/in/andreea-balaci-b4560a12		DevTalksRomania	Delivery Area Manager	09 Nov 2015			Low Priority		
-Emilia	Visan	https://www.linkedin.com/in/emiliavisan		Luxoft	Project Manager	01 Nov 2015			Low Priority		
-Andreea	Rosca	https://www.linkedin.com/in/andreea-rosca-4a168628	andreea.rosca@hragile.ro	Freelance	Freelance International IT Recruiter	01 Nov 2015			Secondary Target		
-Silvia	Pintilie	https://www.linkedin.com/in/silvia-pintilie-99a0a064		Globant	🔶 Senior IT Recruiter	13 Oct 2015			Secondary Target		
-Mirela	Dabija	https://www.linkedin.com/in/mirela-dabija-9a807a9		Key HR Consulting	Partner	16 Sep 2015			Low Priority		
-Daria Alexandra	Marinescu	https://www.linkedin.com/in/daria-alexandra-marinescu-116b2358		Groupama Asigurari Romania	Organizational Development Specialist	16 Sep 2015			Low Priority		
-Liliana	Rusie ✔	https://www.linkedin.com/in/lilianarusie		Orange	Senior Recruiter Romania & Moldova | Talent Acquisition Lead	10 Aug 2015			Secondary Target		
-George	Buricea	https://www.linkedin.com/in/georgeburicea		HRS Romania	Professional Placement Lead	10 Aug 2015			Low Priority		
-Corina Mihaela	Matei	https://www.linkedin.com/in/cornelia-mihaela-nichita		-	Senior IT Recruiter	10 Aug 2015			Secondary Target		
-Florian	Lungu	https://www.linkedin.com/in/florian-lungu		Caroli Foods Group	Comp & Ben Specialist	27 Jul 2015			Low Priority		
-Traian	Chivu	https://www.linkedin.com/in/traian-chivu-883708b6		Bet365	Coordinator	21 Jul 2015			Low Priority		
-Roxana	Ciceu	https://www.linkedin.com/in/roxana-ciceu-a55b7268		Romteca	Recruiter	08 Jul 2015			Secondary Target		
-Adriana	Evanghelie	https://www.linkedin.com/in/adrianaevanghelie		Brainspotting	IT&C Recruitment Consultant	02 Jul 2015			Secondary Target		
-Ana Maria	Ursu	https://www.linkedin.com/in/ana-maria-ursu-0917b0b4		CloudHero	COO	26 Jun 2015			Low Priority		
-Simona	Visa	https://www.linkedin.com/in/simonalucianavisa		Garrett - Advancing Motion	Global Project Manager	12 Jun 2015			Low Priority		
-Bianca	Ardeleanu	https://www.linkedin.com/in/bianca-ardeleanu-48315799		Fortis Games	People Operations Generalist EMEA	09 Jun 2015			Low Priority		
-Marius	Jeler	https://www.linkedin.com/in/marius-jeler-00582219		Freelancer	Independent Recruiter	09 Jun 2015			Secondary Target		
-Silvia	Gabor	https://www.linkedin.com/in/silvia-gabor		XTB online trading	Marketing & PR Manager	13 May 2015			Low Priority		
-Diana	Andreescu	https://www.linkedin.com/in/dianaandreescu		Honeywell	Senior Human Resources Business Partner	04 May 2015			Low Priority		
-Radu	Bogdan	https://www.linkedin.com/in/radubogdanfree		Berger	Plant Foreman	29 Apr 2015			Low Priority		
-Cristina	Paun	https://www.linkedin.com/in/cristina-paun-1203b6a9		PTC	Senior Accounts Payable Administrator	24 Apr 2015			Low Priority		
-Valentina	Vasui	https://www.linkedin.com/in/valentina-vasui-25283674		Universitatea „Titu Maiorescu”	Asistent suport tehnic	07 Apr 2015			Low Priority		
-Maria Larisa	Fulga	https://www.linkedin.com/in/larisafulga		Zenith	Senior Performance Specialist	06 Apr 2015			Low Priority		
-Loredana	Georgescu	https://www.linkedin.com/in/loredana-georgescu-4b861137		EKC Canterbury College	Business Lecturer	01 Apr 2015			Low Priority		
-Alina - Elena	Radu	https://www.linkedin.com/in/alina-elena-radu		Freelance	Career Counselor	19 Feb 2015			Low Priority		
-MOSS IT	Services Solutions	https://www.linkedin.com/in/moss-it-services-solutions-b745aa9b				18 Feb 2015			Low Priority		
-Simion	Iulian	https://www.linkedin.com/in/simion-iulian-ba62777b		Liceul Teoretic „Moise Nicoară”	Teacher of Informatics	04 Feb 2015			Low Priority		
-Andra	Duma	https://www.linkedin.com/in/andra-duma-5b707623		Schneider Electric	Senior Talent Acquisition Business Partner	31 Jan 2015			Secondary Target		
-Mihaela	Damian	https://www.linkedin.com/in/damianmihaela		Cegeka	Employer Branding & Internal Communication Manager RO&MD&GR	07 Jan 2015			Low Priority		
-Sendague	Bassim	https://www.linkedin.com/in/sendague-bassim-0b9925a5		SYSTEMIS Cybersécurité	Spécialiste en cyber-sécurité	20 Dec 2014			Low Priority		
-Ana	Constantin	https://www.linkedin.com/in/ana-constantin-67197a32		AndSoft	Project Manager	12 Dec 2014			Low Priority		
-Ana	Timofte	https://www.linkedin.com/in/ana-timofte		VEO Worldwide Services	Branch Manager	12 Dec 2014			Low Priority		
-Oana	Ruxanda (Baciu)	https://www.linkedin.com/in/oana-ruxanda-baciu-6224b987		Accenture	Recruitment Operations Lead	27 Nov 2014			Low Priority		
-Adriana	Ionita	https://www.linkedin.com/in/adriana-ionita-294a7129		Thales	Learning and Development Manager	24 Nov 2014			Low Priority		
-Anca	Cristea	https://www.linkedin.com/in/anca-tanase-cristea		Acumatica	Senior Talent Acquisition Specialist	14 Nov 2014			Secondary Target		
-Miruna	Groza	https://www.linkedin.com/in/mirunagroza		_VOIS	Scrum Master / Project Manager	05 Nov 2014			Low Priority		
-Andrei	Melinte	https://www.linkedin.com/in/andrei-melinte-6a373587		Smart Soft Power	SQL Dev	20 Oct 2014			Low Priority		
-Cristina	Bleoju	https://www.linkedin.com/in/cristinableoju		Carestream Dental	HR Business Partner	01 Oct 2014			Secondary Target		
-Alexandru	Bucurescu	https://www.linkedin.com/in/alexbucurescu		INTERNATIONAL Business IT	Senior Business IT Specialist	21 Sep 2014			Low Priority		
-Roxie	Hristev	https://www.linkedin.com/in/roxiehristev		roxiehristev.ro	WordPress Web Designer	12 Sep 2014			Low Priority		
-Rj	mac	https://www.linkedin.com/in/rj-mac-4a41a3a2		QX Ltd.	IT Resourcer	11 Sep 2014			Secondary Target		
-Isabela	Musatin	https://www.linkedin.com/in/isabelamusatin		Key HR Consulting	Senior Recruiter	10 Sep 2014			Secondary Target		
-Larisa	Ispas (Tanase)	https://www.linkedin.com/in/larisa-ispas-tanase-5a73a763		Acrelec Software (Romania)	HR Business Partner	10 Sep 2014			Secondary Target		
-Laura	Gheorghica	https://www.linkedin.com/in/laura-gheorghica-20482373		Mondelēz International	Consumer Care Manager, Central Europe	09 Sep 2014			Low Priority		
-Odette	Achim	https://www.linkedin.com/in/odette-achim-98780b44		evoke	Global Talent Acquisition Manager	05 Aug 2014			Secondary Target		
-Flavia	Modreanu	https://www.linkedin.com/in/flavia-m-56972555		VOIS	Manager. Cloud Development	28 Jul 2014			Low Priority		
-Ana Maria	Toma	https://www.linkedin.com/in/ana-maria-toma-907a6096		Vauban	IT Recruiter	17 Jul 2014			Secondary Target		
-Luiza	Cristescu	https://www.linkedin.com/in/luizacristescu		Freelance	Career Consultant | Outdoor Activities Facilitator	17 Jul 2014			Secondary Target		
-Ruxandra	Ciuculescu	https://www.linkedin.com/in/ruxandra-ciuculescu		Concentrix	Content Reviewer	09 Jul 2014			Low Priority		
-Valentina	Crisan	https://www.linkedin.com/in/valentinacrisan		Densodata	Trainer Apache Cassandra & Hadoop Ecosystem	26 Jun 2014			Low Priority		
-Constantin	Giurea	https://www.linkedin.com/in/constantingiurea		GTS Telecom	Senior Project Manager Digital Services	12 Jun 2014			Low Priority		
-Mihaela	Moșneguțu	https://www.linkedin.com/in/mihaeladudescu		Catalyst Solutions	Delivery Area Manager	05 Jun 2014			Low Priority		
-Florinel	Udeanu	https://www.linkedin.com/in/florinel-udeanu-aa620297		Hays	Senior IT Recruitment Consultant	22 May 2014			Secondary Target		
-Bianca	Iliescu	https://www.linkedin.com/in/biancailiescu		IT Teams	HR Manager	28 Apr 2014			Secondary Target		
-Alina	Pătru	https://www.linkedin.com/in/alina-p%C4%83tru-bb711b66		MHP – A Porsche Company	Manager	10 Apr 2014			Low Priority		
-Raluca	Repanovici	https://www.linkedin.com/in/raluca-marinescu		Siemens	Project Portfolio Manager	10 Apr 2014			Low Priority		
-Ioana	Nemeti Pasca	https://www.linkedin.com/in/ioananemeti		Ioana Nemeti Cabinet Individual de Psihologie	Psihoterapeut	20 Mar 2014			Low Priority		
-Ionut	Grigorescu	https://www.linkedin.com/in/ionut-grigorescu		BEECODED	Chief Executive Officer	04 Mar 2014			Low Priority		
-Tufeanu	Marina	https://www.linkedin.com/in/tufeanu-marina-969a396b		ADP	Sales Finance Team Leader	25 Feb 2014			Low Priority		
-Greavu	Raluca	https://www.linkedin.com/in/greavu-raluca-20a08769		ImaginiVii Photography	Photo Editor	27 Jan 2014			Low Priority		
-Irina	Nicolae	https://www.linkedin.com/in/irina-nicolae-a2251638		Bosch Center for Artificial Intelligence (BCAI)	Research Scientist	16 Jan 2014			Low Priority		
-Laura	Nechifor	https://www.linkedin.com/in/laura-nechifor-4aab7483		CTY Group	Consultant	15 Jan 2014			Secondary Target		
-Vivienne	Clement	https://www.linkedin.com/in/vivienne-clement-78700360		Acrelec Software (Romania)	Senior IT Support & Services Manager	13 Dec 2013			Low Priority		
-Cristina	Ioaniciu	https://www.linkedin.com/in/cristinamunteanadriana		accesa.eu	HR Operational Manager	06 Dec 2013			Secondary Target		
-Laura	Filimon	https://www.linkedin.com/in/laurafilimon		Spiritual Healing	Reconnective Healing & Theta Healing Practitioner & Spiritual Counselor for those in need	08 Nov 2013			Low Priority		
-Raphaële	ANGELESCU	https://www.linkedin.com/in/rapha%C3%ABle-angelescu-5080675b		CIREFE	Directrice adjointe	02 Nov 2013			Low Priority		
-Cristina	Apostolu	https://www.linkedin.com/in/calinem		mindit.io	Talent Acquisition Partner	01 Nov 2013			Secondary Target		
-Octavian	Ciuculescu	https://www.linkedin.com/in/octavian-ciuculescu-68029a84		Home Sweet Home	Retired self-employed	23 Oct 2013			Low Priority		
-Valentina	Toi	https://www.linkedin.com/in/valentinatoi		Cegeka	Scrum Master	17 Oct 2013			Low Priority		
-Alina	Anton-Ciubotaru	https://www.linkedin.com/in/alina-anton-ciubotaru-1a823146		Honeywell	Lead customer experience specialist	16 Oct 2013			Low Priority		
-Daniela	Coman	https://www.linkedin.com/in/daniela-coman-629597b		Expleo Group	Talent Acquisition Manager	04 Oct 2013			Secondary Target		
-Lorena	Sauciuc	https://www.linkedin.com/in/lorena-sauciuc-07b5a97a		IQ Staff	Consultant HR	30 Sep 2013			Secondary Target		
-Cristi	Neacsu	https://www.linkedin.com/in/cristineacsu		UiPath	EMEA Principal Talent Acquisition Partner	04 Sep 2013			Secondary Target		
-Madalina	Bosneaga	https://www.linkedin.com/in/madalina-bosneaga-51727474		rinf.tech	IT RECRUITER	23 Aug 2013			Secondary Target		
-Roman	Solomon	https://www.linkedin.com/in/romansavitchi		Deloitte	Resource Manager	27 Jul 2013			Low Priority		
-Emilia	Mihaila	https://www.linkedin.com/in/mihailaemilia		Deloitte	HRBP- Manager	23 Jul 2013			Secondary Target		
-Valentin	Cismaru	https://www.linkedin.com/in/valentincismaru		AD/01	Senior IT Talent Acquisition Partner	18 Jul 2013			Secondary Target		
-Alina	Grosu	https://www.linkedin.com/in/alina-grosu-a2869014				03 Jul 2013			Low Priority		
-Sabina	Mirela	https://www.linkedin.com/in/sabina-mirela-61038855		Success HR Expert	HR Consultant	01 Jul 2013			Secondary Target		
-Maria	Tilvan	https://www.linkedin.com/in/mariatilvanhrconsultant		Ataway	Global Offshore Human Resources Business Partner	26 Jun 2013			Low Priority		
-Domnina	Rosu	https://www.linkedin.com/in/domnina-burca-florea		NXP Semiconductors	Senior Service Manager	24 Jun 2013			Low Priority		
-Crina	Ochenatu	https://www.linkedin.com/in/crina-ochenatu-05205154		World Class Fitness	Personal Trainer	12 Jun 2013			Low Priority		
-Ana	Pirvulescu	https://www.linkedin.com/in/ana-maria-pirvulescu		Google	Engagement Manager	18 May 2013			Low Priority		
-Mihai Ioan	Manea	https://www.linkedin.com/in/mihai-ioan-manea-05630360		ROMATSA	Air Traffic Controller	14 May 2013			Low Priority		
-Ionut	Stoica	https://www.linkedin.com/in/ionut-stoica-01ba4830		Mediterranean Shipping Company	Assistant Reefer Manager	11 Apr 2013			Low Priority		
-Simone	Müller	https://www.linkedin.com/in/simone-m%C3%BCller-0b1b4a27		Global Jobs Service	Senior Recruiter	19 Mar 2013			Secondary Target		
-Cristian	Olaru	https://www.linkedin.com/in/cristian-olaru-43190512		HP	Sales Omnichannel Cloud Comms Lead	13 Mar 2013			Low Priority		
-Ana	Vlad	https://www.linkedin.com/in/ana-vlad-56b90724		Cybercrime Programme Office of the Council of Europe (C-PROC)	Project Assistant	21 Feb 2013			Low Priority		
-Daiana-Teona	Guy	https://www.linkedin.com/in/daiana-teona-guy-98735a64		Pentalog	Scrum Master	09 Feb 2013			Low Priority		
-Miruna	Banu	https://www.linkedin.com/in/mirunabanu		Microsoft	Senior Customer Success Account Manager	21 Jan 2013			Low Priority		
-Alexandru	Ana	https://www.linkedin.com/in/alexandru-ana-834a6542	symplycyus@yahoo.com	Upwork	M365 Administrator	18 Jan 2013			Low Priority		
-Irina	Mincinopschi	https://www.linkedin.com/in/irinamincinopschi		Depanero	General Manager	27 Dec 2012			Low Priority		
-Ana	Stanciucu	https://www.linkedin.com/in/ana-stanciucu-73b35a62		EuroAnswer	Functionar public	27 Dec 2012			Low Priority		
-Raluca	Cioran	https://www.linkedin.com/in/ralucacioran		Cegeka Romania	ICT Talent Acquisition Lead	11 Dec 2012			Secondary Target		
-Raellaylèen Ray	(☞ ͡° ͜ʖ ͡°)☞	https://www.linkedin.com/in/alinaray		Ministry of National Defence - Romania	Military Intell. Analyst	26 Nov 2012			Low Priority		
-Bogdan	Dumitrescu	https://www.linkedin.com/in/dumitrescufbogdan		Accenture	Business Transformation Manager	08 Nov 2012			Low Priority		
-Claudia	Balotescu	https://www.linkedin.com/in/claudia-balotescu-9627635b		IKEA Group	Sales Consultant	06 Nov 2012			Secondary Target		
-Alexandra	Scout	https://www.linkedin.com/in/toptalentsromania		Catalyst Solutions	Career Innovation Week	30 Oct 2012			Low Priority		
-Vlad	Posea	https://www.linkedin.com/in/vladposea		Eau de Web	Business Analyst	25 Oct 2012			Low Priority		
-Violeta-Loredana	Cocias	https://www.linkedin.com/in/violeta-loredana-cocias-42229027		Ericsson	Managed Services Delivery Manager	17 Oct 2012			Low Priority		
-Marius	Raileanu	https://www.linkedin.com/in/marius-raileanu-1900513b		Gamblers Media	Casino Inside Magazine	20 Jul 2012			Low Priority		
-Laura	Enache	https://www.linkedin.com/in/laura-enache-53830148		Universitatea POLITEHNICA din București	Teaching Assistant	11 Jul 2012			Low Priority		
-Mirela	Canale	https://www.linkedin.com/in/mirela-canale-959a9740		Groupe Renault	Human Resources Business Partner	03 Jul 2012			Low Priority		
-Florentina	Lascut	https://www.linkedin.com/in/florentinalascut		Insight	Psychotherapist	28 Jun 2012			Low Priority		
-Madalina	Efrem	https://www.linkedin.com/in/madalinaefrem		PwC	Compliance Project Manager	02 Jun 2012			Low Priority		
-Iulia-Mura	BORCAIAS	https://www.linkedin.com/in/iulia-mura-borcaias-0b97416		CCI Française en Roumanie	Business Development Manager	16 May 2012			Low Priority		
-Andrei	Maroș	https://www.linkedin.com/in/andrei-maro%C8%99-13682334		BAT	DBS Corporate Finance Lead	10 May 2012			Low Priority		
-Alexandru	Baduca	https://www.linkedin.com/in/abaduca		Regina Maria, Reteaua de sanatate	Manager Aplicatii Digitale	19 Apr 2012			Low Priority		
-Filimon	Ana Maria	https://www.linkedin.com/in/filimon-ana-maria-6801099		I Oxigen LTD	PR Specialist	19 Apr 2012			Low Priority		
-Alexandra	Ene	https://www.linkedin.com/in/alexandra-ene-3a601446		Deloitte	EWM Practice Lead	19 Apr 2012			Low Priority		
-Iulia-Andreea	Dimulescu	https://www.linkedin.com/in/iulia-andreea-dimulescu-77453247		Dell Technologies	Services Sales Representative - OEM Services	25 Mar 2012			Low Priority		
-											
-											
+# 30-Day Cold Outreach Prospect List
+
+**ICP:** Agency owners / Technical directors at dev shops with 5–50 people who need senior overflow capacity for audits, sprints, or specialized work.
+
+**Total prospects:** 1177
+
+---
+
+1. **Tome Nedinkovski** - Co-Founder & Managing Director | Talent Consultant @ Psyent | Primary Target | [in](https://www.linkedin.com/in/tome-nedinkovski)
+2. **Abdel El-wekil** - Senior Full Stack Developer | Expert in PHP (Laravel&Symfony) / JavaScript (Node&React) | Contractor @ Remote Work | Primary Target | [in](https://www.linkedin.com/in/elwekil)
+3. **Adrian Rindasu** - Co-Founder and Managing Partner @ Crosswork | Primary Target | [in](https://www.linkedin.com/in/adrianrindasu)
+4. **Valentina Brysina** - Co-Founder & Head of Talent Acquisition @ Digital Pipl | Primary Target | [in](https://www.linkedin.com/in/hireyourteam)
+5. **Nicu Mardari** - Co-Founder and CEO @ 7code | Primary Target | [in](https://www.linkedin.com/in/nicu-mardari-b39a3477)
+6. **Sergiu Neagu** - Managing Director & Sr. Full Stack Developer @ Data Partner Solutions | Primary Target | [in](https://www.linkedin.com/in/sergiu-neagu)
+7. **Ernestas Petkevicius** - CEO & Co-founder @ JSC Vertex | Primary Target | [in](https://www.linkedin.com/in/epetkevicius)
+8. **Alvin Stanescu** - Director, Software Engineering @ UiPath | Primary Target | [in](https://www.linkedin.com/in/alvin-stanescu)
+9. **Joanna Ufniak** - Co-Founder / Head of Client Relations @ Magic Mondayz Miami | Primary Target | [in](https://www.linkedin.com/in/joanna-ufniak-283a82a6)
+10. **Gustaf Kornias** - CEO & Co-founder @ Fitpass.ro | Primary Target | [in](https://www.linkedin.com/in/gustafkornias)
+11. **Ana Arcalianu** - PPC Amazon Consulting Co-Founder at Amaze Consulting Agency @ Amaze Consulting Agency | Primary Target | [in](https://www.linkedin.com/in/ana-arcalianu-8a229710a)
+12. **Alexandru RADOVICI** - Co-Founder and CEO @ OxidOS Automotive | Primary Target | [in](https://www.linkedin.com/in/alexandruradovici)
+13. **Bogdan-Agnus Tica** - Senior Node.js / PHP  Fullstack Developer / Contractor / Freelancer @ Remote Work | Primary Target | [in](https://www.linkedin.com/in/bogdan-tica)
+14. **Serge Lavrinchuk 🇺🇦** - Founder & CEO - Marketplace of Pre-Vetted Remote Developers @ Wild.Codes | Primary Target | [in](https://www.linkedin.com/in/lavrinchuck)
+15. **Kashif Ali** - Director & Founder - Search & Selection @ OpenSourced | Primary Target | [in](https://www.linkedin.com/in/kashif-opensourced)
+16. **Raluca - Ștefania Rîșnoveanu** - Co-Founder & CTO @ Meetgeek.ai | Primary Target | [in](https://www.linkedin.com/in/raluca-%C8%99tefania-r%C3%AE%C8%99noveanu-634360119)
+17. **Daniel Berigoi** - Co-Founder & CTO @ Slashscore | Primary Target | [in](https://www.linkedin.com/in/daniel-berigoi)
+18. **Madalina Dragoescu** - Senior Recruiter - Technology & HR. Co-founder @ Itworx | Primary Target | [in](https://www.linkedin.com/in/madalinadragoescu)
+19. **Guillaume Costanza** - Co-founder and CTO @ PINPO | Primary Target | [in](https://www.linkedin.com/in/guillaume-costanza-0729a387)
+20. **Tudor Stanciu** - Co-Founder, Technology Lawyer @ Ventures'n'Law | Primary Target | [in](https://www.linkedin.com/in/tudorstanciu)
+21. **Bogdan Dragoescu** - Senior Recruiter - Technology & HR. Co-founder @ Itworx | Primary Target | [in](https://www.linkedin.com/in/bogdan-dragoescu-6139711)
+22. **Ionut Nicolae** - Founder, Managing Director @ OZANIS | Primary Target | [in](https://www.linkedin.com/in/ionutnicolae)
+23. **Radu Gabor** - Software Developer & Founder @ Bitwise Tech | Primary Target | Last reached: 24/2/25 | [in](https://www.linkedin.com/in/radugabor)
+24. **Ryan Jennings** - Director / Developer @ Ryan Leigh Design Ltd | Primary Target | [in](https://www.linkedin.com/in/ryan-jennings)
+25. **Adrian Nastasoiu** - Software Engineer (PHP, Laravel) @ Fintech Galaxy | Secondary Target | [in](https://www.linkedin.com/in/adrian-nastasoiu-web-developer)
+26. **George Naftanaila** - Engineering Director @ Pentalog | Primary Target | [in](https://www.linkedin.com/in/george-naftanaila-1712267)
+27. **Simona Serban** - People & Organisation Director - eMAG Tech Organisation @ eMAG | Primary Target | [in](https://www.linkedin.com/in/siserban)
+28. **Tudor Constantinescu** - Software Systems Director @ PROPHESEE | Primary Target | [in](https://www.linkedin.com/in/tudor-constantinescu-56aa034a)
+29. **Paweł Tomczuk** - Founder & CEO @ TechTree | Primary Target | [in](https://www.linkedin.com/in/paweltomczuk)
+30. **Catalin Ungureanu** - Founder & Managing Partner @ Digital Yield | Primary Target | [in](https://www.linkedin.com/in/catalin-ungureanu-5a0b9b99)
+31. **Dan Suciu** - Co-Founder @ Cluj Hackathon | Primary Target | [in](https://www.linkedin.com/in/dan-suciu)
+32. **Heorhii Skoropad** - CVO and Co-Founder @ EVA - Philippines and Indonesia Manpower | Primary Target | [in](https://www.linkedin.com/in/heorhii-skoropad)
+33. **Ioana Patrui** - HR Managing Partner & Owner @ 360Talent Co. | Primary Target | [in](https://www.linkedin.com/in/ioanapatrui)
+34. **Stefano Iervolino** - Founder & Ceo @ Fly Go Voyager | Primary Target | [in](https://www.linkedin.com/in/stefano-iervolino-3254a358)
+35. **Adrian Stanescu** - Owner and founder @ Workit Romania | Primary Target | [in](https://www.linkedin.com/in/adrian-stanescu-095543140)
+36. **Daniel Oltean** - Co-Founder @ FOSS Agency | Primary Target | [in](https://www.linkedin.com/in/daniel-oltean-10b0b81)
+37. **Victor Alex** - CEO & Co Founder @ Netbee.co | Primary Target | [in](https://www.linkedin.com/in/victor-alex-88395670)
+38. **Laurentiu Giurescu** - Founder & Managing Partner @ Soft Pepper | Primary Target | [in](https://www.linkedin.com/in/laurentiugiurescu)
+39. **Octavian Micu 🎯** - ✅ General Manager, Founder, 100% Owner @ Asigurăm Creditarea | Primary Target | [in](https://www.linkedin.com/in/octavianmicu)
+40. **Adrian Paul Ghițun** - Mobile Consultant and Co-founder @ NEOBYTES TECH | Primary Target | [in](https://www.linkedin.com/in/adrian-paul-ghi%C8%9Bun-177ab281)
+41. **Ionut Caval** - Co-Founder @ Enduro Software | Primary Target | [in](https://www.linkedin.com/in/ionutcaval)
+42. **Monica Mihaela Spiteri** - Co-Founder @ EarnDLT | Primary Target | [in](https://www.linkedin.com/in/monicaspiteri)
+43. **Matei Rogoz** - Co-Founder @ Kappa London | Primary Target | [in](https://www.linkedin.com/in/matei-rogoz-168716127)
+44. **Alexandra Lungu** - Co-Founder @ One Stop HR | Primary Target | [in](https://www.linkedin.com/in/alexandra-lungu-929021140)
+45. **Ancu Radu** - Owner and CEO @ Loki - Paid Per Minute Audio, Video, Text Chats | Primary Target | [in](https://www.linkedin.com/in/ancu-radu-61a36923)
+46. **Alex Balint** - Head of Software Engineering, Payments Romania Site @ Stripe | Secondary Target | [in](https://www.linkedin.com/in/alexandrubalint)
+47. **Bogdan Nicoară** - Founder & CEO @ Bright Spaces | Primary Target | [in](https://www.linkedin.com/in/bogdan-nicoara)
+48. **Costina Anastasescu** - Co-Founder - Partner, HR Outsourcing & Services @ Hunt Executive Romania | Primary Target | [in](https://www.linkedin.com/in/costina-anastasescu-06aa4652)
+49. **Vivien Untaru** - Owner &CEO @ VON Consulting | Primary Target | [in](https://www.linkedin.com/in/vivienuntaru)
+50. **Mihai Zaharia** - Founder & Owner @ Bunicel.ro | Primary Target | [in](https://www.linkedin.com/in/mihai-zaharia-4aa82562)
+51. **Silvia Marinescu** - Co-Founder @ Chefs of Romania | Primary Target | [in](https://www.linkedin.com/in/silvia006)
+52. **Laura Michaud** - Chief Product Officer & Co-founder @ xpath.global | Primary Target | [in](https://www.linkedin.com/in/laurammichaud)
+53. **Bogdan Anton** - Co-Founder @ Traista Urbana | Primary Target | [in](https://www.linkedin.com/in/bogdan-anton-809938113)
+54. **Andreea Istrati** - Co-Founder - Partner, HR Recruitment & Services @ Hunt Recruitment Romania | Primary Target | [in](https://www.linkedin.com/in/andreeaistrati)
+55. **Cristina Oprea Ciocoiu** - Co-Founder @ QTeam Software Solutions | Primary Target | [in](https://www.linkedin.com/in/cristinaciocoiuoprea)
+56. **Georgiana Dragomir** - Managing Partner, Head of Consulting, Psychology and Psychotherapy @ Innerlook Consulting | Primary Target | [in](https://www.linkedin.com/in/georgianadragomir)
+57. **Marius Baisan** - Co-Founder & Advisor @ Softbinator Technologies | Primary Target | [in](https://www.linkedin.com/in/marius-baisan)
+58. **Dan Grigoras** - Executive Director @ eSolutions Academy | Primary Target | Last reached: 24/2/25 | [in](https://www.linkedin.com/in/dangrigoras)
+59. **Armand Codreanu** - Full Stack Developer with Laravel @ iaBilet.ro | Secondary Target | [in](https://www.linkedin.com/in/armand-codreanu)
+60. **Giada Salvo** - Director, Sales Development, EMEA & APAC @ LaunchDarkly | Primary Target | [in](https://www.linkedin.com/in/giada-salvo)
+61. **Neal Garman** - Director @ TechNG Ltd | Primary Target | [in](https://www.linkedin.com/in/neal-garman)
+62. **Orazio Principe** - Head of Engineering @ 1X2 Network | Primary Target | [in](https://www.linkedin.com/in/orazio-principe)
+63. **Cristian Iosif** - Founder & Lead Developer @ FilamentComponents.com | Primary Target | [in](https://www.linkedin.com/in/ciosif)
+64. **Mihai Stoian** - Freelance PHP Laravel Developer @ Freelance | Secondary Target | [in](https://www.linkedin.com/in/mihai-s-9990b8109)
+65. **Ioana Sinca** - PHP Backend Developer @ GDM WEBMEDIA | Secondary Target | [in](https://www.linkedin.com/in/ioana-sinca-7722b876)
+66. **Paul-James Booth** - Senior Director Product, Platforms & Tools @ IGT PlayDigital | Primary Target | [in](https://www.linkedin.com/in/paul-james-booth-34127a173)
+67. **Kharchenko Ihor** - Full stack software engineer @ Digicode | Secondary Target | [in](https://www.linkedin.com/in/kharchenko-ihor-17352265)
+68. **Dragos Stanciu** - Head of Engineering @ SEOmonitor.com | Primary Target | [in](https://www.linkedin.com/in/dragos-stanciu-4093467b)
+69. **Iulia Istrate** - Senior Director, Product Management @ UiPath | Primary Target | [in](https://www.linkedin.com/in/iuliaistrate)
+70. **George Razvan** - PHP Developer - Laravel @ SGRPFA | Secondary Target | [in](https://www.linkedin.com/in/george-razvan-stangaciu)
+71. **George Nicola** - Lead Backend Engineer/Architect @ Indépendant | Secondary Target | [in](https://www.linkedin.com/in/george-nicola-63176569)
+72. **Teodor Grigor** - Technical Software Engineer Android @ Marley Spoon | Secondary Target | [in](https://www.linkedin.com/in/teogor)
+73. **Cosmina GUFFROY** - Managing Director @ UKIYO Consulting | Primary Target | [in](https://www.linkedin.com/in/cosmina-guffroy-ukiyo)
+74. **Bill Ward** - Director @ Jet Consulting Ltd | Primary Target | [in](https://www.linkedin.com/in/bill-ward-8306a7176)
+75. **Cristiana Cordos** - 360 Recruitment Director @ Hodfords | Primary Target | [in](https://www.linkedin.com/in/cristiana-cordos-a14496194)
+76. **Andy Bitica** - Director of Graphic Design @ Ideologiq | Primary Target | [in](https://www.linkedin.com/in/andy-b-5a0770a3)
+77. **Stefan Adrian Marogel** - Owner and CTO @ Brunomag Concept | Primary Target | [in](https://www.linkedin.com/in/marogel)
+78. **Justin Borah** - Sales Director @ ConnexAI | Primary Target | [in](https://www.linkedin.com/in/justinborah)
+79. **Alexandru Voiculescu** - Director @ PureQuad | Primary Target | [in](https://www.linkedin.com/in/alexandru-voiculescu)
+80. **Ivan Bernat** - Senior Director of Fulfilment, Enterprise @ Turing | Primary Target | [in](https://www.linkedin.com/in/ivanbernat)
+81. **Pierre Manetti** - Commercial Director Europe @ Extia | Primary Target | [in](https://www.linkedin.com/in/pierremanetti)
+82. **Robert Eduard Herman** - Managing Director - Bucharest @ Machinas | Primary Target | [in](https://www.linkedin.com/in/hermaneduard)
+83. **Monica JIMAN** - TDC Director Europe & Middle East @ Globant | Primary Target | [in](https://www.linkedin.com/in/monicajiman)
+84. **Thierry BEAUCAMP** - Founder | CTO & Product Delivery Manager @ 2crypto.io | Primary Target | [in](https://www.linkedin.com/in/thierry-beaucamp)
+85. **Jan-Jaap Arends** - Founder / Solution architect @ CodeImpact B.V. | Primary Target | [in](https://www.linkedin.com/in/jan-jaap-arends)
+86. **🚀 Diana Ioana Vlașin** - Founder | Technical recruiter | Scaling advisor @ NEXT | Global headhunting | Primary Target | [in](https://www.linkedin.com/in/diana-vla%C8%99in)
+87. **Alexandru-Teodor Iftimoaei** - Director Adjunct @ SC TEXTILA SA | Primary Target | [in](https://www.linkedin.com/in/alexandru-teodor-iftimoaei-8a7b7b24)
+88. **Daniel Sirbu** - IT Manager/Full Stack PHP/Symfony/Laravel/Mentor IT @ ZONKWAVE | Secondary Target | [in](https://www.linkedin.com/in/sirbudaniel)
+89. **Gianinna Romascu** - Managing Director @ Evolve today Romania | Primary Target | [in](https://www.linkedin.com/in/gianinnaromascu)
+90. **Lori Haiducescu** - Director operatiuni @ Senior Software | Primary Target | [in](https://www.linkedin.com/in/lorihaiducescu)
+91. **Narcisa-Laura Bacau** - Technical Product Owner / Product Manager @ ING Hubs Romania | Primary Target | [in](https://www.linkedin.com/in/narcisabacau)
+92. **Silvia Stoica** - Technical Product Owner @ Playtika | Primary Target | [in](https://www.linkedin.com/in/silvia-stoica-504351106)
+93. **Luminita Petrache** - HR Operations Director - EMEA Region @ ARKANCE | Primary Target | [in](https://www.linkedin.com/in/luminita-petrache-7952925)
+94. **Jasson Michaud** - Creative Director @ Ribbet | Primary Target | [in](https://www.linkedin.com/in/jasson-michaud)
+95. **Silviu Stroe** - Founder & CTO @ Brainic | Primary Target | [in](https://www.linkedin.com/in/silviustroe)
+96. **Viorela Marcu** - Director of Employee Experience @ UiPath | Primary Target | [in](https://www.linkedin.com/in/viorelamarcu)
+97. **Tudor Neacsu** - Executive Director @ TeamPro Strategy Consulting | Primary Target | [in](https://www.linkedin.com/in/tudor-neacsu-b3074225)
+98. **Alexandru Benzari** - Software Engineering Manager @ CentralNic Registry | Primary Target | [in](https://www.linkedin.com/in/alexandru-b-46b83b101)
+99. **Chris Gyere** - Head of Practice - Tech & Operations Recruitment @ Pentasia | Low Priority | [in](https://www.linkedin.com/in/chris-gyere-20a36bb8)
+100. **Marius Costache** - Software Engineering Manager @ Onapsis | Primary Target | [in](https://www.linkedin.com/in/mariuscostache)
+101. **Mihail Serafim** - Senior Software Engineering Manager @ Microsoft | Primary Target | [in](https://www.linkedin.com/in/mihailserafim)
+102. **Vlad Durbaca** - Software Engineering Manager @ Ipsos | Primary Target | [in](https://www.linkedin.com/in/vladdurbaca)
+103. **Laura Preda** - Software Engineering Manager @ Microsoft | Primary Target | [in](https://www.linkedin.com/in/laura-preda-33227b54)
+104. **Anicuta Vasilache** - Head of Software Development @ Anchor Grup SA | Low Priority | [in](https://www.linkedin.com/in/anicuta-vasilache-39126821)
+105. **Melby Thomas** - Senior Software Engineer @ Innovation Incubator Advisory | Secondary Target | [in](https://www.linkedin.com/in/melby-t-692662132)
+106. **Ionut Balintoni** - Managing Partner @ Qualia Executive Search | Primary Target | [in](https://www.linkedin.com/in/ionutbalintoni)
+107. **Codrin Popa** - Full Stack Web Developer @ Freelance | Secondary Target | [in](https://www.linkedin.com/in/pcodrin)
+108. **Voloc Andrei** - Founder @ webaz.ro | Primary Target | [in](https://www.linkedin.com/in/voloc-andrei-20b4571a6)
+109. **Nicolae Serban** - Senior Software Engineer @ Zitec | Secondary Target | [in](https://www.linkedin.com/in/nicserban)
+110. **Rareș Bană** - Product Owner @ woot.ro | Primary Target | [in](https://www.linkedin.com/in/raresbana)
+111. **Rob Owen** - PHP Developer @ Sandwell & West Birmingham NHS Trust | Secondary Target | [in](https://www.linkedin.com/in/rob-owen)
+112. **Solange BLUNDI** - Freelance Software Developer @ Freelance Web Development | Secondary Target | [in](https://www.linkedin.com/in/solange-blundi)
+113. **mohamed mostafa** - AWS Support Engineer @ SoftwareONE | Low Priority | [in](https://www.linkedin.com/in/mohamed-mostafa-b76a20168)
+114. **Guillaume Souillard** - Consultant Technique & Lead Développeur Laravel Vue/JS @ MyGuitare | Secondary Target | [in](https://www.linkedin.com/in/guillaume-souillard)
+115. **Alexei Khachatrian** - Senior Software Development Engineer @ NGA - Next Generation Advanced | Low Priority | [in](https://www.linkedin.com/in/alexei-khachatrian)
+116. **Dragoș Roșcuț** - PHP Developer @ Endava | Secondary Target | [in](https://www.linkedin.com/in/dragos-roscut)
+117. **Mihai Pricop** - PHP Developer @ S.C. Leadsoft S.R.L. | Secondary Target | [in](https://www.linkedin.com/in/mihaipricop)
+118. **Elisa-Melania Sferdian** - Cloud Software Engineer @ Canon Production Printing | Secondary Target | [in](https://www.linkedin.com/in/elisa-melania-sferdian-944269118)
+119. **Adrian Dobrescu** - PHP Developer / Development Consultant @ Endava | Secondary Target | [in](https://www.linkedin.com/in/adidobrescu)
+120. **Alexandru-Sebastian Boldisor** - System Software Engineer @ Ropardo - Software Engineering | Secondary Target | [in](https://www.linkedin.com/in/alexandru-sebastian-boldisor-83058b1b1)
+121. **Andrei Chirica** - Software Developer @ eMAG | Secondary Target | [in](https://www.linkedin.com/in/andrei-chirica-163912127)
+122. **Tomasz Drabik** - Full Stack Developer / Lead - Volunteering @ Inte.Team | Secondary Target | [in](https://www.linkedin.com/in/tomasz-drabik-76196175)
+123. **Lidia Lupu** - Software Developer @ Finastra | Secondary Target | [in](https://www.linkedin.com/in/lidia-lupu-09095523b)
+124. **Andrei Radu** - Software Developer with 3+ years | React | Typescript @ Remote Work | Secondary Target | [in](https://www.linkedin.com/in/andrei-radu-dev)
+125. **Ștefan-Alexandru Vladu** - Owner @ Divine Solutions | Primary Target | [in](https://www.linkedin.com/in/stefanv23)
+126. **Norbert Tamás** - Senior Full Stack Developer @ SCAYLE Commerce Engine | Secondary Target | [in](https://www.linkedin.com/in/tnconcept)
+127. **Matthew Evans** - Founder @ All in Gaming | Primary Target | [in](https://www.linkedin.com/in/mattevans88)
+128. **Brian Sadler** - Senior Software Engineer @ Easy Direct Debits Limited | Secondary Target | [in](https://www.linkedin.com/in/wbsadler)
+129. **Alex Mieila** - Java Software Developer @ Raiffeisen Bank Romania | Secondary Target | [in](https://www.linkedin.com/in/alexmieila)
+130. **Alexandru Matei** - Senior Software Engineer @ Joberty Romania | Secondary Target | [in](https://www.linkedin.com/in/alexandru-matei-b26751228)
+131. **Alexandr Sanzharovskiy** - PHP developer @ IGT PlayDigital | Secondary Target | [in](https://www.linkedin.com/in/alexandr-sanzharovskiy-735458145)
+132. **Craciun Iulian** - Senior Software Engineer @ hello energy | Secondary Target | [in](https://www.linkedin.com/in/craciun-iulian-39b97a2)
+133. **Grigore Rusnac** - Java Software Engineer @ Software Mind Romania & Moldova | Secondary Target | [in](https://www.linkedin.com/in/grigore-rusnac)
+134. **Ionuț Dănilă** - Senior Software Engineer @ Bolt | Secondary Target | [in](https://www.linkedin.com/in/ionutdanila)
+135. **Costinel Cocovean** - PHP Developer @ MEDILIS TECHNICAL SOLUTIONS SRL | Secondary Target | [in](https://www.linkedin.com/in/costinel-cocovean-7b8882181)
+136. **Gregorio Benjamin Gullo** - Full Stack Developer @ Darwoft | Secondary Target | [in](https://www.linkedin.com/in/benjitadev)
+137. **Theodora Badulescu** - Senior IT Recruiter | HR Consultant | Founder @ HRxToday™ | Primary Target | [in](https://www.linkedin.com/in/theodorahrxtoday)
+138. **Janki Chaudhari** - Software Engineer (dev) Manager 3 @ IGT PlayDigital | Secondary Target | [in](https://www.linkedin.com/in/janki-chaudhari-700a5227)
+139. **Ana Sandu** - Founder @ mōtem | Primary Target | [in](https://www.linkedin.com/in/sanduana)
+140. **Denis JIFCU** - Product Owner @ Play'n GO | Primary Target | [in](https://www.linkedin.com/in/denis-jifcu-a25b44113)
+141. **Laura Nita-Ciurea** - Co-Owner @ Zynala | Primary Target | [in](https://www.linkedin.com/in/laura-nita-ciurea)
+142. **Florina Constantin** - IT Product Owner @ eMAG | Primary Target | [in](https://www.linkedin.com/in/florina-constantin-04151b152)
+143. **Ąžuolas L. Adlys** - Managing Partner (Recruiting Operations) @ House of People | Primary Target | [in](https://www.linkedin.com/in/azuolasladlys)
+144. **Ivan Theunissen** - Managing Partner @ Visionnear | Primary Target | [in](https://www.linkedin.com/in/ivantheunissen)
+145. **Mihaela Capitan** - Managing Partner @ Cyber Nest  Talent Acquisition | Primary Target | [in](https://www.linkedin.com/in/mihaela-capitan-91904aba)
+146. **Flavian-Catalin Pah** - Founder & President @ Carpathia Investing Club | Primary Target | [in](https://www.linkedin.com/in/flavian-catalin-pah-b86307102)
+147. **Dragoș Tarțău** - Managing Partner @ Trieres - Software and IT&C Services | Primary Target | [in](https://www.linkedin.com/in/drago%C8%99-tar%C8%9B%C4%83u-47a7b925)
+148. **Yaroslav Pokhyl** - Senior Software Engineer @ Complete Solar | Secondary Target | [in](https://www.linkedin.com/in/yaroslav-pokhyl-aa246499)
+149. **Razvan Topliceanu** - Software Engineer @ Kubeshop | Secondary Target | [in](https://www.linkedin.com/in/razvantopliceanu)
+150. **Andreea-Valentina Iote** - Support Engineer & Oracle + SQL Developer @ New Business Dimensions | Secondary Target | [in](https://www.linkedin.com/in/andreea-valentina-iote-135181152)
+151. **Ionut-Alexandru Muresan** - Front End Software Engineer/Angular @ accesa.eu | Secondary Target | [in](https://www.linkedin.com/in/ionut-alexandru-muresan-176628193)
+152. **Mihnea Stoian** - Founder @ Veve Geek | Primary Target | [in](https://www.linkedin.com/in/mihnea-stoian-9a918a18b)
+153. **Catalin Stan** - Senior Software Engineer @ Free Soft SCG | Secondary Target | [in](https://www.linkedin.com/in/catalin-stan-38288466)
+154. **Alin Metesan** - Owner @ In Afaceri | Primary Target | [in](https://www.linkedin.com/in/alinmetesan)
+155. **Andreea Topliceanu** - Technical Recruiter - Engineering @ Revolut | Secondary Target | [in](https://www.linkedin.com/in/andreea-topliceanu-86979298)
+156. **Erhan Abibula** - Senior Software Engineer @ Adobe | Secondary Target | [in](https://www.linkedin.com/in/erhan-abibula)
+157. **Nikita Gruia** - Senior Python Engineer @ AutoDS - Automatic Dropshipping Tools | Low Priority | [in](https://www.linkedin.com/in/gruia-dev)
+158. **Afonso Costa** - PHP Developer @ AWAREWAYS | Secondary Target | [in](https://www.linkedin.com/in/afonso-costa-38631911a)
+159. **Teodor Arteni** - Senior Software Engineering Consultant @ Freelance | Secondary Target | [in](https://www.linkedin.com/in/teodorarteni)
+160. **Nicolae-Dan Mutu** - 🤙 Small Business Owner @ Adcelerum Digital Agency | Primary Target | [in](https://www.linkedin.com/in/nicolaedanmutu)
+161. **Ovidiu Muntean** - Senior Android Software Engineer @ IMAWO INC | Secondary Target | [in](https://www.linkedin.com/in/ovidiu-muntean)
+162. **Elena Alexandra Juverdeanu** - Product Owner @ Expert Network | Primary Target | [in](https://www.linkedin.com/in/elena-alexandra-juverdeanu-74a28514a)
+163. **Dana Ardeleanu** - Software Engineer @ eMAG | Secondary Target | [in](https://www.linkedin.com/in/dana-ardeleanu-691693125)
+164. **Adrian Dumitrana** - Software Engineer @ Cognizant Softvision | Secondary Target | [in](https://www.linkedin.com/in/adriandumitrana)
+165. **Cristi Cosofret** - Full Stack Developer @ BeeNear | Secondary Target | [in](https://www.linkedin.com/in/cristi-cosofret-66523869)
+166. **Sebastian Teodorescu** - Senior Software Engineer @ Salt Bank | Secondary Target | [in](https://www.linkedin.com/in/sebastian-teodorescu-05a11aa1)
+167. **Alexandru Efimov** - Engineering Technical Lead @ Cisco | Low Priority | [in](https://www.linkedin.com/in/alexandruefimov)
+168. **Cosmin Mavrichi** - Senior Software Engineer - Java @ Sportserve | Secondary Target | [in](https://www.linkedin.com/in/cosmin-mavrichi)
+169. **Marius-Sorin Stratulat** - Software Architect @ Heimdal® | Low Priority | [in](https://www.linkedin.com/in/smariussorin)
+170. **Andreea Gheorghiță** - PHP Developer @ Storyclash | Secondary Target | [in](https://www.linkedin.com/in/andreea-gheorghita-910598b6)
+171. **Cristi Sava** - Company Owner @ CSE Sound & Lights | Primary Target | [in](https://www.linkedin.com/in/imcristi)
+172. **Andra Radu** - Senior DevOps Engineer  | Azure Cloud Architect @ Freelance / Contract / Self-Employed | Low Priority | [in](https://www.linkedin.com/in/raduandra)
+173. **Anca Solot** - Full Stack Engineer @ Tutored by Teachers | Secondary Target | [in](https://www.linkedin.com/in/anca-solot-060160145)
+174. **Marian Tătărău** - Full Stack Developer @ DontPayFull | Secondary Target | [in](https://www.linkedin.com/in/marian-t%C4%83t%C4%83r%C4%83u-a87b4a55)
+175. **Alexandru Diaconu** - Principal Software Engineer - Native Applications Lead @ Schedulicity | Secondary Target | [in](https://www.linkedin.com/in/aldiaconu)
+176. **Alina Zimțea** - Senior Software Developer @ risico systems | Secondary Target | [in](https://www.linkedin.com/in/alina-zim%C8%9Bea-02237299)
+177. **Diana Vodă** - Senior Software Engineer @ Tremend Software Consulting | Secondary Target | [in](https://www.linkedin.com/in/vodadiana)
+178. **Andreea Elena Florea** - Senior Full Stack Developer @ European Commission | Secondary Target | [in](https://www.linkedin.com/in/andreea-elena-florea-10)
+179. **Iulian Cata** - Software Engineer @ Cognizant Softvision | Secondary Target | [in](https://www.linkedin.com/in/iulian-cata)
+180. **Maria Radu** - Java Software Engineer @ ING Hubs Romania | Secondary Target | [in](https://www.linkedin.com/in/maria-radu-225949ba)
+181. **Sergiu Mogan** - Senior Mobile Software Engineer @ Sonova Group | Secondary Target | [in](https://www.linkedin.com/in/sergiu-mogan-78b76087)
+182. **Sorin MARIAN** - Senior Backend Engineer @ freelancer | Secondary Target | [in](https://www.linkedin.com/in/sorin-marian)
+183. **Bogdan Alexandru Militaru** - Founder of Manager Flota @ Manager Flota | Primary Target | [in](https://www.linkedin.com/in/bogdan-alexandru-militaru)
+184. **Marius Ghitoiu** - Founder @ Initial Commit | Primary Target | [in](https://www.linkedin.com/in/mariusghitoiu)
+185. **Mircea Troaca** - DevOps/AI Technical Engineer @ Lenovo | Low Priority | [in](https://www.linkedin.com/in/mircea-troaca-080293120)
+186. **Ene Mihai Claudiu** - Senior PHP Developer - Team Lead @ froots | Secondary Target | [in](https://www.linkedin.com/in/enemihaiclaudiu)
+187. **Cristian Popa** - Software Engineer @ Thales | Secondary Target | [in](https://www.linkedin.com/in/cristian-popa-589189152)
+188. **⭐Sorin Olteanu** - Technical Solutions Engineer @ Invibes Advertising | Low Priority | [in](https://www.linkedin.com/in/sorinolteanu)
+189. **Dragos Padineanu** - Senior Sales Manager- owner @ Premier Properties | Primary Target | [in](https://www.linkedin.com/in/dragos-padineanu-011592a5)
+190. **Andrei Vlad** - Senior Software Engineer @ Grubhub | Secondary Target | [in](https://www.linkedin.com/in/andrei-vlad18)
+191. **Yash Shah** - Software Engineer Intern (Machine Learning) @ Our National Conversation (ONC) | Secondary Target | [in](https://www.linkedin.com/in/yashshah0597)
+192. **Alice Flavia Pirvu** - Software Developer Dotnet @ Mastex Software SRL | Secondary Target | [in](https://www.linkedin.com/in/alice-flavia-pirvu-baba29103)
+193. **Alex Rosca** - Managing Partner @ Prologue Advertising | Primary Target | [in](https://www.linkedin.com/in/fartat)
+194. **Andi Stoica** - Founder @ GAMEXPERT | Primary Target | [in](https://www.linkedin.com/in/andistoica)
+195. **Emil Muthu** - Managing Partner @ Neurony | Primary Target | [in](https://www.linkedin.com/in/emil-muthu)
+196. **Cornelia Vizental** - Managing Partner @ Naiya | Primary Target | [in](https://www.linkedin.com/in/cornelia-vizental-22122a10)
+197. **Timur Poperecinii** - Senior Laravel Developer @ Modus 10 | Secondary Target | [in](https://www.linkedin.com/in/timur-poperecinii)
+198. **Marcel Turcan** - Software Engineer @ Milestone Technology | Secondary Target | [in](https://www.linkedin.com/in/marcelturcan)
+199. **Andrei Puiu** - Freelance Full Stack Engineer @ Self-employed | Secondary Target | [in](https://www.linkedin.com/in/andrei-puiu-profile)
+200. **Amada Matei** - Software Quality Assurance Engineer @ Cognizant Softvision | Low Priority | [in](https://www.linkedin.com/in/amada-matei)
+201. **Anand Dattani** - Freelance Software Developer @ Self-employed | Secondary Target | [in](https://www.linkedin.com/in/dattanianand)
+202. **Catalin Nicolae Anghel** - Managing Partner @ Top-Rate IT Education SRL | Primary Target | [in](https://www.linkedin.com/in/catalin-nicolae-anghel-408a5716)
+203. **Adrian Voicu** - Full Stack Web Developer @ Globant | Secondary Target | [in](https://www.linkedin.com/in/adrian-voicu-avenirer)
+204. **Ioan Chera** - Senior System Software Engineer II @ Globant | Secondary Target | [in](https://www.linkedin.com/in/ioan-chera-1800b91b)
+205. **Roxane Capodagli** - Cheffe de projet / Product Owner @ Season | Primary Target | [in](https://www.linkedin.com/in/roxane-capodagli-9857b2a9)
+206. **Cazacu Razvan** - Founder @ CityPRO | Primary Target | [in](https://www.linkedin.com/in/cazacurazvan)
+207. **Florentina A.** - Founder and Talent Acquisition Manager @ Human HR | Primary Target | [in](https://www.linkedin.com/in/florentinaa)
+208. **Anja Brandt** - Owner @ Jetconsulting | Primary Target | [in](https://www.linkedin.com/in/anja-brandt-8908354)
+209. **Gabriel Trandafirescu** - Founder @ Archetype | Primary Target | [in](https://www.linkedin.com/in/rosentall-coaching)
+210. **Elena Baron** - Founder @ Freelancer IT | Primary Target | [in](https://www.linkedin.com/in/elena-baron-52282924)
+211. **Cristina Maria Bitu** - Talent Acquisition Consultant & Founder @ Elite Hire Consulting | Primary Target | [in](https://www.linkedin.com/in/cristina-maria-30092017)
+212. **Marius Viorel Dinca** - Business Owner & General Manager @ Active Life Romania | Primary Target | [in](https://www.linkedin.com/in/marius-viorel-dinca-b1190b15)
+213. **George Cristescu** - Owner @ Pineapple Media Interactive | Primary Target | [in](https://www.linkedin.com/in/gecristescu)
+214. **Florin Bera** - Senior Software Engineer @ Tripadvisor | Secondary Target | [in](https://www.linkedin.com/in/florin-bera-60710478)
+215. **Andreea Radu** - Founder @ She is Mom | Primary Target | [in](https://www.linkedin.com/in/raduandreea)
+216. **Cristian Bîrlea - Exclusivitate NOVA** - Real Estate Broker/Co-Owner @ Exclusivitate NOVA | Primary Target | [in](https://www.linkedin.com/in/cristian-b%C3%AErlea-exclusivitate-nova-2898b746)
+217. **Maria Stanciu** - Technical Consultant/SQL Developer @ TotalSoft | Secondary Target | [in](https://www.linkedin.com/in/maria-stanciu-05392264)
+218. **Monica Urziceanu** - Founder & Talent Partner -  Headhunting & more @ FABRIKA HR | Primary Target | [in](https://www.linkedin.com/in/monica-urziceanu-82ba254b)
+219. **Corina Hodorogea** - Co-Owner @ SELO | Primary Target | [in](https://www.linkedin.com/in/corinahodorogea)
+220. **Ciprian Harabagiu** - Managing Partner @ Decalex Digital | Primary Target | [in](https://www.linkedin.com/in/ciprianharabagiu)
+221. **Cristian Boba** - Software Engineer @ Rakuten Travel Xchange | Secondary Target | [in](https://www.linkedin.com/in/cristianboba)
+222. **Lucian Apetre** - Software Engineering Consultant @ Expero | Secondary Target | [in](https://www.linkedin.com/in/lucian-apetre-45727429)
+223. **Iunia Lugoji** - Senior Software Engineer @ Freelance (Self employed) | Secondary Target | [in](https://www.linkedin.com/in/iunia-lugoji-82778364)
+224. **Costin Moraru** - Software Engineer @ Exivity | Secondary Target | [in](https://www.linkedin.com/in/costinmoraru)
+225. **Ana Giurca** - Managing Partner @ Brainspotting | Primary Target | [in](https://www.linkedin.com/in/anagiurca)
+226. **Catalina Postolache** - Senior Software Engineer @ Just Eat Takeaway.com | Secondary Target | [in](https://www.linkedin.com/in/catalina-postolache-885277b3)
+227. **Daniela Stoian** - Software Testing Engineer @ EPAM Systems | Low Priority | [in](https://www.linkedin.com/in/daniela-stoian-a3035782)
+228. **Iulian Neculai** - iOS Software Engineer @ Ateliere Creative Technologies | Secondary Target | [in](https://www.linkedin.com/in/iulian-neculai-12150ab6)
+229. **Emanuel Bucsa** - Software Developer @ Ensemble Software Romania | Secondary Target | [in](https://www.linkedin.com/in/emanuelbucsa)
+230. **Elena Florea 🌼** - Software Test Engineer @ Suvoda | Low Priority | [in](https://www.linkedin.com/in/elena-florea)
+231. **Cristina Lixandru** - HR Managing Partner @ HR Gold | Primary Target | [in](https://www.linkedin.com/in/cristina-lixandru-bb354957)
+232. **Florian Iancu** - Software Engineer @ Oracle | Secondary Target | [in](https://www.linkedin.com/in/florianiancu)
+233. **Lucian Marin** - Head of Product @ Moonstar.ai | Primary Target | [in](https://www.linkedin.com/in/lucian-marin)
+234. **Bogdan Stroescu** - Senior Java Software Engineer @ Orange Services | Secondary Target | [in](https://www.linkedin.com/in/bogdanstroescu)
+235. **Catalin Modorcea** - Enterprise Program Manager & Product Owner @ Freelance | Primary Target | [in](https://www.linkedin.com/in/catalinmodorcea)
+236. **Roxana Dafinoiu** - Java Software Engineer @ Cognizant | Secondary Target | [in](https://www.linkedin.com/in/roxana-dafinoiu)
+237. **Andrei Manea** - Technical Bidding Engineer @ SSAB AG | Low Priority | [in](https://www.linkedin.com/in/andrei-manea)
+238. **Anca Dogar** - Full Stack Developer @ ING Hubs Romania | Secondary Target | [in](https://www.linkedin.com/in/ancadogar)
+239. **Cristian Dinu** - Oracle CX Sales and B2B Service Technical Support Engineer @ Oracle | Low Priority | [in](https://www.linkedin.com/in/dinucristian)
+240. **Vlad-Alexandru VASILE** - Software Engineer @ Euler Hermes | Secondary Target | [in](https://www.linkedin.com/in/vlad-alexandru-vasile-8b081986)
+241. **Dan Romescu** - Chief Executive Officer - Founder @ Sanawerk Technology Sarl | Primary Target | [in](https://www.linkedin.com/in/dromescu)
+242. **Cristina Muntean** - Owner @ Primul Milion | Primary Target | [in](https://www.linkedin.com/in/cristina-muntean-b5587841)
+243. **Alina Meresescu** - Software Developer @ Thales | Secondary Target | [in](https://www.linkedin.com/in/alina-meresescu)
+244. **Cristian Andrei Mitroi** - Software Engineer @ Betfair Romania Development | Secondary Target | [in](https://www.linkedin.com/in/andreimitroi)
+245. **Ionut Taranu** - Managing Partner @ STIMA SOFT | Primary Target | [in](https://www.linkedin.com/in/ionuttaranu)
+246. **Aneta Neagomir** - Managing Partner @ JumpingHouse | Primary Target | [in](https://www.linkedin.com/in/aneta-neagomir-1b56a139)
+247. **George Serban** - Senior Software Engineer @ Monsson Alma | Secondary Target | [in](https://www.linkedin.com/in/georgeserban)
+248. **Ştefan Şovărel** - Owner @ Club Design SRL | Primary Target | [in](https://www.linkedin.com/in/%C5%9Ftefan-%C5%9Fov%C4%83rel-50239536)
+249. **Madalin Ioan Ene** - Senior Software Engineer @ Morningstar Sustainalytics | Secondary Target | [in](https://www.linkedin.com/in/madalin-ioan-ene)
+250. **Victor Carbune** - Staff Software Engineer @ Google | Secondary Target | [in](https://www.linkedin.com/in/vcarbune)
+251. **Rareș Adam** - Recruitment Consultant | Freelancer | Independent contractor @ Self Employed | Primary Target | [in](https://www.linkedin.com/in/arl)
+252. **Ana Dan** - Resident Doctor @ Spitalul Universitar de Urgenta Bucuresti - Emergency University Hospital | Primary Target | [in](https://www.linkedin.com/in/ana-dan-509594253)
+253. **Paris Michailos** - Head of Recruitment & Culture @ DatingLeads.com | Low Priority | [in](https://www.linkedin.com/in/parismichailos)
+254. **Lars Kollind** - Head of Business Development @ Swintt | Low Priority | [in](https://www.linkedin.com/in/lars-kollind-8583bb12)
+255. **Francisco Crespo** - Engineering Manager @ IGT PlayDigital | Primary Target | [in](https://www.linkedin.com/in/francisco-crespo-805b574a)
+256. **🚀 Marian Vasile** - Head of Digital & Ancillaries @ Blue Air | Low Priority | [in](https://www.linkedin.com/in/nairamelisav)
+257. **Andrei Stoia** - iOS Engineering Manager @ Eightpoint | Primary Target | [in](https://www.linkedin.com/in/andrei-stoia-757b39107)
+258. **Georgian-Andrei Oprisor** - Head of People Product @ Revolut | Low Priority | [in](https://www.linkedin.com/in/georgian-andrei-oprisor-60859012b)
+259. **Joe Henry Maybanks** - Delivery Lead @ Select Tech - Dynamics. Cloud. Data | Low Priority | [in](https://www.linkedin.com/in/joe-henry-maybanks-90a507193)
+260. **Antonio Di Pinto** - Chief Technology Officer @ Tapistrii | Primary Target | [in](https://www.linkedin.com/in/antoniodipinto)
+261. **Luci Savu** - Head Of Recruitment @ Arnia Software | Low Priority | [in](https://www.linkedin.com/in/luci-savu-4405682)
+262. **Alexandru Dumitrescu** - Chief Technology Officer @ Femyo | Primary Target | [in](https://www.linkedin.com/in/dxax)
+263. **Sarah James-O'Connell** - Head of DACH Recruitment @ Transition Partners | Low Priority | [in](https://www.linkedin.com/in/sarahjamesoc)
+264. **Peri Andy** - Head of Talent Acquisition EMEA @ TabaNET Technology Consulting | Secondary Target | [in](https://www.linkedin.com/in/andy-perieteanu)
+265. **Nirav Gohil** - CEO @ TecMantras | Low Priority | [in](https://www.linkedin.com/in/nirav-gohil-742276194)
+266. **Ionut Pistol** - Senior ReactJS Frontend Contractor @ European Patent Office | Primary Target | [in](https://www.linkedin.com/in/ionutpistol)
+267. **Vali Malinoiu ⚛** - Chief Technology Officer @ Humans.ai | Primary Target | [in](https://www.linkedin.com/in/0x4139)
+268. **Gregory Rondin** - Head of Customer Success @ Veridion (formerly Soleadify) | Low Priority | [in](https://www.linkedin.com/in/gregoryrondin)
+269. **Vlăduţ Angel Stan** - Engineering Manager & Partner @ VESPR | Primary Target | [in](https://www.linkedin.com/in/stanvladut)
+270. **Stefan Kis** - Head of People and Operations @ Eyes of Wonder | Low Priority | [in](https://www.linkedin.com/in/stefan-kis-4b931b116)
+271. **Victor Tudosa** - CEO @ Webaround software | Low Priority | [in](https://www.linkedin.com/in/victor-tudosa)
+272. **Andrei Ioniță** - CEO @ Dorado Systems | Low Priority | [in](https://www.linkedin.com/in/doradosystems)
+273. **Anca Copariu** - Head of Digital Strategy and Innovation @ A-HEAT Allied Heat Exchange Technology AG | Low Priority | [in](https://www.linkedin.com/in/anca-copariu-725ba05)
+274. **🍻Bogdan Duda** - Chief Technology Officer @ BEE CODED | Primary Target | [in](https://www.linkedin.com/in/bogdanthedude)
+275. **Cornel FATULESCU** - CTO France & DACH Globant @ Globant | Primary Target | [in](https://www.linkedin.com/in/cornelfatulescu)
+276. **Benoit Fillon** - CTO @ Powens (ex-Budget Insight) | Primary Target | [in](https://www.linkedin.com/in/benoitfillon)
+277. **Alexandru Pascu** - Head of Operations | Member of the Board @ Leanpay | Low Priority | [in](https://www.linkedin.com/in/alex2pascu)
+278. **Petru Metzger** - President, Global Head of Payments @ Blankfactor | Low Priority | [in](https://www.linkedin.com/in/petru-metzger-89009017)
+279. **Andreea Pröll** - CEO @ MKP System Engineering | Low Priority | [in](https://www.linkedin.com/in/andreeaanton)
+280. **Bogdan Anuta** - Engineering Manager @ Waters Corporation | Primary Target | [in](https://www.linkedin.com/in/bogdananuta)
+281. **Antonio Coli** - CEO @ Carmedia | Low Priority | [in](https://www.linkedin.com/in/acoli)
+282. **Doron Marcu** - CEO @ ZNAPP | Low Priority | [in](https://www.linkedin.com/in/doron-m-6a5042aa)
+283. **Claudia Lunca** - Instructor @ Academia 1,61 | Primary Target | [in](https://www.linkedin.com/in/claudialunca)
+284. **Sonia Damian** - Head of Platform & Community @ Crew Capital | Low Priority | [in](https://www.linkedin.com/in/soniabighiu)
+285. **Cătălin Hobeanu** - Agile Delivery Lead @ NewCold | Low Priority | [in](https://www.linkedin.com/in/catalinhobeanu)
+286. **Sorin Zavelita** - VP of Engineering @ Ionic Partners | Primary Target | [in](https://www.linkedin.com/in/sorinzavelita)
+287. **Dan Lazar** - Head Of Research And Development @ TF Service | Low Priority | [in](https://www.linkedin.com/in/dan-lazar-947344a6)
+288. **Mihaela Chiraples** - Global PMO Head, Office of the CEO @ Encora Inc. | Low Priority | [in](https://www.linkedin.com/in/mdinu)
+289. **Diana Balta** - Head of Talent Acquisition @ coverletter.tech | Secondary Target | [in](https://www.linkedin.com/in/diana-balta-691653105)
+290. **Aida Tudoroiu** - Head of Human Resources @ 1&1 Internet Development | Low Priority | [in](https://www.linkedin.com/in/aida-tudoroiu)
+291. **Stancu Romina** - Corector @ Mirton-Barnutiu | Primary Target | [in](https://www.linkedin.com/in/stancu-romina-224063106)
+292. **Maria Chiriac** - SAP SuccessFactors Consultant @ Deloitte Technology Romania | Primary Target | [in](https://www.linkedin.com/in/maria-chiriac-53a1bb29)
+293. **Rogier Rouppe van der Voort** - CEO @ PCN | Low Priority | [in](https://www.linkedin.com/in/rrjrouppevandervoort)
+294. **Cristian Valcea** - CEO @ Bionex Consulting | Low Priority | [in](https://www.linkedin.com/in/cristianvalcea)
+295. **PERFECT CASA** - Real Estate Agency @ PERFECT CASA INTERMED SRL | Low Priority | [in](https://www.linkedin.com/in/perfect-casa-0263a754)
+296. **Bogdan Banculescu** - Instructor @ Ice and Sleep Lab | Primary Target | [in](https://www.linkedin.com/in/bogdan-banculescu-628a392)
+297. **Cristina Iosif** - Senior Tech Recruiter @ #Talentwelove | Secondary Target | [in](https://www.linkedin.com/in/cristina-twl)
+298. **Mara Morar** - Technical Recruiter @ Brain Source | Secondary Target | [in](https://www.linkedin.com/in/maramorar)
+299. **Vladimir Arjoca** - Network Engineer @ Orange Services | Low Priority | [in](https://www.linkedin.com/in/vladimir-arjoca-194397126)
+300. **Maria Chitu** - Test Engineer @ _VOIS | Low Priority | [in](https://www.linkedin.com/in/maria-c-9aa99a229)
+301. **Florin Bujoreanu** - Full-stack Developer @ Self Employed | Secondary Target | [in](https://www.linkedin.com/in/florin-bujoreanu-5b2737118)
+302. **Irina Cristian** - Technical Recruiter @ BE | Shaping The Future Romania | Secondary Target | [in](https://www.linkedin.com/in/irina-cristian-896a9243)
+303. **Alexandru Marchis** - Software Tester @ Freelance | Low Priority | [in](https://www.linkedin.com/in/alexandru-marchis-b0383952)
+304. **Codreanu Ioana-Andra** - Full-stack Developer @ - | Secondary Target | [in](https://www.linkedin.com/in/codreanu-ioana-andra-07b8b4230)
+305. **DANIEL IULIAN ROTARU** - Senior Android Developer @ IBM iX | Secondary Target | [in](https://www.linkedin.com/in/daniel-iulian-r-05613331)
+306. **Lucian Crivoi** - 360° Technical Recruiter @ Tech Rec | Secondary Target | [in](https://www.linkedin.com/in/luciancrivoi)
+307. **Alex Cocut** - Information Technology Researcher @ Luxoft | Low Priority | [in](https://www.linkedin.com/in/alex-cocut-6551941ab)
+308. **Bitra Tulasi** - Technical Recruiter @ CloudXtreme LLC | Secondary Target | [in](https://www.linkedin.com/in/bitra-tulasi-472012233)
+309. **Raluca Stere** - ICT Talent Acquisition / Tech Recruiter @ Cegeka | Secondary Target | [in](https://www.linkedin.com/in/raluca-stere-01a077168)
+310. **Andrew Poodle** - Manager Database Engineering @ IGT PlayDigital | Low Priority | [in](https://www.linkedin.com/in/arpoodle)
+311. **Ashley Allen** - Freelance Web Developer @ Ash Allen Design | Secondary Target | [in](https://www.linkedin.com/in/ashleyjcallen)
+312. **Anne-Claire Buléon** - Tech Talent Acquisition Specialist | Personal Branding Coach @ L'Agence by AC | Secondary Target | [in](https://www.linkedin.com/in/anne-claire-buleon)
+313. **Anca M** - Technical Recruiter @ TRON | Secondary Target | [in](https://www.linkedin.com/in/anca-m-401416247)
+314. **Karyna Lebedenko** - Technical Talent Acquisition Specialist @ Self Employed | Secondary Target | [in](https://www.linkedin.com/in/karyna-lebedenko-608782236)
+315. **Iulian-Cosmin Andries** - DevOps Engineer @ Riverbed Technology | Low Priority | [in](https://www.linkedin.com/in/iulian-cosmin-andries-854224199)
+316. **Razvan Ionescu** - EMEA Principal Technical Trainer @ Veeam Software | Low Priority | [in](https://www.linkedin.com/in/razvantheodorionescu)
+317. **Robert Marin** - Information Technology Recruiter @ Luxoft | Secondary Target | [in](https://www.linkedin.com/in/robert-marin-14289a18b)
+318. **Roxana Miclea** - Technical Recruiter @ Northwest Partners | Secondary Target | [in](https://www.linkedin.com/in/roxana-miclea-483a1b236)
+319. **Alexandra Faur** - Information Technology Recruiter @ HCLTech | Secondary Target | [in](https://www.linkedin.com/in/alexandra-faur-057143231)
+320. **Jack Keenan** - Freelance Web Developer @ Self-employed | Secondary Target | [in](https://www.linkedin.com/in/jack-keenan-64274a65)
+321. **Mihai Cirjaliu** - Web Developer @ Prologue Advertising | Secondary Target | [in](https://www.linkedin.com/in/mihai-cirjaliu-091395196)
+322. **Stefan Alexandru Florea** - Java Developer @ ADP | Secondary Target | [in](https://www.linkedin.com/in/stefan-alexandru-florea-b92203232)
+323. **Olena Yatsun** - Technical Manager @ K-Trend | Low Priority | [in](https://www.linkedin.com/in/olena-yatsun-88b014241)
+324. **Muhammed Said ERDEM** - Network Engineer @ Alarko Contracting Group & Makyol İnşaat Sanayi Turizm ve Ticaret A.Ş. | Low Priority | [in](https://www.linkedin.com/in/saiderdem)
+325. **Paul Dumitru Purcel** - Senior NodeJS Developer @ Cognizant Technology Solutions | Secondary Target | [in](https://www.linkedin.com/in/paul-dumitru-purcel-15684264)
+326. **Alexandru Moș** - Full-stack web developer @ Contract & freelance | Secondary Target | [in](https://www.linkedin.com/in/alex-mos)
+327. **Zota Cosmin** - PHP Programmer @ ContentSpeed, the eCommerce Agency | Low Priority | [in](https://www.linkedin.com/in/zota-cosmin-7858a014b)
+328. **Robert Gheorghe** - Full-stack Developer @ Pocket Fun | Secondary Target | [in](https://www.linkedin.com/in/robert-gheorghe-)
+329. **Kadambari Bhardwaj** - Senior Technical Recruiter (UK/EU) @ Net2Source Inc. | Secondary Target | [in](https://www.linkedin.com/in/kadambari-bhardwaj-115036168)
+330. **Mihai C. Iliescu** - Senior Hardware Engineer | I.MX Processors Family @ NXP Semiconductors | Low Priority | [in](https://www.linkedin.com/in/mihaiciliescu)
+331. **Cristi Nica** - Staff Engineer @ VGW | Low Priority | [in](https://www.linkedin.com/in/cristi-nica)
+332. **Alexandra Mîrzea** - Information Technology Recruiter & Key Account Manager @ AMS Accelerate IT | Secondary Target | [in](https://www.linkedin.com/in/alexandraam)
+333. **Viktor Pop** - Recruiter and Business Developer @ Brain Source Recruitment | Secondary Target | [in](https://www.linkedin.com/in/viktor-pop-855567214)
+334. **Ionut Petre** - HR Business Partner - Manager - Deloitte Technology Delivery Center @ Deloitte | Secondary Target | [in](https://www.linkedin.com/in/ionut-petre-402479136)
+335. **Cicero Alves Teago** - Technology Recruitment Consultant @ Quantum Recruitment | Secondary Target | [in](https://www.linkedin.com/in/ciceroalvesteago)
+336. **👋 Oana Martin** - Technical Recruitment Expert/HR Consultant @ METRO.digital | Secondary Target | [in](https://www.linkedin.com/in/oanamartin)
+337. **Dimitriu Roman** - Senior Process Engineer: HAZID/ HAZOP CHAIRMAN @ Optimatic Solutions | Low Priority | [in](https://www.linkedin.com/in/dimitriu-roman-117a3ab)
+338. **Fedora Bianca Radu** - Javascript Developer @ Thinslices | Secondary Target | [in](https://www.linkedin.com/in/fedora-bianca-radu-648102b4)
+339. **Andreea Livia Pascu** - Technical Lead @ MRM | Low Priority | [in](https://www.linkedin.com/in/andreeapotrocea)
+340. **Roman Pysanka** - QA Engineer @ Digicode | Low Priority | [in](https://www.linkedin.com/in/pysanka-roman)
+341. **Ciprian Mate** - Senior Frontend Developer @ CGM Software Romania | Secondary Target | [in](https://www.linkedin.com/in/ciprian-mate-997011127)
+342. **Nurye Nigus** - Sales and service engineer @ ABULKHASE PLC | Low Priority | [in](https://www.linkedin.com/in/nryngs)
+343. **Roman Zarvanskyi** - Frontend Developer @ Hoverla Soft | Secondary Target | [in](https://www.linkedin.com/in/roman-zarvanskyi-1116bb1b7)
+344. **Samuel Labagnère** - Développeur Full Stack @ Discurv (ex Madeinvote) | Secondary Target | [in](https://www.linkedin.com/in/samuel-labagnere)
+345. **Felipe Oliveira** - Frontend Developer @ Orsegups Participações S/A | Secondary Target | [in](https://www.linkedin.com/in/flpe-olivier)
+346. **Valentin-Sorin Tolea** - Information Technology System Administrator @ iSoftBet | Low Priority | [in](https://www.linkedin.com/in/valentin-sorin-tolea-a92a2312)
+347. **Mattia Biscontini** - Proclaim Developer @ Techedia (ICT Solutions) | Secondary Target | [in](https://www.linkedin.com/in/mattia-biscontini-2971a5211)
+348. **Nikola Hartnell (Mlezivova)** - Associate Solutions Engineer - corporate @ Okta | Low Priority | [in](https://www.linkedin.com/in/nikola-hartnell)
+349. **Joao Cordeiro** - UK Software Development Manager @ iSoftBet | Low Priority | [in](https://www.linkedin.com/in/jlcordeiro)
+350. **Paulo Rodrigues** - Senior Back End Developer @ Eduplaytion | Secondary Target | [in](https://www.linkedin.com/in/paulo-rodrigues-4797a31a1)
+351. **George Zica** - Information Technology Security Specialist @ ITLab Services & Security SRL | Low Priority | [in](https://www.linkedin.com/in/george-z-2b3a0419b)
+352. **Ana Costache Macri** - Chief Technology & Product Officer (CTPO) @ Knowledge Pillars | Low Priority | [in](https://www.linkedin.com/in/ana-florina-costache)
+353. **Anca Dinu** - Technical Writer @ LSEG (London Stock Exchange Group) | Low Priority | [in](https://www.linkedin.com/in/anca-d-046b02175)
+354. **Jean Joel Kakou** - Dynamics CRM Support Engineer | CE Customizations @ Microsoft | Low Priority | [in](https://www.linkedin.com/in/jean-joel-kakou)
+355. **Carmen-Maria Petrescu** - Lead Technical Recruiter @ TherCore | Secondary Target | [in](https://www.linkedin.com/in/carmen-maria-petrescu-427837147)
+356. **Karim Issoufou** - Tech Advisor - Client Partner @ Globant | Low Priority | [in](https://www.linkedin.com/in/karim-issoufou)
+357. **Cosmin Baciu** - Java developer @ Deloitte Digital Romania | Secondary Target | [in](https://www.linkedin.com/in/cosmin-baciu-76402b12b)
+358. **Maria Dimitriu** - Senior Talent Acquisition Partner | Engineering @ Fortis Games | Secondary Target | [in](https://www.linkedin.com/in/mariadimitriu29)
+359. **Andrei Nedelus** - Senior React Developer @ Aperture Tech Labs | Secondary Target | [in](https://www.linkedin.com/in/andreinedelus)
+360. **Vlad Brisan** - Dynamics 365 F&O Architect & Consultant @ KejiLabs | Secondary Target | [in](https://www.linkedin.com/in/vlad-brisan-4804a519)
+361. **Diana Chiriacescu** - Information Technology Recruitment Consultant @ Freelance | Secondary Target | [in](https://www.linkedin.com/in/diana-chiriacescu)
+362. **Dana Florența Curculescu** - Technology Lawyer @ Ventures'n'Law | Low Priority | [in](https://www.linkedin.com/in/dana-curculescu)
+363. **Ion Cosmin Grigore** - Solidity Developer @ Pearl Labs | Secondary Target | [in](https://www.linkedin.com/in/grigorecosmin)
+364. **Tresa John** - QA Automation Engineer @ Tesco Mobile | Low Priority | [in](https://www.linkedin.com/in/tresa-john-98341ab5)
+365. **Alexandra Iamandii (Cuciureanu)** - Frontend Developer - Streamwide project @ Pentalog | Secondary Target | [in](https://www.linkedin.com/in/alexandra-iamandii-cuciureanu-1481758a)
+366. **Sorin Bahmata** - Senior Java Developer @ TiVo Romania Engineering Center (TREC) | Secondary Target | [in](https://www.linkedin.com/in/sorin-bahmata-109524a4)
+367. **Cristina Daj** - Information Technology Recruiter @ Medicover | Secondary Target | [in](https://www.linkedin.com/in/cristina-daj-3380b6191)
+368. **George Bitoleanu** - Application Developer @ IBM | Secondary Target | [in](https://www.linkedin.com/in/george-bitoleanu)
+369. **Valentin Marin** - Wordpress Developer @ wpdevel | Secondary Target | [in](https://www.linkedin.com/in/valentinmarinro)
+370. **Duduman Bogdan Vlad** - Senior Frontend Developer @ 8x8 | Secondary Target | [in](https://www.linkedin.com/in/duduman-bogdan-vlad-5a02b330)
+371. **Teodor Madalin Dumitru** - Big Data Engineer @ Adobe | Low Priority | [in](https://www.linkedin.com/in/teodor-madalin-dumitru-0505a4191)
+372. **Mariana Monica Vasile** - Frontend Developer @ Lucanet | Secondary Target | [in](https://www.linkedin.com/in/mariana-monica-vasile-755237162)
+373. **Eduard Omusoru** - Lead Frontend Engineer @ Crypto Finance Group | Low Priority | [in](https://www.linkedin.com/in/eduard-omusoru-381743b)
+374. **Andreea Bucurica** - Salesforce Developer @ Deloitte | Secondary Target | [in](https://www.linkedin.com/in/andreea-bucurica-0a0a8943)
+375. **Hurba Alexandru - Ionut** - Android Technical Team Lead @ Pentalog | Low Priority | [in](https://www.linkedin.com/in/hurba-alexandru-ionut-7b101727)
+376. **Vlad Gâdescu** - Engineering Team Lead @ The Access Group | Low Priority | [in](https://www.linkedin.com/in/vlad-gadescu)
+377. **Andrei Boz** - Dev Engineer @ Expert Network | Low Priority | [in](https://www.linkedin.com/in/andrei-boz-68029b120)
+378. **Mihai Coman** - Senior Magento 2 Developer @ INNOBYTE | Secondary Target | [in](https://www.linkedin.com/in/mihai-coman-3ba78382)
+379. **Filip Gheorghe** - Founding member - Back End Developer in R&D @ YLOAD | Secondary Target | [in](https://www.linkedin.com/in/filipgheorghe)
+380. **Diana Odea** - .NET Technical Lead @ Sitline Technology | Low Priority | [in](https://www.linkedin.com/in/diana-odea-132a5b64)
+381. **Lucia Toma** - Frontend Web Developer @ TicketSwap | Secondary Target | [in](https://www.linkedin.com/in/lucia-toma-b24048a8)
+382. **Ilie Sochirca** - DevOps Engineer @ KPN | Low Priority | [in](https://www.linkedin.com/in/ilie-sochirca-158a60106)
+383. **Eduard U.** - Senior Database Developer @ Oracle | Secondary Target | [in](https://www.linkedin.com/in/eduard-u-2267a133)
+384. **Nicolae Abacioaiei** - Software Development Manager @ Amazon | Low Priority | [in](https://www.linkedin.com/in/nicolae-abacioaiei)
+385. **Mihai Andrei Georgescu** - Senior iOS Developer @ OLX Group | Secondary Target | [in](https://www.linkedin.com/in/georgescumihai09)
+386. **Mihai Munteanu** - Frontend Developer @ RomSoft | Secondary Target | [in](https://www.linkedin.com/in/munteanumihai)
+387. **Alex Astrum** - Developer Relations @ Google | Secondary Target | [in](https://www.linkedin.com/in/alexastrum)
+388. **Alexandru Paşca** - Senior  .NET Developer - Team Leader @ Pentalog | Secondary Target | [in](https://www.linkedin.com/in/alexpasca)
+389. **Alex Toma** - Senior QA Automation Engineer @ Arnia Software | Low Priority | [in](https://www.linkedin.com/in/alex-toma-47441a97)
+390. **Ioana Adriana DOLTU** - QA Automation Software Tester @ Bigstep | Low Priority | [in](https://www.linkedin.com/in/ioana-adriana-doltu)
+391. **Andrei Panturu** - Lead Frontend Developer @ Custify | Secondary Target | [in](https://www.linkedin.com/in/andrei-panturu-87885974)
+392. **Adrian Magdalina** - Back End Developer @ EPAM Systems | Secondary Target | [in](https://www.linkedin.com/in/adrian-m-a9683b10b)
+393. **Gheorghe Cristian Gabriel** - QA Engineer @ Arnia Software | Low Priority | [in](https://www.linkedin.com/in/crgheorghe)
+394. **Dan Bite-Toma** - Java Architect/Consultant @ Geek Box | Secondary Target | [in](https://www.linkedin.com/in/dan-bite-toma-9788a58)
+395. **Palade Radu** - Frontend Developer @ OMG, Inc. | Secondary Target | [in](https://www.linkedin.com/in/palade-radu)
+396. **Daniela Anton** - International Technical Recruiter @ Xogito Group, Inc | Secondary Target | [in](https://www.linkedin.com/in/daniela-anton-talent-journey)
+397. **Ana Ionescu** - Technical Talent Acquisition Specialist @ Reconomy | Secondary Target | [in](https://www.linkedin.com/in/ana-ionescu-79b2a2b2)
+398. **Alexandru Farcas** - DevOps Engineer @ Dedeman | Low Priority | [in](https://www.linkedin.com/in/alexandru-farcas-a0014661)
+399. **Delia Crista** - Senior Technical Recruiter @ Akkodis | Secondary Target | [in](https://www.linkedin.com/in/delia-crista-b96a546)
+400. **Maria Cosmina C.** - Marketplace Technical Specialist with French @ vidaXL | Low Priority | [in](https://www.linkedin.com/in/maria-c-51029b146)
+401. **Milena Rotaru** - Senior Technology Recruitment Consultant @ HRS Romania | Secondary Target | [in](https://www.linkedin.com/in/milena-rotaru)
+402. **Paul Măduța** - System Engineer @ HELLA | Low Priority | [in](https://www.linkedin.com/in/paul-m%C4%83du%C8%9Ba-165336120)
+403. **Alexandru Stancu** - Site Reliability Engineer @ XOPS CTRL | Low Priority | [in](https://www.linkedin.com/in/alexandru-stancu)
+404. **Cristina Theodora Schnel** - Information Technology Recruiter @ R Systems | Secondary Target | [in](https://www.linkedin.com/in/cristinatheodoraschnel)
+405. **Vasile Putina** - Vice President of Technology @ Globant | Low Priority | [in](https://www.linkedin.com/in/vasile-putina-a8895326)
+406. **Andrei-Mihai Florea** - Senior React Native Developer @ Remote Work | Secondary Target | [in](https://www.linkedin.com/in/florea-andrei)
+407. **Andrew Thompson** - Practice Manager - Cloud I DevOps I Infrastructure - UK&I / Scandinavia @ RED Global | Low Priority | [in](https://www.linkedin.com/in/andrew-thompson-consol)
+408. **Vlad Moșoi** - Technical Operator @ CoreDux | Low Priority | [in](https://www.linkedin.com/in/vlad-mo%C8%99oi-6086ba139)
+409. **malaxa petru** - Agricultural Engineer @ Agrogal  Galati | Low Priority | [in](https://www.linkedin.com/in/malaxa-petru-8243a0123)
+410. **Cristina Ioana Capatina (Dinca)** - Web Developer @ Pentalog | Secondary Target | [in](https://www.linkedin.com/in/cristina-ioana-capatina-dinca-74150953)
+411. **Victor Ribac** - Marketing Automation Engineer @ Lislex | Low Priority | [in](https://www.linkedin.com/in/victor-ribac-614232143)
+412. **Gabriel-George Roman** - NOC Transmission Engineer @ RCS & RDS | Low Priority | [in](https://www.linkedin.com/in/gabriel-george-roman-655a31112)
+413. **Stoian Corina Maria** - Power BI Developer @ Thales | Secondary Target | [in](https://www.linkedin.com/in/stoian-corina-maria-4a3407161)
+414. **Alexandra Stanciu** - Senior Frontend Developer @ Arnia Software | Secondary Target | [in](https://www.linkedin.com/in/alexandra-stanciu)
+415. **Alina Mihaela Petre** - Technical Recruiter @ NTT DATA Romania | Secondary Target | [in](https://www.linkedin.com/in/alina-mihaela-petre)
+416. **Valentin Alexandru Fagetean** - QA Engineer @ Eightpoint | Low Priority | [in](https://www.linkedin.com/in/valentin-alexandru-fagetean-b445b283)
+417. **Dan Bodnar** - iOS Engineer on Volvo Cars app @ Volvo Cars | Low Priority | [in](https://www.linkedin.com/in/dan-bodnar-70359829)
+418. **Adrian Marina** - Software Consultant @ PFA Marina Adrian | Secondary Target | [in](https://www.linkedin.com/in/adrianmarina)
+419. **Marian Alexandru Dumitriu** - Senior QA Automation Engineer @ Ness Digital Engineering Romania | Low Priority | [in](https://www.linkedin.com/in/marian-alexandru-dumitriu-b14b85146)
+420. **Georgiana Zagrean** - Senior Technology Recruitment Consultant @ HRS Romania | Secondary Target | [in](https://www.linkedin.com/in/georgiana-zagrean-836b1255)
+421. **Dragan Daniel** - Senior Information Technology Recruiter @ Digijobs | Secondary Target | [in](https://www.linkedin.com/in/dragan-daniel-91484755)
+422. **Liviu Popescu** - Technical Project Manager / Vendor IVI @ CELAD | Low Priority | [in](https://www.linkedin.com/in/liviu-popescu-721b40b5)
+423. **Alex Andr** - Web Application Developer @ FREELANCE PLANET | Secondary Target | [in](https://www.linkedin.com/in/alexa3)
+424. **Elena Madalina Spiru** - ServiceNow Developer @ T-Systems Romania | Secondary Target | [in](https://www.linkedin.com/in/elena-madalina-spiru)
+425. **Cristian Onisor** - Tech Recruiter and COO @ AccentOnPeople.com | Secondary Target | [in](https://www.linkedin.com/in/onisorcristian)
+426. **Andrei CHIVU** - Angular Developer @ Scopeworker -  We are hiring! | Secondary Target | [in](https://www.linkedin.com/in/andrei-chivu)
+427. **Petre Pătraşc** - Solutions Architect @ Dreamlabs | Low Priority | [in](https://www.linkedin.com/in/petrepatrasc)
+428. **Marius Cimpoeru** - Frontend Developer @ ALTEN Romania | Secondary Target | [in](https://www.linkedin.com/in/marius-cimpoeru-070070121)
+429. **Khaled Marouani** - Web Developer @ ENGIE Romania | Secondary Target | [in](https://www.linkedin.com/in/khaled-marouani-a42b7560)
+430. **Bogdan Crisu** - Javascript Engineer @ Ezugi | Low Priority | [in](https://www.linkedin.com/in/bogdan-crisu-a411b189)
+431. **Adriana Andreescu** - Software Tester @ Dennemeyer | Low Priority | [in](https://www.linkedin.com/in/adrianaandreescu)
+432. **Tiberiu Dumitru** - Frontend Developer @ European Commission | Secondary Target | [in](https://www.linkedin.com/in/tiberiu-dumitru-981a50122)
+433. **Ionela Timoce** - Talent Acquisition Manager, Embedded Technologies & Innovation & UI/UX| Human Resources| @ NTT DATA Romania | Secondary Target | [in](https://www.linkedin.com/in/ionela-timoce-0a3182a6)
+434. **Dana Alexandra Chiroiu** - Technical Recruiter @ MassMutual Romania | Secondary Target | [in](https://www.linkedin.com/in/danachiroiu)
+435. **Adrian Rusen** - Software QA Tester @ Stefanini EMEA | Low Priority | [in](https://www.linkedin.com/in/adrian-rusen-01742a140)
+436. **Mihaela Enescu** - Full-stack Developer @ UniCredit | Secondary Target | [in](https://www.linkedin.com/in/mihaela-enescu-45192b88)
+437. **Karim Aloui** - Salesforce  Developer @ ARLANIS REPLY | Secondary Target | [in](https://www.linkedin.com/in/karim-aloui-b938b8118)
+438. **DIANA DIDEA** - Global HR - Head for Communication and Technology Group @ Hewlett Packard Enterprise | Secondary Target | [in](https://www.linkedin.com/in/diana-didea-1059974)
+439. **Anka Stan** - Technical Recuiter / Sourcer @ Upwork | Secondary Target | [in](https://www.linkedin.com/in/anka-stan-0647b554)
+440. **Irina Paduraru** - nGUM 2nd Line Engineer SOX @ _VOIS | Low Priority | [in](https://www.linkedin.com/in/irina-paduraru-pif)
+441. **Madalina Marin** - Senior Technical Recruiter @ Salt Bank | Secondary Target | [in](https://www.linkedin.com/in/madalina-marin-412521128)
+442. **Claudiu Tamas** - QA Engineer @ Ascend NetSolutions | Low Priority | [in](https://www.linkedin.com/in/tmsclaudiu)
+443. **Marius Micu** - Senior QA Engineer @ Tain | Low Priority | [in](https://www.linkedin.com/in/marius-micu-50a26a111)
+444. **Adrian Pandelea** - iOS Developer @ Cognizant Softvision | Secondary Target | [in](https://www.linkedin.com/in/adrian-pandelea-6a428ba3)
+445. **Alexandra Anghelina** - Senior Tech Recruitment Business Partner EMEA @ Palo Alto Networks | Low Priority | [in](https://www.linkedin.com/in/alexandrapopescuhr)
+446. **Andrei Scurtu** - Front-end Developer @ Mindit.io | Secondary Target | [in](https://www.linkedin.com/in/ascurtu)
+447. **Razvan Gabriel Danila** - Hull Detail Design Engineer @ MW Werften | Low Priority | [in](https://www.linkedin.com/in/razvan-gabriel-danila-3b01b992)
+448. **Ioana Motoran** - OSS Transformation Senior Expert - Network Strategy and Engineering @ Vodafone | Low Priority | [in](https://www.linkedin.com/in/ioana-niculescu)
+449. **Iris-Denisse Darvish** - Tech Recruitment Consultant @ Hays | Secondary Target | [in](https://www.linkedin.com/in/iris-denisse-darvish-8aa75275)
+450. **Dan Iosif** - Quality Cloud Architect @ ClearRoute | Low Priority | [in](https://www.linkedin.com/in/dan-iosif)
+451. **Banica Cosmin Alexandru** - Senior Information Technology Consultant / Performance Lead @ Deloitte Digital | Secondary Target | [in](https://www.linkedin.com/in/banica-cosmin-alexandru-b0a17578)
+452. **Catalin Radulescu** - Senior PHP Programmer @ Sincron HR Software | Low Priority | [in](https://www.linkedin.com/in/catalinbuletin)
+453. **Laurentiu Daisoreanu** - Senior iOS Engineer @ The Estée Lauder Companies Inc. | Low Priority | [in](https://www.linkedin.com/in/laurentiu-daisoreanu-49208490)
+454. **Bogdan Rosu** - Solutions Architect @ FLOWX.AI | Low Priority | [in](https://www.linkedin.com/in/bogdan-rosu-a78327112)
+455. **Andrei Vucicu** - Growth architect @ Record Ventures | Low Priority | [in](https://www.linkedin.com/in/andreivucicu)
+456. **Soare Danut Cosmin** - Support Developer @ Societe Generale | Secondary Target | [in](https://www.linkedin.com/in/soare-danut-cosmin-642a32b9)
+457. **Claudiu Jalba** - Senior Web Developer @ Nextus Solutions | Secondary Target | [in](https://www.linkedin.com/in/claudiuj)
+458. **Vlad Baicu** - Integration Engineer - Lighting @ Bentley Motors | Low Priority | [in](https://www.linkedin.com/in/vlad-baicu)
+459. **Raluca Enache** - Java Developer @ Teamnet | Secondary Target | [in](https://www.linkedin.com/in/raluca-enache-01876792)
+460. **Diana Lebediuc** - QA Engineer @ Deutsche Bank | Low Priority | [in](https://www.linkedin.com/in/dianalebediuc)
+461. **Iulia Zamfira** - Sr. Talent Acquisition Partner, Engineering @ Adobe | Secondary Target | [in](https://www.linkedin.com/in/iuliazamfira)
+462. **Alexandru Vrancianu** - Engineering Recruiter @ Microsoft | Secondary Target | [in](https://www.linkedin.com/in/vrancianualexandru)
+463. **Traian Chivu** - Recruiter & Business Developer @ R-HR.RO | Secondary Target | [in](https://www.linkedin.com/in/traian-chivu-2009861a)
+464. **Teodora Moroe** - Strategy & Operations Lead, Australia and New Zealand Solutions Architecture @ Amazon Web Services (AWS) | Low Priority | [in](https://www.linkedin.com/in/teomoroe)
+465. **Marius Mandoiu** - Senior Product Engineer @ Lenovo | Low Priority | [in](https://www.linkedin.com/in/marius-mandoiu-22344435)
+466. **Dallassandra Murgu** - System Engineering Leader for Access and Protection Perimeter @ Groupe Renault | Low Priority | [in](https://www.linkedin.com/in/dallassandra-murgu-b7291899)
+467. **Ovidiu Gabriel Guzgan** - Senior Front End Developer - Consultant @ European Economic and Social Committee | Secondary Target | [in](https://www.linkedin.com/in/ovidiu-gabriel-guzgan-71731168)
+468. **Loredana Banu** - Senior Technical Consultant @ Deloitte | Secondary Target | [in](https://www.linkedin.com/in/loredana-banu-78780885)
+469. **Stefania-Violeta Medelet** - Business Intelligence Developer @ Stefanini EMEA | Secondary Target | [in](https://www.linkedin.com/in/stefania-medelet)
+470. **Mihai Porojan** - Development Consultant / Technical Lead @ Endava | Secondary Target | [in](https://www.linkedin.com/in/mihai-porojan-a41a8563)
+471. **Bogdan Vaciu** - Senior Dynamics 365 F&O Technical Consultant @ COSMO CONSULT | Secondary Target | [in](https://www.linkedin.com/in/bogdan-vaciu-86917894)
+472. **Cristina Postelnicu** - Sap Business Warehouse Developer @ AD/01 | Secondary Target | [in](https://www.linkedin.com/in/cristina-postelnicu-74724743)
+473. **Andreea Manea** - Microsoft D365 FO Functional & Technical Specialist @ Accenture | Low Priority | [in](https://www.linkedin.com/in/andreea-manea-76552840)
+474. **Adelina Trocan** - Java Developer (Luxoft) @ ASML | Secondary Target | [in](https://www.linkedin.com/in/adelina-trocan-b197aa7b)
+475. **Vlad Vadim** - Field Services Engineer @ Honeywell Building Solutions | Low Priority | [in](https://www.linkedin.com/in/vlad-vadim-11a69462)
+476. **Silvia Elena Stanculescu** - Senior .NET Back End Developer @ Endava | Secondary Target | [in](https://www.linkedin.com/in/silvia-elena-stanculescu)
+477. **WALID BENMAHMOUD** - Technical Authority Expert @ Ericsson | Low Priority | [in](https://www.linkedin.com/in/walidbenmahmoud)
+478. **Robert-Alex Vamanu** - Senior Data Engineer @ Booking Holdings (NASDAQ: BKNG) | Low Priority | [in](https://www.linkedin.com/in/vamanu-alex)
+479. **Alex Vida** - Lead Web Developer @ ActiveColor | Secondary Target | [in](https://www.linkedin.com/in/alex-vida-2205263a)
+480. **Ioana Angelescu** - Sr Service Engineer @ Microsoft Advertising @ Microsoft | Low Priority | [in](https://www.linkedin.com/in/ioanaangelescu)
+481. **Elena Paun, MBA** - Senior Technical Account Manager @ Adobe | Low Priority | [in](https://www.linkedin.com/in/elenampaun)
+482. **Mihaela Joian** - HR Manager_Infrastructure Division @ Cegeka Romania | Secondary Target | [in](https://www.linkedin.com/in/mihaelajoian)
+483. **Georgiana Paise** - EMEA HR Partner - Solutions & Services Group (SSG) and Infrastructure Solutions Group (ISG) @ Lenovo | Secondary Target | [in](https://www.linkedin.com/in/georgianapaise)
+484. **Sorin Lacriteanu-Georgescu** - Senior DevOps Engineer @ Nexthink | Low Priority | [in](https://www.linkedin.com/in/sorin-lg)
+485. **Camelia Hurghis** - Senior Technical Recruiter - Global Industry Business Units @ Amazon Web Services (AWS) | Secondary Target | [in](https://www.linkedin.com/in/cameliahurghis)
+486. **Simona Vintila** - Support Escalation Engineer @ Microsoft | Low Priority | [in](https://www.linkedin.com/in/simona-vintila-b1892b20)
+487. **Andra Carbunaru** - Product Manager @ Intergo Telecom | Primary Target | [in](https://www.linkedin.com/in/andracarbunaru)
+488. **Madalin Naum** - Product Manager @ Adobe | Primary Target | [in](https://www.linkedin.com/in/nmadalin)
+489. **Alina Stoica** - Senior Product Manager @ Microsoft | Primary Target | [in](https://www.linkedin.com/in/alina-stoica)
+490. **Cristina Zamfirache** - Junior Product Manager @ Fashion Days Group | Primary Target | [in](https://www.linkedin.com/in/cristina-zamfirache-886701142)
+491. **Cristian Dorian Balan** - Product Manager @ Ateliere Creative Technologies | Primary Target | [in](https://www.linkedin.com/in/cristian-dorian-balan-8451b014)
+492. **Costin-Adrian Ene** - Sales Team Lead @ Senior Software | Low Priority | Last reached: 24/2/25 | [in](https://www.linkedin.com/in/enecostin)
+493. **Simona Novacescu** - Talent Acquisition Manager @ EPAM Systems | Secondary Target | [in](https://www.linkedin.com/in/simona-novacescu-79232416)
+494. **Radu Metes** - Chief Marketing Officer @ sezamo.ro | Low Priority | [in](https://www.linkedin.com/in/radumetes)
+495. **Jyothi M** - Talent Acquisition Specialist @ Sansaone | Secondary Target | [in](https://www.linkedin.com/in/jyothi-m-7a6365225)
+496. **Eugen L. Marc** - Group IT Recruitment Specialist @ REI Development Services | Low Priority | [in](https://www.linkedin.com/in/eugen-l-marc)
+497. **Sirarpi Solomonyan** - Talent Recruiter @ Blackscale Media | Secondary Target | [in](https://www.linkedin.com/in/sirarpi-solomonyan-4958a91b9)
+498. **Cosmin Chelcea** - Financial Services Consultant @ NN Group | Secondary Target | [in](https://www.linkedin.com/in/cosmin-chelcea-nicolae)
+499. **Yana Ivanova** - IT Recruiter at Andersen Lab @ Andersen Lab | Secondary Target | [in](https://www.linkedin.com/in/yana-ivanova)
+500. **Madalina Andreea D.** - People Manager || IT Recruiter @ Deviqon Labs | Secondary Target | [in](https://www.linkedin.com/in/madalina-andreea-d-4889a8153)
+501. **Sepehr Dinarvand** - Enterprise Account Executive @ DataStax | Low Priority | [in](https://www.linkedin.com/in/sepehrdibainfor)
+502. **Mariana Tulean** - IT Recruiter @ IT Teams | Secondary Target | [in](https://www.linkedin.com/in/mariana-tulean08)
+503. **Tosho Trajanov** - Member @ Hampton | Low Priority | [in](https://www.linkedin.com/in/tstrv)
+504. **Nataliia Kosovska** - Talent Sourcer @ United Software | Secondary Target | [in](https://www.linkedin.com/in/natalya-kosovska)
+505. **Mane Andreevski** - Senior Client Partner @ Adeva | Low Priority | [in](https://www.linkedin.com/in/mane-andreevski-53700330)
+506. **Gabriela Pop** - Programator @ Self-employed | Secondary Target | [in](https://www.linkedin.com/in/gabriela-pop-69032031a)
+507. **Elena S** - Senior Recruitment Consultant @ Freelance (Self employed) | Secondary Target | [in](https://www.linkedin.com/in/elena-s-166531177)
+508. **Nicolette Borontis** - Product Business Analyst @ Serrala | Low Priority | [in](https://www.linkedin.com/in/nicolette-borontis-9074a572)
+509. **Alexandra Toma** - Talent Acquisition Specialist @ Betfair Romania Development | Secondary Target | [in](https://www.linkedin.com/in/alexandra-toma-91236335)
+510. **Ivana Kochmanova Zivkovska** - Client Partner @ Adeva | Low Priority | [in](https://www.linkedin.com/in/ivana-kochmanova-zivkovska-304b9916b)
+511. **Serena Dumitru** - HR&Admin @ XWiki | Secondary Target | [in](https://www.linkedin.com/in/serenadumitru)
+512. **Larisa Mihaela Gheorghe** - Executive Recruiter @ IGT Solutions | Secondary Target | [in](https://www.linkedin.com/in/larisa-mihaela-gheorghe-825393132)
+513. **Sandeep Sunkari** - HR Operations @ SAGE IT | Secondary Target | [in](https://www.linkedin.com/in/sandeep-sunkari-31255b14b)
+514. **Rafik Fawzy Soliman** - Gen AI/ML Sales Specialist @ Amazon Web Services (AWS) | Low Priority | [in](https://www.linkedin.com/in/rafik-fawzy-soliman-46941830)
+515. **Mechelle De La Torre Bolinas** - Recruiter | Sourcer @ Speechify | Secondary Target | [in](https://www.linkedin.com/in/mbolinas)
+516. **Mihai Comșa** - IT&C/ SAP Recruitment and Employer Branding Manager @ Capgemini | Low Priority | [in](https://www.linkedin.com/in/mihai-comsa88)
+517. **Alexandra Gheorghe** - Recruitment Consultant @ Partnerd | Secondary Target | [in](https://www.linkedin.com/in/alexandra-gheorghe-09149b239)
+518. **Stefania Neagoe** - HR Consultant @ Sales Consulting | Secondary Target | [in](https://www.linkedin.com/in/stefania-neagoe-603180221)
+519. **Cristina Plic-Borza** - HR Specialist @ AXON-Soft | Secondary Target | [in](https://www.linkedin.com/in/cristina-plic-borza-2a7b86123)
+520. **Roxana Andreea Damian** - Global Operation Specialist @ Hewlett Packard Enterprise | Low Priority | [in](https://www.linkedin.com/in/roxana-andreea-damian-900782179)
+521. **Laura Duma** - Recruiter Coordinator @ Oracle | Secondary Target | [in](https://www.linkedin.com/in/laura-duma-622179271)
+522. **Nicoleta Mocanu, PCC** - Certified Professional Coach & CBT Psychotherapist @ Cabinet Individual de Psihologie Nicoleta Mocanu | Low Priority | [in](https://www.linkedin.com/in/nicoleta-mocanu-pcc-b687264)
+523. **Artur Rarinca** - IT Recruiter @ Talentor Romania | Secondary Target | [in](https://www.linkedin.com/in/arturrarinca)
+524. **Ana-Stefania Alexandru** - IT Recruitment Researcher @ Luxoft Romania | Low Priority | [in](https://www.linkedin.com/in/ana-stefania-alexandru-5755581b7)
+525. **Connor Leyland** - Business Manager (Denmark) @ Evolution Nordics | Low Priority | [in](https://www.linkedin.com/in/connor-leyland-bb9978226)
+526. **Stoia Cosmin** - Senior Graphic Designer @ IGT PlayDigital | Low Priority | [in](https://www.linkedin.com/in/stoia-cosmin-zin023)
+527. **Emily Hedin** - English Language Support Tutor @ Elizabeth School of London | Low Priority | [in](https://www.linkedin.com/in/emily-hedin-597b0718b)
+528. **Sarang Sangamnerkar** - Talent Acquisition Specialist @ ALOIS Solutions | Secondary Target | [in](https://www.linkedin.com/in/sarang-sangamnerkar-845671211)
+529. **Florian Kalcher** - IT-Berater @ Florian Kalcher IT Consulting | Low Priority | [in](https://www.linkedin.com/in/florian-k-792169150)
+530. **William Adamson** - IT Manager @ Warrantywise | Low Priority | [in](https://www.linkedin.com/in/williamadamson)
+531. **David Ciolovan** - Partner Manager @ IGT PlayDigital | Low Priority | [in](https://www.linkedin.com/in/david-ciolovan-465ba0105)
+532. **Jeremy Leonard** - Sales Executive @ TRG | Low Priority | [in](https://www.linkedin.com/in/jeremy-leonard-b984561a8)
+533. **Danylo Konev** - Marketing Strategist @ Self-employed | Low Priority | [in](https://www.linkedin.com/in/danylo-konev-186b941b7)
+534. **Ionela Ioniță** - Health & Safety Consultant @ Seatbelt Consulting | Secondary Target | [in](https://www.linkedin.com/in/ionela-ioni%C8%9B%C4%83-bb86b320a)
+535. **Andreea Grosu** - Business Development Executive @ Wellhub | Low Priority | [in](https://www.linkedin.com/in/andreea-grosu-248755114)
+536. **Tudor Stirbetiu** - Talent Acquisition Consultant @ Vodafone | Secondary Target | [in](https://www.linkedin.com/in/tudor-stirbetiu)
+537. **Elif Samedin** - DevOps Consultant @ Liber-profesionist | Secondary Target | [in](https://www.linkedin.com/in/elifsamedin)
+538. **Irina-Elena Tărîță** - Talent Acquisition Specialist @ AUTO1 Group | Secondary Target | [in](https://www.linkedin.com/in/irina-elena-t%C4%83r%C3%AE%C8%9B%C4%83)
+539. **Lara Lynch** - Senior Account Manager @ Kaseya | Low Priority | [in](https://www.linkedin.com/in/lara-lynch-51b50010a)
+540. **Amalia Costea** - Talent Acquisition Specialist @ Publicis Sapient | Secondary Target | [in](https://www.linkedin.com/in/amalia-costea-037218149)
+541. **Andrei Rusu** - Business Development Manager @ Legrand Romania | Low Priority | [in](https://www.linkedin.com/in/andrei-rusu-a3b1b110a)
+542. **Nina Mihaylova** - Human Resources Manager @ ES Bright Consultants | Low Priority | [in](https://www.linkedin.com/in/nina-mihailova)
+543. **Irina Micu** - Talent Growth Consultant @ TWL Recruitment | Secondary Target | [in](https://www.linkedin.com/in/irina-micu-a5701122a)
+544. **Maria Alexandra** - Talent Acquisition Specialist @ TabaNET Technology Consulting | Secondary Target | [in](https://www.linkedin.com/in/maria-alexandra-9956a6232)
+545. **Madalina Constantin** - Career Counselor @ Asociația The Social Incubator | Low Priority | [in](https://www.linkedin.com/in/hellonicetomeetyou)
+546. **Helena McAlinden** - Account Executive UKI - Startup & SMB Lead @ Stripe | Low Priority | [in](https://www.linkedin.com/in/helena-mcalinden)
+547. **Sofiia Yanush** - Talent Acquisition Manager @ Sharkscode | Secondary Target | [in](https://www.linkedin.com/in/sofiiayanush)
+548. **Bianca Pop** - Configuration Manager @ iSoftBet | Low Priority | [in](https://www.linkedin.com/in/bianca-pop-14886416b)
+549. **Radu Mihai Tudoran** - Senior Business Manager @ Concentrix Catalyst | Low Priority | [in](https://www.linkedin.com/in/radumihaitudoran)
+550. **Vlad Benchea** - Team Lead Manager @ OpenText | Low Priority | [in](https://www.linkedin.com/in/vlad-benchea-46b386173)
+551. **Federica Maraschio** - Senior Talent Acquisition Manager @ Alpiq | Secondary Target | [in](https://www.linkedin.com/in/federicamaraschio)
+552. **Andrei-Florin TIMURLEA** - Games Development Team Leader @ IGT PlayDigital | Low Priority | [in](https://www.linkedin.com/in/andrei-florin-timurlea)
+553. **Mihaela Ionescu** - Assistant Manager in Property Management and Recruitment Specialist @ Raw Geeks | Low Priority | [in](https://www.linkedin.com/in/mihaelaionescu)
+554. **Madalina Butnariu** - Recruitment Lead Europe @ Pentalog HR | Low Priority | [in](https://www.linkedin.com/in/madalina-butnariu-197a11113)
+555. **Oana Muțiu** - Human Resources Business Partner @ Bosch Romania | Low Priority | [in](https://www.linkedin.com/in/oanamutiu)
+556. **Laetitia Panaitescu** - IT Recruiter @ htss | Secondary Target | [in](https://www.linkedin.com/in/laetitia-panaitescu-9ba22a155)
+557. **Josh Skurnik** - Group Sales Associate @ Broadway Direct | Low Priority | [in](https://www.linkedin.com/in/josh-skurnik-05605b74)
+558. **Aleksandra Gańko** - Junior HR Specialist - Learning and Development Operations @ DLA Piper | Secondary Target | [in](https://www.linkedin.com/in/aleksandra-ganko)
+559. **Joshua A. Dass** - Delivery Consultant @ Hanson Regan - Recruitment experts in ERP, SAP IT & associated technologies | Secondary Target | [in](https://www.linkedin.com/in/joshuadass)
+560. **Maria Langa** - Recruitment Analyst @ Connections Consult | Low Priority | [in](https://www.linkedin.com/in/maria-langa-80838122a)
+561. **Adrian Ivan** - Talent Acquisition Specialist @ InCrys | Secondary Target | [in](https://www.linkedin.com/in/adrianivan23)
+562. **Velislava Peneva** - Talent Acquisition Manager/ Project Executive @ REMOTE TECH LTD | Secondary Target | [in](https://www.linkedin.com/in/velislava-peneva-2712a4105)
+563. **Daniela MUREȘAN** - Talent Acquisition Specialist @ Betfair Romania Development | Secondary Target | [in](https://www.linkedin.com/in/dana-mrsn)
+564. **Boris Borisov** - Advisor @ RemoteMore | Low Priority | [in](https://www.linkedin.com/in/bborisov)
+565. **Elisabeta Moldoveanu** - Business Unit Manager Grafton Romania @GiGroupHolding @ Gi Group Holding | Low Priority | [in](https://www.linkedin.com/in/elisabeta-moldoveanu)
+566. **Iryna Mishchenko** - Recruiter @ Hire&Flare | Secondary Target | [in](https://www.linkedin.com/in/iryna-mishchenko-8b6118219)
+567. **Ioana-Cristina Cristea** - Business Development Consultant @ Green Energy Engineering | Secondary Target | [in](https://www.linkedin.com/in/ioana-cristea-c8888)
+568. **Flavius B. Petru DUMA** - Senior Talent Acquisition Specialist @ UPPER | Secondary Target | [in](https://www.linkedin.com/in/flavius-duma-remote-recruiter)
+569. **Mădălina Rus** - Psiholog/ psihoterapeut cognitiv-comportamental @ Cabinet individual de psihologie | Low Priority | [in](https://www.linkedin.com/in/m%C4%83d%C4%83lina-rus-956038174)
+570. **Oleksandr Bilibinskyi** - Freelance Recruiter @ Upwork | Secondary Target | [in](https://www.linkedin.com/in/oleksandr-bilibinskyi-999a70212)
+571. **Mirona Noru** - Sales And Marketing Specialist @ Casa Capsa | Low Priority | [in](https://www.linkedin.com/in/mirona-noru)
+572. **Maria-Ruxandra Băcanu** - Junior IT Recruiter @ ALTEN Romania | Secondary Target | [in](https://www.linkedin.com/in/maria-ruxandra-b%C4%83canu-05572422b)
+573. **Andreea Tusinean** - Analyst @ Cognizant | Low Priority | [in](https://www.linkedin.com/in/andreea-tusinean-9111b121a)
+574. **Geanina Chiluți** - Senior Human Resources Generalist @ Garmin Cluj | Low Priority | [in](https://www.linkedin.com/in/geanina-chilu%C8%9Bi-904ba2150)
+575. **Angela Buburuzan** - Jr. Delivery Manager @ Stefanini EMEA | Low Priority | [in](https://www.linkedin.com/in/angela-buburuzan-a5691013a)
+576. **Carmen Hliza** - Human Resources Business Partner @ Medicover | Low Priority | [in](https://www.linkedin.com/in/carmenhliza)
+577. **Andreea Gancea** - IT Recruiter @ Senior Software | Secondary Target | [in](https://www.linkedin.com/in/andreeagancea)
+578. **Ramona Georgiana Stan** - IT Recruiter @ Pentalog HR | Secondary Target | [in](https://www.linkedin.com/in/ramona-georgiana-stan-211753163)
+579. **Maria Sabaila** - Human Resources Manager @ PlentyONE Development | Low Priority | [in](https://www.linkedin.com/in/mariasabaila)
+580. **Alexandra Harcea** - Operations Manager @ Webgy Land | Low Priority | [in](https://www.linkedin.com/in/alexandraharcea)
+581. **Cristina Rautu** - Recruitment Lead @ Printify | Low Priority | [in](https://www.linkedin.com/in/cristina-rautu-994a3b84)
+582. **Ajnácska Gáll** - Program & Project Management Professional @ Accenture Romania | Low Priority | [in](https://www.linkedin.com/in/ajnacska)
+583. **Oana Alexandra Teslariu** - Executive Vice President @ Heaven Solutions | Low Priority | [in](https://www.linkedin.com/in/oana-alexandra-teslariu-3a0a2a214)
+584. **Zsolt KOVÁCS** - Senior Strategic Talent Sourcer @ Accenture | Secondary Target | [in](https://www.linkedin.com/in/zsolt-kov%C3%A1cs-8b090014)
+585. **Veronica Grigorie** - Human Resources Consultant @ Jerry's Pizza | Secondary Target | [in](https://www.linkedin.com/in/carmenveronicagrigorie)
+586. **Ioana-Maria Tiurean** - Talent Acquisition Analyst @ Emerson | Secondary Target | [in](https://www.linkedin.com/in/ioana-maria-t-4482a91b7)
+587. **Irina Rotaru** - Payroll Manager - Business Services & Outsourcing @ BDO Romania | Low Priority | [in](https://www.linkedin.com/in/irina-rotaru-683a5882)
+588. **Tom Lintsen** - Mid Market Account Executive - UK/I @ Datadog | Low Priority | [in](https://www.linkedin.com/in/tom-lintsen)
+589. **Cristina Tiulete** - IT Recruiter @ Roweb | Secondary Target | [in](https://www.linkedin.com/in/cristina-tiulete-866962b4)
+590. **Valentin Pasecinic** - Web Project Manager @ UPQODE | Low Priority | [in](https://www.linkedin.com/in/valentin-pasecinic-91a63227)
+591. **Théodore Autexier** - Web Accessibility Expert @ Accessi+ | Low Priority | [in](https://www.linkedin.com/in/atxtheo)
+592. **Daniel Constantin Laza** - Project Lead @ HCL Technologies | Low Priority | [in](https://www.linkedin.com/in/daniel-constantin-laza-ab5a2915a)
+593. **Madalina Sirbescu (Popoiu)** - Talent Growth Specialist @ Pentalog HR | Secondary Target | [in](https://www.linkedin.com/in/madalinapopoiu)
+594. **DAN CRISTIAN ALEXANDRESCU** - General Manager @ WebSEM Marketing Digital | Low Priority | [in](https://www.linkedin.com/in/dan-cristian-alexandrescu-marketing)
+595. **Alina Linte** - Psychologist @ Linte Alina Cristina Cabinet Individual de Psihologie | Low Priority | [in](https://www.linkedin.com/in/alina-linte-0669aa7b)
+596. **Alexandru Puscas** - VP, Delivery @ Luminos Labs | Low Priority | [in](https://www.linkedin.com/in/alexandru-puscas-7b1b6274)
+597. **Haybet Ortiz** - People Administrator @ Games Global | Low Priority | [in](https://www.linkedin.com/in/haybet-ortiz-571ba0133)
+598. **Alex Piller** - Recruitment Specialist @ Piller & Partners IT Recruitment | Low Priority | [in](https://www.linkedin.com/in/alex-piller)
+599. **Delia - Alexandra Mihăilă** - IT Talent Acquisition @ Inetum | Secondary Target | [in](https://www.linkedin.com/in/delia-alexandra-mih%C4%83il%C4%83-b3a136182)
+600. **Denisa Maria** -  | Low Priority | [in](https://www.linkedin.com/in/denisa-maria-93766a218)
+601. **Robert Cristian** - Senior Global IT Recruiter contracted by AMS @ Sage | Secondary Target | [in](https://www.linkedin.com/in/robert-cristian-9014031a5)
+602. **Mussa Ashfaq** - Freelance Graphic Designer @ Grupo PAF | Low Priority | [in](https://www.linkedin.com/in/mussa-ashfaq-7435201b8)
+603. **Inés Paris Cózar** - Técnico de Gestión de Talento @ EMETEL | Secondary Target | [in](https://www.linkedin.com/in/in%C3%A9sparisc%C3%B3zar)
+604. **INTERBLOCK TECH** - Chief Executive Officer @ INTERBLOCK | Low Priority | [in](https://www.linkedin.com/in/interblock-tech-48042719a)
+605. **Anne Muscat Scerri** - Chief People Officer @ Immense Group | Low Priority | [in](https://www.linkedin.com/in/anne-muscat-scerri)
+606. **Soraya González Piñeiro** - People Specialist - Performance Operations @ Revolut | Low Priority | [in](https://www.linkedin.com/in/soraya-gonz%C3%A1lez-pi%C3%B1eiro-2b2008164)
+607. **Razvan Eliad** - Partner - Kestria Romania @ Kestria | Low Priority | [in](https://www.linkedin.com/in/greliad)
+608. **Trif Sergiu** - Customer Service Representative for E-commerce - English @ Teleperformance | Low Priority | [in](https://www.linkedin.com/in/trif-sergiu)
+609. **Alejandro Gabriel Jiménez Canales** - Junior Recruiter @ Alphanumeric Systems | Secondary Target | [in](https://www.linkedin.com/in/alejandrojimenezcanales)
+610. **Alexander Hignett** - Rugby Player @ Overseas RUFC | Low Priority | [in](https://www.linkedin.com/in/alexander-hignett)
+611. **Iuliana Rusu** - Project Manager @ Integritate pe bune | Low Priority | [in](https://www.linkedin.com/in/iuliana-rusu-28138926)
+612. **Miruna Crisu** - HR Business Partner @ IGT PlayDigital | Secondary Target | [in](https://www.linkedin.com/in/miruna-crisu-74635917)
+613. **Valentin Petrovici** - Configuration / Game Release Manager @ iSoftBet | Low Priority | [in](https://www.linkedin.com/in/valentin-petrovici-9a3b5134)
+614. **Florina Ciubotaru** - Well-being & Recognition Designer @ Orange | Low Priority | [in](https://www.linkedin.com/in/florina-ciubotaru-b4193619a)
+615. **Dav Johnson** - Digital Transformation Consultant @ DAG IT Consult | Secondary Target | [in](https://www.linkedin.com/in/dav-johnson-083307221)
+616. **Cristina Ionescu** - IONESCU GEORGETA-CRISTINA PFA @ Lucrător independent | Low Priority | [in](https://www.linkedin.com/in/cristina-i-a1612bb8)
+617. **Bogdan Birladianu** - Trainee @ Software Development Academy | Low Priority | [in](https://www.linkedin.com/in/bogdan-birladianu)
+618. **Vlad Martiniuc** - Senior Talent Acquisition Specialist @ Brillio | Secondary Target | [in](https://www.linkedin.com/in/vlad-m-301943a0)
+619. **Mihaela Pitulac** - Campus Talent Consultant @ AMD | Secondary Target | [in](https://www.linkedin.com/in/mihaela-pitulac)
+620. **Oana Irimia** - CallReplay @ RAI Software | Low Priority | [in](https://www.linkedin.com/in/oana-irimia-25947420b)
+621. **Madalina Manea** - HR Specialist IT Partner @ TMC Romania | Secondary Target | [in](https://www.linkedin.com/in/madalina-manea-a271111b8)
+622. **Mihail Popescu** -  | Low Priority | [in](https://www.linkedin.com/in/mihail-popescu-1a39691ba)
+623. **Anca Maria** - IT Recruiter @ InCrys | Secondary Target | [in](https://www.linkedin.com/in/anca-maria-6a3705a7)
+624. **Cristina Visan** - Psiholog clinician @ Vișan Cristina - Cabinet individual de psihologie | Low Priority | [in](https://www.linkedin.com/in/cristina-visan)
+625. **Cristina Daniela Paraschiv** - Retired @ At home | Low Priority | [in](https://www.linkedin.com/in/cristina-daniela-paraschiv-02197244)
+626. **Daiana Moraru** - Senior IT Recruiter & Account Manager @ VON Consulting | Secondary Target | [in](https://www.linkedin.com/in/daiana-moraru-0a9707164)
+627. **Hannah Mackie** - SAP Recruitment Consultant @ Cloud International | Secondary Target | [in](https://www.linkedin.com/in/hannah-mackie-6138151b6)
+628. **Adela Rotaru** - Talent Recruitment Specialist @ IT Boutique | Secondary Target | [in](https://www.linkedin.com/in/adela-rotaru-27a14b194)
+629. **Catalina Stoicescu, Assoc CIPD** - Sr. HR Advisor @ Expro | Secondary Target | [in](https://www.linkedin.com/in/catalina-stoicescu-assoc-cipd-2754197)
+630. **Ana Umnova** - Freelance Talent Hunter @ Self-employed | Secondary Target | [in](https://www.linkedin.com/in/ana-umnova)
+631. **Irina Sofron** - IT HR Business Partner @ LuxonTech | Secondary Target | [in](https://www.linkedin.com/in/irina-s-431a34167)
+632. **Teodora Ionita** - IT Recruitment Researcher @ Intelactsoft | Low Priority | [in](https://www.linkedin.com/in/teodora-ionita-55794712a)
+633. **Ana-Maria Sahlean** - Business Consultant @ Heaven Solutions | Secondary Target | [in](https://www.linkedin.com/in/ana-maria-sahlean-574a70173)
+634. **Narcisa Lăzăroiu ⛰️** - Global Employer Branding @ Globant | Low Priority | [in](https://www.linkedin.com/in/narcisalazaroiu)
+635. **Cristina Livadaru** - Maternity Leave @ VON Consulting | Low Priority | [in](https://www.linkedin.com/in/cristina-livadaru)
+636. **Andra Popescu** -  | Low Priority | [in](https://www.linkedin.com/in/andra-popescu-559511155)
+637. **Taddeo Moise** - Senior 3D Artist @ Sc Eclectarte studio srl | Low Priority | [in](https://www.linkedin.com/in/taddeo-moise-74b8a1202)
+638. **Gabriela Gradinaru** - Global Talent Acquisition Specialist @ IDEMIA | Secondary Target | [in](https://www.linkedin.com/in/gabriela-gradinaru)
+639. **Ioana Madalina Alecu** - Personal Fitness Trainer @ 18GYM România | Low Priority | [in](https://www.linkedin.com/in/ioana-madalina-alecu-669447189)
+640. **David Healion** - Senior Talent Acquisition Manager @ byrd | Secondary Target | [in](https://www.linkedin.com/in/david-healion)
+641. **Anca-Maria Ion** - Conversion Rate Optimization Specialist @ vidaXL | Low Priority | [in](https://www.linkedin.com/in/anca-maria-ion)
+642. **Bratu Gabriel** - Asistent Comercial @ SAROM Packaging | Low Priority | [in](https://www.linkedin.com/in/bratu-gabriel-a145171b9)
+643. **Mihaela Dina** - Talent Acquisition Lead @ Stefanini EMEA | Secondary Target | [in](https://www.linkedin.com/in/mihaela-dina-2039a3a3)
+644. **Alexandra Rad** - Talent Acquisition Manager @ NTT DATA Romania | Secondary Target | [in](https://www.linkedin.com/in/alexandra-rad-a377a8103)
+645. **Alicja D** - IT Recruitment Assistant  Consultant @ SNI | Secondary Target | [in](https://www.linkedin.com/in/alicja-d-525542174)
+646. **Jed Parmenter-Rons** - SAP Recruitment Consultant @ Dynamic Search Solutions | Secondary Target | [in](https://www.linkedin.com/in/jed-p-rons)
+647. **Bianca Elena Danciu** - Project Support Associate 1 @ Deloitte | Low Priority | [in](https://www.linkedin.com/in/bianca-elena-danciu-a38ba41b2)
+648. **Monica Balasoiu** - People Manager (Hewlett Packard RO account) @ coverletter.tech | Low Priority | [in](https://www.linkedin.com/in/monicabalasoiu)
+649. **Ana Ionita** - Product Video Specialist @ Zensai | Low Priority | [in](https://www.linkedin.com/in/ana-ionita)
+650. **Neeharika Madhusudan** - TA Lead @ Recro | Low Priority | [in](https://www.linkedin.com/in/neeharika-madhusudan-65095615a)
+651. **Cristina Tanase** - Team Leader, Marketing Data @ Pentalog | Low Priority | [in](https://www.linkedin.com/in/cristina-tanase-327a8317a)
+652. **Mihaela Bârlădeanu** - Consultant @ Elite Searchers & Partners / Agilium Worldwide Executive Search | Secondary Target | [in](https://www.linkedin.com/in/mihaela-b%C3%A2rl%C4%83deanu-a06294179)
+653. **Karmele Guibert** - Senior Consultant @ ISG International Service Group | Secondary Target | [in](https://www.linkedin.com/in/karmele-guibert-)
+654. **Bianca Iarca** - Senior Talent Acquisition Partner @ LSEG (London Stock Exchange Group) | Secondary Target | [in](https://www.linkedin.com/in/bianca-iarca-701922172)
+655. **Cristiana Pislariu** - Recruitment Manager @ TherCore | Low Priority | [in](https://www.linkedin.com/in/cristiana-pislariu-1181948b)
+656. **Ioana Popa** - IT Recruiter @ Easy Recruiting | Secondary Target | [in](https://www.linkedin.com/in/ioana-popa-588a05128)
+657. **Evelin Rozek** - Senior IT Recruiter @ Blankfactor | Secondary Target | [in](https://www.linkedin.com/in/evelin-rozek-319266199)
+658. **Andrei Angel Dan** - Senior Recruiter @ Digijobs | Secondary Target | [in](https://www.linkedin.com/in/andrei-angel-dan-419bb0146)
+659. **Laurențiu Plăcintă-Șalaru** - QA Tester @ Amber | Low Priority | [in](https://www.linkedin.com/in/laurentiu-placinta-salaru)
+660. **Neha Ghosh** - Recruiting Manager @ Flexiple | Low Priority | [in](https://www.linkedin.com/in/neha-ghosh-7651b2191)
+661. **Yuriy Grischenko** - Human Resources Assistant @ ANVI Software Development Teams | Low Priority | [in](https://www.linkedin.com/in/yuriy-grischenko)
+662. **Iulia Anghel** - Office Manager @ EveryMatrix | Low Priority | [in](https://www.linkedin.com/in/iulia-anghel-66a592197)
+663. **Carmen Ardelean** - Community&Events Coordinator @ ClujHub | Low Priority | [in](https://www.linkedin.com/in/carmen-ardelean-650900125)
+664. **Violeta-Georgiana Gaina** - Freelance Recruiter @ Lucrător independent | Secondary Target | [in](https://www.linkedin.com/in/violeta-georgiana-gaina)
+665. **Ana-Maria Gheorghiu** - IT Recruitment Partner @ Aquarius Solutions | Low Priority | [in](https://www.linkedin.com/in/gheorghiuana)
+666. **Andrei Salajan** - Financial Analyst @ Flatwise Properties | Low Priority | [in](https://www.linkedin.com/in/andrei-salajan-707245198)
+667. **Cristina-Ioana Năstasă** - Volunteer @ YOUng Steps Kenya | Low Priority | [in](https://www.linkedin.com/in/cristina-ioana-n%C4%83stas%C4%83-b56554173)
+668. **Razvan Andrei Pascu** - Media Buyer @ Freelance (Self employed) | Low Priority | [in](https://www.linkedin.com/in/razvan-andrei-pascu)
+669. **Alexandra Gabriela Dascalu** - Team Lead @ Luxoft Romania | Low Priority | [in](https://www.linkedin.com/in/alexandra-gabriela-dascalu-74b75a87)
+670. **Joanna Cetlin** - Talent Acquisition Partner @ Allianz Partners | Secondary Target | [in](https://www.linkedin.com/in/joannacetlin)
+671. **IAW Germany** - Manager @ IAW germany | Low Priority | [in](https://www.linkedin.com/in/iaw-germany-8803b11a1)
+672. **Iulian Satnoianu** - Recruiting Specialist @ Chain IQ Group AG | Low Priority | [in](https://www.linkedin.com/in/iulian-satnoianu-46483419b)
+673. **Alexandra Dascalu** - Recruitment Team Leader @ eMAG | Low Priority | [in](https://www.linkedin.com/in/alexandra-dascalu-746940136)
+674. **Luminita Stefan** - Manager Resurse Umane @ NCH Advisors Inc. | Low Priority | [in](https://www.linkedin.com/in/luminita-stefan-9582835b)
+675. **Gabriela Brezuica** - Senior IT Recruitment Consultant @ Brainspotting | Technology Recruitment | Secondary Target | [in](https://www.linkedin.com/in/gabriela-brezuica-0a9967101)
+676. **Alexandra Timis** - Recruitment Team Lead @ accesa.eu | Low Priority | [in](https://www.linkedin.com/in/alexandratimis)
+677. **Catalin Sinescu** - Driver manager @ Kuehne+Nagel | Low Priority | [in](https://www.linkedin.com/in/catalin-sinescu)
+678. **Lavinia Dadarlat** - Senior Copywriter @ the Syndicate | Low Priority | [in](https://www.linkedin.com/in/laviniad)
+679. **Andreea Tudor** - Team Coordinator @ Tremend Software Consulting | Low Priority | [in](https://www.linkedin.com/in/andreea-t-baa054182)
+680. **Maria Toma** - Talent Acquisition Specialist @ AllCloud | Secondary Target | [in](https://www.linkedin.com/in/mariatoma047)
+681. **Sorina Săpunaru** - Talent Acquisition Specialist @ rinf.tech | Secondary Target | [in](https://www.linkedin.com/in/sorina-ionela-s%C4%83punaru)
+682. **Drink IT Romania** - Youtuber @ Independent Contractor | Low Priority | [in](https://www.linkedin.com/in/drink-it-romania)
+683. **Luiza Petre** - Senior Talent Acquisition Partner @ mindit.io | Secondary Target | [in](https://www.linkedin.com/in/luiza-petre-b673a91a1)
+684. **Raluca Tiptiș** - Senior IT Recruiter @ IJC | Secondary Target | [in](https://www.linkedin.com/in/ralucatiptis)
+685. **Malina Cristescu** - Student @ University of Bucharest | Low Priority | [in](https://www.linkedin.com/in/malinacristescu)
+686. **Andrei Stefan** - Psychotherapist @ Hilio - hilio.com | Low Priority | [in](https://www.linkedin.com/in/andrei-stefan-999468a7)
+687. **Crina Gheorghe** - Digital Enabler @ DigiTribe | Low Priority | [in](https://www.linkedin.com/in/crina-gheorghe-50a256192)
+688. **Luminita Burcea** - Talent Acquisition & Employer Branding Specialist @ Hyperfy | Secondary Target | [in](https://www.linkedin.com/in/luminita-burcea)
+689. **Elena Miron** - IT Recruiter/Account Manager @ VON Consulting | Secondary Target | [in](https://www.linkedin.com/in/elena-miron-96938b131)
+690. **Cristiana A, Pieleanu** - Strategic Sourcing Partner @ Accenture | Low Priority | [in](https://www.linkedin.com/in/adriana-cristiana-p)
+691. **Ilona Zuczkowska** - International IT Recruiter Freelancer @ My own company | Secondary Target | [in](https://www.linkedin.com/in/ilona-zuczkowska-663a5a197)
+692. **Denisa Minea** - HR Business Partner & Team Lead Recruitment @ Randstad Digital Romania | Secondary Target | [in](https://www.linkedin.com/in/denisa-minea-71219a176)
+693. **Maria Constantin** - IT Recruitment Consultant @ HRS Romania | Secondary Target | [in](https://www.linkedin.com/in/maria-constantin-)
+694. **Aaron Hyde** - Talent Manager @ obodo | Secondary Target | [in](https://www.linkedin.com/in/aaronhydeobodo)
+695. **Adina-Eliza-Maria Pătrașcu** - Performance Manager @ United Media Services | Low Priority | [in](https://www.linkedin.com/in/adina-eliza-maria-p%C4%83tra%C8%99cu-b03795110)
+696. **Mariia B** - Recruitment Specialist @ REED | Low Priority | [in](https://www.linkedin.com/in/mariia-b-0b9a581a6)
+697. **Razvan Petre** - Area Sales Manager @ Danfoss | Low Priority | [in](https://www.linkedin.com/in/petrerazvan)
+698. **Andreea Toader** - People Development Consultant @ eMAG | Secondary Target | [in](https://www.linkedin.com/in/andreea-toader)
+699. **Madalina Nitu** - Senior University Talent Partner @ Adobe | Secondary Target | [in](https://www.linkedin.com/in/madalina-nitu-3b3006176)
+700. **📌Alex G. Bolog** - Senior Consultant - IT Talent Acquisition @ AMS Accelerate IT | Secondary Target | [in](https://www.linkedin.com/in/alex-g-bolog)
+701. **Dragos Gruia** - Recruitment Consultant @ OC Prod | Secondary Target | [in](https://www.linkedin.com/in/dragos-gruia-148b54a6)
+702. **Ianovici Vasile** - Administrator @ Ianovici Negotium S.R.L. | Low Priority | [in](https://www.linkedin.com/in/vasile-ianovici)
+703. **Ovidiu Sebastian Goidescu** - Professional Services Operations Analyst @ Palo Alto Networks | Low Priority | [in](https://www.linkedin.com/in/ovidiu-sebastian-goidescu-0b9045189)
+704. **Irina Stefania Apostolie** - Back Office Order Processing @ WIKA Group | Low Priority | [in](https://www.linkedin.com/in/irina-apostolie)
+705. **Raluca Panait** - Talent Acquisition Analyst @ SII Romania | Secondary Target | [in](https://www.linkedin.com/in/raluca-panait-6351a513b)
+706. **Raluca Ciubotaru** - Designer @ Toptal | Low Priority | [in](https://www.linkedin.com/in/raluca-ciubotaru)
+707. **Ramona Tolas** - Development Team Lead @ Ullink - now part of Broadridge Trading and Connectivity Solutions | Low Priority | [in](https://www.linkedin.com/in/ramona-tolas-686867116)
+708. **Lavinia Raicu** - Senior Talent Acquisition @ Deutsche Bank | Secondary Target | [in](https://www.linkedin.com/in/lavinia-raicu-09862043)
+709. **George Enache** - System Administrator @ Haulotte | Low Priority | [in](https://www.linkedin.com/in/georgeenache)
+710. **Muhammad Hussan Ullah Khan** - Professional Graphic Designer/ Web Designer @ upwork | Low Priority | [in](https://www.linkedin.com/in/hussankhan)
+711. **Alexandr Capatina** - Development Team Lead @ AdsWizz | Low Priority | [in](https://www.linkedin.com/in/alexandr-capatina-64a34634)
+712. **Alexandru Ștefan Tănase** - Manager @ Benefits Entertainment | Low Priority | [in](https://www.linkedin.com/in/alexandrustefantanase)
+713. **Vlad Olaru** - Code Wrangler @ Automattic | Low Priority | [in](https://www.linkedin.com/in/vladolaru)
+714. **Sinziana Preda** - Human Resources Specialist @ Rohde & Schwarz Topex | Low Priority | [in](https://www.linkedin.com/in/sinziana-preda-b428a152)
+715. **Eniko Fulop** - Managing Attorney @ Fuloplawyers.com | Low Priority | [in](https://www.linkedin.com/in/eniko-fulop-13400024)
+716. **Magda Dumitrescu** - Senior Talent Acquisition @ SOFTWIN | Secondary Target | [in](https://www.linkedin.com/in/magda-dumitrescu-hr)
+717. **Eleni Antimisari** - Senior Talent Acquisition Partner @ TRASYS GREECE | Secondary Target | [in](https://www.linkedin.com/in/eleniantimisari)
+718. **Jyotsna Gehani** - Freelance Recruiter @ Freelance | Secondary Target | [in](https://www.linkedin.com/in/jyotsna-gehani-b12631182)
+719. **Manole Cosmin** - Senior Partner | Trainer | L&D Consultant @ Smart Impact Training | Secondary Target | [in](https://www.linkedin.com/in/manole-cosmin-70142628)
+720. **Sonia Pipa** - Data Scientist @ Endava | Low Priority | [in](https://www.linkedin.com/in/sonia-pipa-1010a79b)
+721. **Dan Radoiu** - 10X Performance Coach @ Dan Radoiu | Low Priority | [in](https://www.linkedin.com/in/danradoiu)
+722. **Emil Moise** - Manager @ MHP – A Porsche Company | Low Priority | [in](https://www.linkedin.com/in/emilmoise)
+723. **Gabriel Sandu** - Scrum Master @ EPAM Systems | Low Priority | [in](https://www.linkedin.com/in/gabriel-sandu-6b6175a2)
+724. **Manzala Andrei Iulian** - Security Lead @ FintechOS | Low Priority | [in](https://www.linkedin.com/in/manzala-andrei-iulian-416b13162)
+725. **🚀Cristian Burac** - Senior UX Designer @ Raiffeisen Bank Romania | Low Priority | [in](https://www.linkedin.com/in/cristianburac)
+726. **Roxana Urduzan** - EMEA Talent Acquisition Partner @ UiPath | Secondary Target | [in](https://www.linkedin.com/in/roxana-urduzan)
+727. **Bogdan Nanu** - Business Manager @ SII Romania | Low Priority | [in](https://www.linkedin.com/in/bogdan-nanu-906148196)
+728. **mihaela chelsoi** - Senior Project Manager - Scrum Master + Project Mgmt + People Mgmt + Risk Mgmt + Delivery Mgmt @ Cognizant | Low Priority | [in](https://www.linkedin.com/in/mihaela-chelsoi-18a2a426)
+729. **Cristian Dumitriu** - Freelancer @ Freelance | Low Priority | [in](https://www.linkedin.com/in/cristian-constantin-d-7967604b)
+730. **Monica Stan** - European Funding & Grants Consultant @ Smart Business Planning | Secondary Target | [in](https://www.linkedin.com/in/monica-stan-b790b518a)
+731. **Lungu Catalin - Marian** - Chief Executive Officer @ Allbuy International SRL | Low Priority | [in](https://www.linkedin.com/in/lungucatalinmarian)
+732. **Loredana Hermans** - Freelance Recruiter and HR Consultant @ Tegridy HR Consulting | Secondary Target | [in](https://www.linkedin.com/in/loredana-hermans)
+733. **Abude Bayassi** - Research and Development Manager - Authentication @ OneSpan | Low Priority | [in](https://www.linkedin.com/in/abude)
+734. **Adrian Besleaga 💻** - Remote Freelancer @ Self-employed | Low Priority | [in](https://www.linkedin.com/in/adrian-besleaga)
+735. **Alina Georgiana Elenescu, Assoc. CIPD** - Junior Agile Tester @ Flix | Low Priority | [in](https://www.linkedin.com/in/alinaelenescu)
+736. **Sorin Dumitrescu** - Chief Operations Officer @ Omniconvert | Low Priority | [in](https://www.linkedin.com/in/sorin-dumitrescu)
+737. **Emanuel Oprea** - Senior Consultant (Golang) @ Lidl Digital Romania | Secondary Target | [in](https://www.linkedin.com/in/emanuel-oprea)
+738. **Andreea Ionela Duma** - Recruitment Project Manager @ Evolve today Romania | Low Priority | [in](https://www.linkedin.com/in/andreeaioneladuma)
+739. **Lăcrămioara ROȘU** - Business Development Manager @ Euro-Testing Software Solutions | Low Priority | [in](https://www.linkedin.com/in/lacramioara-rosu)
+740. **Cristina Surdu** - Agile Project Manager @ Mega Image | Low Priority | [in](https://www.linkedin.com/in/cristina-surdu-1ababb14)
+741. **Vlad Ungureanu** - Education Coordinator/Trainer/Coach @ Extensive Network SRL | Low Priority | [in](https://www.linkedin.com/in/vlad-ungureanu-44407a66)
+742. **Andreas Stanca** - Project Manager @ Bytex Technologies | Low Priority | [in](https://www.linkedin.com/in/andreas-stanca-6bb212170)
+743. **Alexandru Aldescu** - Digital Strategy & Innovation @ Pegasus | Low Priority | [in](https://www.linkedin.com/in/alexandru-a-3a85b2123)
+744. **Mihaela Mot** - Manager @ Mense Consulting | Low Priority | [in](https://www.linkedin.com/in/mihaela-mot-690a907a)
+745. **Rodica Sapintan** - Talent Acquisition Consultant @ Stefanini EMEA | Secondary Target | [in](https://www.linkedin.com/in/hrresearcher)
+746. **Narcis Gavrilescu** - Investor @ Worldline | Low Priority | [in](https://www.linkedin.com/in/narcislion)
+747. **Cristian Bica** - Senior Program Manager @ Tazz by eMAG | Low Priority | [in](https://www.linkedin.com/in/cristian-bica-ncc-1701)
+748. **Ne Iulia** - IT Recruiter @ RINF TECH | Secondary Target | [in](https://www.linkedin.com/in/ne-iulia-672709146)
+749. **Mirela Dragomir** - Senior IT Recruitment Partner @ Qualitest | Low Priority | [in](https://www.linkedin.com/in/mirela-alexandra-dragomir)
+750. **Corina Popescu-Dumitru** - 360 IT Recruitment Consultant @ Hays | Secondary Target | [in](https://www.linkedin.com/in/corinapopescudumitru)
+751. **Andrei Suciu** - Marketing Project Manager @ Bookster | Low Priority | [in](https://www.linkedin.com/in/andrei-suciu-265757153)
+752. **Gabriela Stan** - Independent Consultant @ Freelance | Secondary Target | [in](https://www.linkedin.com/in/gabrielastan)
+753. **Victor Stef** - Executive Producer @ Aperture.Film | Low Priority | [in](https://www.linkedin.com/in/victor-stef-80591180)
+754. **Geanina Adriana Ionescu** - Human Resources Specialist @ Public Sector | Low Priority | [in](https://www.linkedin.com/in/geanina-adriana-ionescu-a15005a5)
+755. **Iulia RANGA** - Project Manager @ Sowelo Consulting sp. z o.o. sp. k. | Low Priority | [in](https://www.linkedin.com/in/iulia-ranga-789946b4)
+756. **Irina Maria Neculae** - Talent Acquisition Specialist @ Matrix42 | Secondary Target | [in](https://www.linkedin.com/in/irinamarianeculae)
+757. **Alina Cărădeanu** - Senior Talent Acquisition Partner @ Onapsis | Secondary Target | [in](https://www.linkedin.com/in/caradeanu)
+758. **Andreea Rarinca** - Senior Sales Account Manager @ EasyDo Digital Technologies | Low Priority | [in](https://www.linkedin.com/in/andreea-rarinca-645430158)
+759. **CEXIT Ploiesti** -  | Low Priority | [in](https://www.linkedin.com/in/cexit-ploiesti-271a09145)
+760. **Ana Maria Bart** - Recruitment Coordinator @ in-tech engineering services SRL | Low Priority | [in](https://www.linkedin.com/in/anabart)
+761. **Maria Steliana Filip** - PM-IT Governance, Strategy, Projects| PMO for IT Solutions @ DRÄXLMAIER Group | Low Priority | [in](https://www.linkedin.com/in/maria-steliana-filip-6670311)
+762. **Ana-Maria Necula** - Recruitment Sourcer @ DS Contractors and Services SRL | Secondary Target | [in](https://www.linkedin.com/in/ana-maria-necula)
+763. **Alexandra Marin** - Competency Manager @ ALTEN Romania | Low Priority | [in](https://www.linkedin.com/in/alexandra-marin-a2873413b)
+764. **Marta Gheorghe** - Corporate Recruitment Partner @ Stefanini EMEA | Low Priority | [in](https://www.linkedin.com/in/marta-gheorghe-b5164b51)
+765. **Vlad Mocanu** - Operations and Marketing @ Stealth Startup | Low Priority | [in](https://www.linkedin.com/in/vlad-mocanu)
+766. **Emanuela Ciubotaru** - Talent Acquisition Manager, Europe @ Encora Inc. | Secondary Target | [in](https://www.linkedin.com/in/emanuela-ciubotaru)
+767. **Alexandra Maxim** - Freelance IT Recruiter @ HRxToday | Secondary Target | [in](https://www.linkedin.com/in/alexandra-maxim-356872aa)
+768. **Anca Cioroianu** - Squad Lead @ SII Romania | Low Priority | [in](https://www.linkedin.com/in/anca-c-65069487)
+769. **Klauss Andrei** - Captain @ Kappa.London | Low Priority | [in](https://www.linkedin.com/in/klaussa)
+770. **Narcisa Groza 🪐** - Lead IT Recruiter @ Luxoft Romania | Secondary Target | [in](https://www.linkedin.com/in/narcisagroza)
+771. **Lorena Baluta** - Senior Talent Acquisition Partner @ AscentCore | Secondary Target | [in](https://www.linkedin.com/in/lorena-gaina)
+772. **Anca Popa** - Team Lead Recruitment @ AROBS Engineering | Low Priority | [in](https://www.linkedin.com/in/ancaepopa)
+773. **Alexandra Descultu** - Project Manager @ Trend Consult Group | Low Priority | [in](https://www.linkedin.com/in/alexandradescultu)
+774. **Diana Stelianescu** - Talent Acquisition EMEA @ Deutsche Bank | Secondary Target | [in](https://www.linkedin.com/in/diananegreanuhrconsultant)
+775. **Gloria Gomez** - Senior Consultant @ SOLA Group | Secondary Target | [in](https://www.linkedin.com/in/gloria-g-93a450169)
+776. **Raluca Tanase** - IT Recruitment Lead @ Cognizant | Low Priority | [in](https://www.linkedin.com/in/raluca-tanase-5048955a)
+777. **Maria Iancu** - HR Advisor / Generalist @ GKN Aerospace | Secondary Target | [in](https://www.linkedin.com/in/maria-iancu-810052151)
+778. **Rareș Vișan** - Recruitment Specialist @ TELUS International | Low Priority | [in](https://www.linkedin.com/in/raresvisan)
+779. **⭐Oana C.** - People Success Partner @ Qualitest | Low Priority | [in](https://www.linkedin.com/in/oanagc)
+780. **Florin Pop** - Creator @ iCodeThis | Low Priority | [in](https://www.linkedin.com/in/florinpop17)
+781. **Mihai Sora** - Angel Investor @ Archbee | Low Priority | [in](https://www.linkedin.com/in/mihai-sora)
+782. **Elena Costescu** - Talent Acquisition Lead @ Pentalog HR | Secondary Target | [in](https://www.linkedin.com/in/elena-costescu-14177045)
+783. **Lucy Cunningham** - Talent Acquisition Partner @ Optimove | Secondary Target | [in](https://www.linkedin.com/in/lucy-cunningham)
+784. **Madalina R** - Recruitment Specialist @ Smart Recruiting | Low Priority | [in](https://www.linkedin.com/in/madalina-r-82631b188)
+785. **Theodor Grecu** - Brand Ambassador @ TOMSEN Sports GmbH | Low Priority | [in](https://www.linkedin.com/in/theodor-grecu-324a0362)
+786. **Madalina PRUTEANU** - HR Recruitment Projects Coordinator & Business Partner Lead @ Qualitest | Secondary Target | [in](https://www.linkedin.com/in/madalina-pruteanu-5050b5133)
+787. **Arina Ciocîrlan** - Service Delivery Manager @ Orange | Low Priority | [in](https://www.linkedin.com/in/arina-ciocirlan)
+788. **Daniela Tudos** - Human Resources Executive, Hogan Admin @ Pedersen & Partners | Low Priority | [in](https://www.linkedin.com/in/daniela-tudos-60786417b)
+789. **Mihaela Tudorica** - Senior Recruiter @ PepsiCo | Secondary Target | [in](https://www.linkedin.com/in/mihaela-tudorica-b86918167)
+790. **Raluca-Ioana Hanganu** - Senior IT Recruiter @ Swissquote | Secondary Target | [in](https://www.linkedin.com/in/raluca-ioana-hanganu-976b97bb)
+791. **Remote Jobs** - Executive @ remotejobsonly.com | Low Priority | [in](https://www.linkedin.com/in/remote-jobs-only)
+792. **Bianca Maria Demian** - EMEA Recruiter @ SugarCRM | Secondary Target | [in](https://www.linkedin.com/in/bianca-demian)
+793. **David Guiney** - Lead Recruiter @ Oxford Global Resources | Secondary Target | [in](https://www.linkedin.com/in/david-guiney-ab76b178)
+794. **Andra Țoe** - Senior Recruiter @ Deloitte | Secondary Target | [in](https://www.linkedin.com/in/andra-%C8%9Boe)
+795. **Luiza Florian** - HR Lead @ Playtika | Secondary Target | [in](https://www.linkedin.com/in/luiza-florian-321445142)
+796. **Elena Gorea** - Senior Consultant @ ABC HUMAN CAPITAL | Secondary Target | [in](https://www.linkedin.com/in/elenagorea)
+797. **Ruben-Cristian Nistor** - Operator SMT @ Flex | Low Priority | [in](https://www.linkedin.com/in/ruben-cristian-nistor-5a829014a)
+798. **Iulia David** - Responsable ventas servicios turisticos | Low Priority | [in](https://www.linkedin.com/in/iulia-david-20100971)
+799. **Khawaja Muhammad Jawwad Siddiqi** - Graphic Designer @ Al Maha Advertising & Gifts Trading LLC | Low Priority | [in](https://www.linkedin.com/in/k-m-j-s)
+800. **Catalina Stanciu** - Talent Acquisition Specialist @ AIS CLINICS & HOSPITAL | Secondary Target | [in](https://www.linkedin.com/in/catalina-stanciu-b5b2b2126)
+801. **Andrei C. Mușat** - Information Security Officer @ Cegeka | Low Priority | [in](https://www.linkedin.com/in/andreimusat)
+802. **Sorin Chirilă** - Service Manager - frigotehnist si electrician @ Life Art Distribuție | Low Priority | [in](https://www.linkedin.com/in/sorin-chiril%C4%83-b82538180)
+803. **George Petrache** - IT Recruitment Team Lead @ HN Services Romania | Low Priority | [in](https://www.linkedin.com/in/george-petrache-343325172)
+804. **Codruta-Ioana Adamache** - Recruitment Specialist @ Microchip Technology Inc. | Low Priority | [in](https://www.linkedin.com/in/codrutaadamache)
+805. **Dumitru Ilie** - Ingénieur système Unix like @ Allianz Belgium | Low Priority | [in](https://www.linkedin.com/in/dumitru-ilie-b2733032)
+806. **Oana Pruna** - Regional Activation Manager @ The HEINEKEN Company | Low Priority | [in](https://www.linkedin.com/in/oana-pruna-7b151613b)
+807. **Mihail Girnet** - Board Member @ Food Vision | Low Priority | [in](https://www.linkedin.com/in/mihailgirnet)
+808. **Nicoleta Blaga** - Senior Talent Acquisition Partner @ UiPath | Secondary Target | [in](https://www.linkedin.com/in/nicoleta-blaga)
+809. **Camelia Parfeni** - Talent Acquisition Lead @ Orion Innovation | Secondary Target | [in](https://www.linkedin.com/in/camelia-parfeni)
+810. **Ramona Rat** - Senior Scrum Master | Team Leader @ Ness Digital Engineering Romania | Low Priority | [in](https://www.linkedin.com/in/ramona-rat-328867150)
+811. **enache miron** - receptionist @ pullman hotel | Low Priority | [in](https://www.linkedin.com/in/enache-miron-76a08416)
+812. **Diana Dumitrascu** - Leadership and Talent Development Consultant @ eMAG | Secondary Target | [in](https://www.linkedin.com/in/diana-dumitrascuu)
+813. **Bianca Găvan** - Recruitment Lead @ NN | Low Priority | [in](https://www.linkedin.com/in/biancag%C4%83van)
+814. **Johan Simonneau** - Senior Marketing Manager @ Tiime | Low Priority | [in](https://www.linkedin.com/in/johansimonneau)
+815. **Andreea Mazere** - Scrum Master @ Pentalog | Low Priority | [in](https://www.linkedin.com/in/andreea-mazere-a402151a)
+816. **Anthony Chariault** - Senior Growth Manager @ GitGuardian | Low Priority | [in](https://www.linkedin.com/in/anthonychariault)
+817. **Laura Gaiu** - Recruitment Expert @ BearingPoint | Low Priority | [in](https://www.linkedin.com/in/laura-gaiu-04ab7a9b)
+818. **Jack Gilbert** - Principle Consultant - AI/ML @ Adapt Talent | Secondary Target | [in](https://www.linkedin.com/in/jack-gilbert-362bb277)
+819. **Daniela Drăgulin** - Economist @ Pentalog | Low Priority | [in](https://www.linkedin.com/in/daniela-dr%C4%83gulin-722a3b135)
+820. **Cristina Trandafir** - Senior IT Recruiter @ BMW TechWorks Romania | Secondary Target | [in](https://www.linkedin.com/in/cristina-t-a5669b159)
+821. **Laura Georgiana Nicolae** - Talent Acquisition Team Lead @ SII Romania | Secondary Target | [in](https://www.linkedin.com/in/laura-georgiana-nicolae-a10507153)
+822. **Larisa Lupusoru** - Recruitment Team Leader @ Sales Consulting | Low Priority | [in](https://www.linkedin.com/in/larisa-lupusoru-71592b153)
+823. **Iuliana Lebedov** - HR Manager @ IT Teams | Secondary Target | [in](https://www.linkedin.com/in/iuliana-lebedov-55931112)
+824. **Valentin Iftimi** - Talent Acquisition Team Lead @ Worldline | Secondary Target | [in](https://www.linkedin.com/in/valentin-iftimi-senior-tech-recruiter007)
+825. **Iulia Gherman** - Recruitment Manager @ Playtika | Low Priority | [in](https://www.linkedin.com/in/iulia-gherman)
+826. **Radu Ursache** - Chief Executive Officer @ iCazino.ro | Low Priority | [in](https://www.linkedin.com/in/raduursache)
+827. **Vlad Craciun** - Recruitment Delivery Manager @ EDUROM | Low Priority | [in](https://www.linkedin.com/in/vlad-craciun)
+828. **Letitia Marin** - Senior Product Designer @ Ness Digital Engineering Romania | Low Priority | [in](https://www.linkedin.com/in/letitia-marin-a961a65a)
+829. **Gabriela Nita** - Account Manager, RO and International Markets @ HN Services Romania | Low Priority | [in](https://www.linkedin.com/in/gabriela-nita-6b45b7b1)
+830. **Raluca Croitoru** - ICT Talent Acquisition Specialist @ Eurofins | Secondary Target | [in](https://www.linkedin.com/in/ralucacroitoru)
+831. **Kamila Ryguła (Zoubkova)** - Principal Internal Recruiter @ Hays | Secondary Target | [in](https://www.linkedin.com/in/kamilazoubkova)
+832. **Andreea Radulescu** - Content Strategist @ DRUID AI | Low Priority | [in](https://www.linkedin.com/in/andreeadianaradulescu)
+833. **Sorin Diorduc** - Recruitment Manager (International Hands-on Recruitment) @ GlobalStep | Low Priority | [in](https://www.linkedin.com/in/sorin-diorduc)
+834. **Oana Neagu (Smeureanu)** - Senior Talent Acquisition Consultant @ PPC S.A. | Secondary Target | [in](https://www.linkedin.com/in/oana-neagu-smeureanu-4808a051)
+835. **Madalina Neculae** - IT Project Manager @ Stefanini EMEA | Low Priority | [in](https://www.linkedin.com/in/madalina-neculae-78647b34)
+836. **Rennate-Maria Teodorescu** - Senior IT Recruiter @ Societe Generale Global Solution Centre | Secondary Target | [in](https://www.linkedin.com/in/rennate-maria-teodorescu-0745b8174)
+837. **Biatrice Radulescu** - Consultant financiar Expert @ NN | Secondary Target | [in](https://www.linkedin.com/in/biatrice-radulescu-b85a61156)
+838. **Vlad Vintila** - SR Reconciliation Specialist @ Vodafone | Low Priority | [in](https://www.linkedin.com/in/vintila-vlad-cristian)
+839. **Mihai Daniel Basamac** - Preparator comanda @ DESCOURS & CABAUD | Low Priority | [in](https://www.linkedin.com/in/mihai-daniel-basamac-213b3b165)
+840. **Georgiana Matache** - Salesforce Functional Consultant @ EPAM Systems | Secondary Target | [in](https://www.linkedin.com/in/georgiana-matache)
+841. **Pierre Peutin** - Senior Marketing Automation Manager @ Scaleway | Low Priority | [in](https://www.linkedin.com/in/pierre-peutin)
+842. **Andrei Ivanescu** - Senior Expert Process Governance @ OMV | Low Priority | [in](https://www.linkedin.com/in/andrei-ivanescu-786b01a)
+843. **Gaaloul Mohamed** - Cloud services Advisor/ Services providers recruiter @ Acronis | Secondary Target | [in](https://www.linkedin.com/in/gaaloulmohamed)
+844. **Marko Hinic** - Senior Human Capital Manager @ Netcetera | Low Priority | [in](https://www.linkedin.com/in/marko-hinic-849a388b)
+845. **Gabriel Zgovancu** - Delivery Manager @ IT Teams | Low Priority | [in](https://www.linkedin.com/in/gabriel-zgovancu)
+846. **Alexandra Cimpoeru** - Senior Talent Acquisition Specialist @ Zitec | Secondary Target | [in](https://www.linkedin.com/in/alexandra-cimpoeru-472ab6168)
+847. **Cătălina Mohora** - Program Advisor @ Centrul Pentru Masini Inteligente | Low Priority | [in](https://www.linkedin.com/in/marialinca)
+848. **Andreea Milea** - Scrum Master @ Deutsche Bank | Low Priority | [in](https://www.linkedin.com/in/andreeap%C4%83tra%C8%99cu)
+849. **IntelSol Romania** - Partner @ IntelSol | Low Priority | [in](https://www.linkedin.com/in/intelsol-romania-231074ba)
+850. **Alexandru Duma** - Human Resources Responsible @ Rom Service Construct | Low Priority | [in](https://www.linkedin.com/in/alexandru-duma-274592145)
+851. **Simona Cernescu** - Talent Acquisition Specialist @ EveryMatrix | Secondary Target | [in](https://www.linkedin.com/in/simona-cernescu-5b3247104)
+852. **Madalina Pohrib (Musat)** - International Talent Acquisition Specialist @ Arabelle Solutions | Secondary Target | [in](https://www.linkedin.com/in/madalina-musat)
+853. **Paul Iepan** - Senior IT Recruiter/ HR Business Partner/ People Partner @ TechQuarter | Secondary Target | [in](https://www.linkedin.com/in/paul-iepan-6aa815a1)
+854. **Cristina Lupu** - IT Business Analyst with Investment banking @ Societe Generale Global Solution Centre Romania | Low Priority | [in](https://www.linkedin.com/in/cristina-lupu-0994ab158)
+855. **Frances Ramsey** - Senior Vice President -  Enterprise Talent Solutions @ Phaidon International | Secondary Target | [in](https://www.linkedin.com/in/frances-ramsey-1b2626146)
+856. **Grigore Marius Cosmin** - System Administrator @ ORTEC - Optimize Your World | Low Priority | [in](https://www.linkedin.com/in/mgrigore2410)
+857. **Marina Teodora Pinzariu** - Human Resources Operations Coordinator @ Hyperfy | Low Priority | [in](https://www.linkedin.com/in/marina-teodora-pinzariu-20118a110)
+858. **Lucas Nilsson** - Regional Recruitment Manager @ Amaris Consulting | Low Priority | [in](https://www.linkedin.com/in/lucas-nilsson-203633164)
+859. **Matan Weissler** - Administrator @ Green Tree Marketing SRL | Low Priority | [in](https://www.linkedin.com/in/matan-weissler-589532116)
+860. **Corina Vlad** - Business Analyst for HR systems @ Societe Generale Global Solution Centre Romania | Secondary Target | [in](https://www.linkedin.com/in/corina-vlad-629b93141)
+861. **Mihaela Vasile** - HR Business Partner @ Cegeka | Secondary Target | [in](https://www.linkedin.com/in/mihaela-vasile-565b53144)
+862. **Laurie Loyeau** - HRBP @ PayFit France | Secondary Target | [in](https://www.linkedin.com/in/laurie-loyeau)
+863. **Claudiu Gabriel Albina** - Executive Sales Manager @ Cloud Business Services | Low Priority | [in](https://www.linkedin.com/in/claudiualbina)
+864. **Alina Nica** - Recruitment Business Partner & Career Coach @ Endava | Low Priority | [in](https://www.linkedin.com/in/alina-nica)
+865. **Denisa Iana** - Payroll and Administration Specialist @ Medicover Romania | Low Priority | [in](https://www.linkedin.com/in/denisa-iana-54636013a)
+866. **Alexandra Ilie** - Client Sales Manager @ Wellhub | Low Priority | [in](https://www.linkedin.com/in/alexandra-ilie)
+867. **Adrian Barsan** - Social Media and Communications Specialist @ Computacenter | Low Priority | [in](https://www.linkedin.com/in/adrian-barsan-b4927694)
+868. **Mariana Suceu** - Cyber Programs Coordinator @ Hanco Global Solutions | Low Priority | [in](https://www.linkedin.com/in/hanco-mariana)
+869. **Paula Andrei** - Learning and Development Consultant @ Endava | Secondary Target | [in](https://www.linkedin.com/in/paulacatalinaandrei)
+870. **Oana Zamfir** - Senior Talent Acquisition Specialist @ Deutsche Bank | Secondary Target | [in](https://www.linkedin.com/in/oana-zamfir-6b6877158)
+871. **Larisa Gabudeanu** - Chief Information Security Officer @ BCR | Low Priority | [in](https://www.linkedin.com/in/larisa-gabudeanu)
+872. **👋Alina Şt. Luca** - IT Talent Acquisition Partner @ METRO.digital | Secondary Target | [in](https://www.linkedin.com/in/%F0%9F%91%8Balina-%C5%9Ft-luca-654b00b2)
+873. **Elena Ciobanu** - Scrum Master @ EPAM Systems | Low Priority | [in](https://www.linkedin.com/in/elena-ciobanu-25433412a)
+874. **Andreea Raluca Gutoiu** - HR Business Partner @ Randstad Digital Romania | Secondary Target | [in](https://www.linkedin.com/in/mihalceaandreearaluca)
+875. **Monika Nawrocka** - Senior Recruitment Consultant Renewable Energies @ WEA - We Exceed Your Expecttions | Secondary Target | [in](https://www.linkedin.com/in/monika-nawrocka-79a58b159)
+876. **Marti Piciorus** - Senior Information Security Officer @ Banca Transilvania | Low Priority | [in](https://www.linkedin.com/in/marti-piciorus-b9a02b82)
+877. **Alexandra Corban** - Human Resources Manager @ MMX Solutions | Low Priority | [in](https://www.linkedin.com/in/alexandra-corban-655b68164)
+878. **Barbatescu Roxana** -  | Low Priority | [in](https://www.linkedin.com/in/barbatescu-roxana-645576148)
+879. **Alex Jovanovic** - International Recruitment Consultant @ Self-employed | Secondary Target | [in](https://www.linkedin.com/in/alex-jovanovic-abb289116)
+880. **Catalina Ion** - IT Recruiter @ EveryMatrix | Secondary Target | [in](https://www.linkedin.com/in/catalina-ion-3b7aa6136)
+881. **Florentina Radulescu** - Mentor @ Acceleratorul Imobiliar® | Low Priority | [in](https://www.linkedin.com/in/florentina-radulescu-bb7541150)
+882. **Cristina Ion** - HR Recruiter @ iValue HR | Secondary Target | [in](https://www.linkedin.com/in/cristina-ion-40b8a714b)
+883. **Elena Calin** - Human Resources Specialist @ Roweb | Low Priority | [in](https://www.linkedin.com/in/elena-calin-177a07bb)
+884. **Razvan Lapuste** - Talent Acquisition Specialist @ Bolt | Secondary Target | [in](https://www.linkedin.com/in/razvanlapuste)
+885. **Ana Nastase** - Marketing Content Specialist @ Knolyx | Low Priority | [in](https://www.linkedin.com/in/ana-nastase-473444159)
+886. **Emilia Sparlac** - Senior Executive TA Partner @ BAT | Low Priority | [in](https://www.linkedin.com/in/emilia-sparlac-4b492516)
+887. **Maria-Diana Anton** - Health And Wellness Coach @ Self-employed | Low Priority | [in](https://www.linkedin.com/in/maria-diana-anton-440043161)
+888. **Roxana Bumbăcea** - Recruitment Team Lead @ SoftServe | Low Priority | [in](https://www.linkedin.com/in/roxana-bumb%C4%83cea-912851116)
+889. **Alexandra Ciobanu** - Social Media Business Strategist @ Sun Posse | Low Priority | [in](https://www.linkedin.com/in/alexandraciobanuprojectmanager)
+890. **Luiza Vladu** - Human Resources Consultant @ Orion Innovation | Secondary Target | [in](https://www.linkedin.com/in/luiza-v-ab55b6151)
+891. **Cornel Stoica** - Sales Manager @ Do IT Recruitment | Low Priority | [in](https://www.linkedin.com/in/stoicacornel)
+892. **Marcu Marilena** - HR Talent Partner @ Cognizant | Secondary Target | [in](https://www.linkedin.com/in/marcu-marilena-69650639)
+893. **Cristina Negoescu** - Operations Analyst @ Avanade | Low Priority | [in](https://www.linkedin.com/in/cristina-n-65222246)
+894. **Victor Rentea** - Trainer and Consultant @ Victor Rentea Consulting | Secondary Target | [in](https://www.linkedin.com/in/victor-rentea-trainer)
+895. **Raluca-Andreea Balotă** - Recruitment Manager @ Orion Innovation | Low Priority | [in](https://www.linkedin.com/in/balot%C4%83-raluca-andreea)
+896. **Andreea Sandu** - Psihoterapeut @ Cabinet Individual de Psihologie Andreea Sandu | Low Priority | [in](https://www.linkedin.com/in/andreea-sandu-8810601b)
+897. **Raisa Oprea👩‍💻** - Senior Expert IT Recruiter @ OMV Petrom | Secondary Target | [in](https://www.linkedin.com/in/raisaoprea)
+898. **Mihnea Andrei Manole** - Junior Accountant @ PureFert Balkans SRL | Low Priority | [in](https://www.linkedin.com/in/mihnea-andrei-manole-66a445162)
+899. **Adelina-Oana Istrate** - Billing & Collections Area manager @ Globant | Low Priority | [in](https://www.linkedin.com/in/adelina-oana-istrate-8b562657)
+900. **Jean-Francois Mignon** - Chief Marketing & Product Officer @ US HealthConnect, Inc. | Low Priority | [in](https://www.linkedin.com/in/jeffmignon)
+901. **Florin Adamache** - Digital Marketing Specialist @ Dacris România | Low Priority | [in](https://www.linkedin.com/in/adamacheflorin)
+902. **Eric Gouin** - COO @ Pentalog | Low Priority | [in](https://www.linkedin.com/in/eric-gouin-589463)
+903. **Helene HEMERY** - Chief Marketing Officer @ Consulting Stratégique | Low Priority | [in](https://www.linkedin.com/in/helenehemery)
+904. **Aymeric Libeau** - Fondateur @ NITID | Low Priority | [in](https://www.linkedin.com/in/aymericlibeau)
+905. **Şerban Semenescu** - UX/UI Expert @ Banca Transilvania | Low Priority | [in](https://www.linkedin.com/in/%C5%9Ferban-semenescu-88a08449)
+906. **Mihaela Luca** - VVIP flight attendant @ Private aviation | Low Priority | [in](https://www.linkedin.com/in/mihaela-luca-4717a3b4)
+907. **Radu Voicu** - Business Wizard @ Equalys Services | Low Priority | [in](https://www.linkedin.com/in/radu-voicu-ab05563)
+908. **Ionela Varvaroi** - HR Manager - Italy @ Extia | Secondary Target | [in](https://www.linkedin.com/in/ionela-varvaroi-92307aa0)
+909. **James Kydd** - Talent Acquisition Specialist (Development / Programming) @ Guru Careers | Secondary Target | [in](https://www.linkedin.com/in/jamesguru)
+910. **Cosmina Trifan** - Chief Marketing Officer @ Scaleway | Low Priority | [in](https://www.linkedin.com/in/cosminatrifan)
+911. **Stephanie Alvarita Colón** - Content @ Bizbrains A/S | Low Priority | [in](https://www.linkedin.com/in/stephaniealvaritacolon)
+912. **Adrian Radu** - SFMC Scrum Master @ HazelHeartwood | Low Priority | [in](https://www.linkedin.com/in/adiradu33)
+913. **Aline MIRTI MANCINELLI** - Digital Accelerator for Pentalog a Globant Division @ Globant | Low Priority | [in](https://www.linkedin.com/in/alinemirti)
+914. **Ana-Maria Ghita** - Senior Researcher @ Wave Research | Low Priority | [in](https://www.linkedin.com/in/ana-maria-ghita-8b040158)
+915. **Evelina Cocoană** - Recruitment Team Lead @ Publicis Sapient | Low Priority | [in](https://www.linkedin.com/in/evelina-cocoan%C4%83)
+916. **Trif Razvan** - EMEA Senior Business Development & Recruitment Consultant @ Infotree Global Solutions | Secondary Target | [in](https://www.linkedin.com/in/trif-razvan-a168b410)
+917. **Ioana Gurgui** - Recruitment Team Lead @ Publicis Sapient | Low Priority | [in](https://www.linkedin.com/in/ioana-gurgui-6aaa97104)
+918. **Madalina Taina** - Local Leader of IxDF Bucharest @ IxDF - Interaction Design Foundation | Low Priority | [in](https://www.linkedin.com/in/madalinataina)
+919. **Alex Muller** - UI Designer @ Orgo | Low Priority | [in](https://www.linkedin.com/in/alexmullerdesign)
+920. **Ruxandra Cuzman** - Talent Acquisition & Employer Branding Specialist @ OPSWAT | Secondary Target | [in](https://www.linkedin.com/in/ruxandra-cuzman-339684118)
+921. **Diana-Alexandra Dima** - HR Business Partner @ IT Smart Systems | Secondary Target | [in](https://www.linkedin.com/in/diana-alexandra-dima-1159a544)
+922. **Stefania Marin** - IT Recruiter @ Arnia Software | Secondary Target | [in](https://www.linkedin.com/in/stefaniaangheloiu)
+923. **Bogdan Radu** - Senior Active Sourcing Specialist @ Deutsche Telekom Services Europe Romania (DTSE Romania) | Low Priority | [in](https://www.linkedin.com/in/bogdan-radu-2837a8122)
+924. **Georgiana Asanache** - Talent Acquisition Manager_Europe&Asia @ Pentalog | Secondary Target | [in](https://www.linkedin.com/in/georgianapoteca)
+925. **Adriana Filip** - Talent Acquisition - Senior Partner - 👇 HIRING 👇 @ Ness Digital Engineering Romania | Secondary Target | [in](https://www.linkedin.com/in/adriana-filip)
+926. **Catalin Giulan** - Analyst Programmer @ ING | Low Priority | [in](https://www.linkedin.com/in/catalin-giulan-3431a719)
+927. **Nicoleta Visan** - HR Business Partner Ipsos Askia @ Ipsos | Secondary Target | [in](https://www.linkedin.com/in/nicoletavisan)
+928. **Alexandra Petrus** - Product Management @ Adobe | Low Priority | [in](https://www.linkedin.com/in/alexandrapetrus)
+929. **Carmen Irina Ristea** - EMEA Senior Talent Acquisition Specialist @ Lenovo | Secondary Target | [in](https://www.linkedin.com/in/carmensafta)
+930. **Laurentiu-Stefan Gutita** - Recruiter @ VON Consulting | Secondary Target | [in](https://www.linkedin.com/in/laurentiu-stefan-gutita-ab54a667)
+931. **Ciprian Savin** - Senior HR Consultant @ BRICK Human Resource Consulting | Secondary Target | [in](https://www.linkedin.com/in/cipriansavin)
+932. **Anca Lupu** - Human Resources Specialist @ Michelin | Low Priority | [in](https://www.linkedin.com/in/anca-lupu-8a69978)
+933. **Ana-Maria Tiron** - Talent Acquisition Specialist @ Orange Romania | Secondary Target | [in](https://www.linkedin.com/in/ana-maria-tiron-6154a7139)
+934. **Elena Constantin** - Team Leader - IT Recruitment Professional Placement @ HRS Romania | Low Priority | [in](https://www.linkedin.com/in/elena-constantin)
+935. **Diana Mazga** - Senior IT Recruiter @ EPAM Systems | Secondary Target | [in](https://www.linkedin.com/in/diana-mazga-42466ba8)
+936. **Juliette Leroux** - Transformation @ Extia | Low Priority | [in](https://www.linkedin.com/in/juliette-leroux-11748418)
+937. **Bogdan Ciobanu** - Senior IT Consultant @ ALBOCENSA | Secondary Target | [in](https://www.linkedin.com/in/bogdan-ciobanu-1a971397)
+938. **Diana Dehm-Andone** - ERP-Projektleiter @ e.solutions GmbH | Low Priority | [in](https://www.linkedin.com/in/diana-d-40939784)
+939. **Teodora Lungu** - ICT Talent Acquisition Lead @ Cegeka | Secondary Target | [in](https://www.linkedin.com/in/teodora-lungu-talent-acquisition-lead-cegeka)
+940. **Natalia Mihaela Vasile** - Recruitment Manager & HR Business Partner @ Qualysoft | Secondary Target | [in](https://www.linkedin.com/in/natalia-mihaela-vasile-b17643146)
+941. **Daniela Anghel** - Recruitment IT Project Manager/ Senior Talent Acquisition @ Confidential Company | Secondary Target | [in](https://www.linkedin.com/in/daniela-anghel-98783662)
+942. **Florența Corina Ilie** - HR Manager @ Snap-on Romania | Secondary Target | [in](https://www.linkedin.com/in/corinailie1)
+943. **Elena Grumazescu** - Global Talent Acquisition Partner @ MetLife | Secondary Target | [in](https://www.linkedin.com/in/elena-grumazescu-24a370131)
+944. **Adina Anastase** - Recruitment Consultant @ Freelance/Contract | Secondary Target | [in](https://www.linkedin.com/in/adina-anastase)
+945. **Alexandra Marcu** - HR Manager @ SOFTEH PLUS | Secondary Target | [in](https://www.linkedin.com/in/alexandradinu91)
+946. **Roxana Nicolescu** - Resource Management Expert - Romania, Czech, India & Portugal @ BearingPoint | Low Priority | [in](https://www.linkedin.com/in/roxana-nicolescu-5923b9102)
+947. **Oana Feraru** - Senior Recruiter @ Deutsche Bank | Secondary Target | [in](https://www.linkedin.com/in/busuiocoana)
+948. **Ancuta Amironesei** - HR Business Partner Lead @ Edenred Romania | Secondary Target | [in](https://www.linkedin.com/in/anca-amironesei)
+949. **Ana - Maria Robu** - Talent Acquisition Manager @ CrowdStrike | Secondary Target | [in](https://www.linkedin.com/in/anamariarobu)
+950. **Ana-Maria Misca** - Psihoterapeut Gestalt @ Lucrător independent | Low Priority | [in](https://www.linkedin.com/in/ana-maria-misca-24a39361)
+951. **Roxana Margarit** - Recruitment Coordinator @ R Systems | Low Priority | [in](https://www.linkedin.com/in/roxana-margarit)
+952. **Andreea Mantea** - Consultant @ Elite Searchers | Secondary Target | [in](https://www.linkedin.com/in/andreea-mantea-89185622)
+953. **Mihaela Alsamadi** - Senior HR Consultant @ Adobe | Secondary Target | [in](https://www.linkedin.com/in/alsamadi)
+954. **Georges Petrequin** - Content Marketing Manager @ The Adaptavist Group | Low Priority | [in](https://www.linkedin.com/in/georgespetrequin)
+955. **Stefan Ifrim** - Fotografo @ Autonomo | Low Priority | [in](https://www.linkedin.com/in/stefan-ifrim-66896714a)
+956. **Adrian Stan** - IT Recruitment Consultant @ Soft Galaxy | Secondary Target | [in](https://www.linkedin.com/in/adrian05stan)
+957. **Mihaela Tulcan** - IT Recruitment Specialist @ Do IT Recruitment | Low Priority | [in](https://www.linkedin.com/in/mihaela-tulcan)
+958. **Duțescu Melisa** - Senior Google Ads @ INOBOX | Low Priority | [in](https://www.linkedin.com/in/du%C8%9Bescu-melisa-b8255b11b)
+959. **Claudia Barna** - Senior Recruiter @ Genpact | Secondary Target | [in](https://www.linkedin.com/in/claudia-barna)
+960. **Andreea Badea** - Talent Acquisition Consultant @ DKV Mobility | Secondary Target | [in](https://www.linkedin.com/in/andreea-badea-677872131)
+961. **Alexandra Spalatelu (Arcana)** - Recruitment Specialist @ Uptime Technology | Low Priority | [in](https://www.linkedin.com/in/alexandra-arcana)
+962. **Vlad-Florin Melechett** - Recruitment Manager - Global Delivery Center @ Cegeka | Low Priority | [in](https://www.linkedin.com/in/vlad-florin-melechett)
+963. **Ioana Avram** - PR & Marketing Specialist @ Cognizant Softvision | Low Priority | [in](https://www.linkedin.com/in/ioana-avram)
+964. **Laura Pavliuc** - Recruitment Team Lead @ SoftServe | Low Priority | [in](https://www.linkedin.com/in/laura-georgiana-pavliuc)
+965. **Cosmina Dilimoț** - Entrepreneur Manager @ Lagardère Travel Retail | Low Priority | [in](https://www.linkedin.com/in/alexandracosminadilimot)
+966. **Oltita Volovat** - Marketing Rockstar @ NNC Services | Low Priority | [in](https://www.linkedin.com/in/oltitavolovat)
+967. **Huiu Teodor Matei** - IT&C Recruitment Intern @ Brainspotting | Low Priority | [in](https://www.linkedin.com/in/huiu-teodor-matei-457100149)
+968. **Estera Monea (Ghiur)** - Senior IT Recruiter @ Evolve today Romania | Secondary Target | [in](https://www.linkedin.com/in/estera-monea-ghiur-02919bb9)
+969. **FOTACHE CHRISTIAN** - Project Manager @ Digijobs | Low Priority | [in](https://www.linkedin.com/in/fotache-christian-14843b21)
+970. **Madalina Simileanu** - EMEA Talent Advisor @ Oracle | Secondary Target | [in](https://www.linkedin.com/in/madalinasimileanu)
+971. **Daniel Ivan** - Psihoterapeut @ Ivan Daniel - Cabinet individual de psihologie | Low Priority | [in](https://www.linkedin.com/in/daniel-ivan-0913a2132)
+972. **Cristina Brătășanu** - Chemical Analyst @ Laropharm | Low Priority | [in](https://www.linkedin.com/in/cristina-br%C4%83t%C4%83%C8%99anu-470b6814a)
+973. **Ana-Maria Focseneanu** - Senior Talent Acquisition Specialist @ Stripe | Secondary Target | [in](https://www.linkedin.com/in/ana-maria-focseneanu-35b028b4)
+974. **Bogdan Petrica Danita** - Occupational Therapist @ Bogdan Petrica Danita | Low Priority | [in](https://www.linkedin.com/in/bogdan-petrica-danita-b4a322142)
+975. **Madalina Florescu** - Senior IT Recruitment Specialist @ 1&1 Internet Development | Low Priority | [in](https://www.linkedin.com/in/madalina-f-0767645a)
+976. **Ana Maria Ion** - People & Culture Coordinator @ The Mandrake | Low Priority | [in](https://www.linkedin.com/in/ana-maria-ion-902238143)
+977. **Scutariu Oana Maria** - Human Resources Generalist - project based @ Deloitte | Low Priority | [in](https://www.linkedin.com/in/scutariu-oana-maria-3677052b)
+978. **Andreea Găvănărescu** - Senior IT Recruitment Consultant @ HRS Romania | Secondary Target | [in](https://www.linkedin.com/in/andreea-g%C4%83v%C4%83n%C4%83rescu)
+979. **Stefana Acozmei** - Clinical psychologist and psychotherapist @ Cabinet Individual de Psihologie Stefana Acozmei | Low Priority | [in](https://www.linkedin.com/in/stefana-acozmei-196909144)
+980. **Simona Ionica** - Human Resources Consultant @ OPEN | Secondary Target | [in](https://www.linkedin.com/in/sionica)
+981. **Adriana Banescu** - IT Senior Talent Sourcer @ Gama Software | Secondary Target | [in](https://www.linkedin.com/in/adrianabanescu)
+982. **Dr. Ing. Viorel Gazdaru** - Asigurari @ Groupama Asigurari Romania SA | Low Priority | [in](https://www.linkedin.com/in/viorel-gazdaru)
+983. **Andreea-Silvia Laslo** - IT Recruiter @ Societe Generale Global Solution Centre Romania | Secondary Target | [in](https://www.linkedin.com/in/andreea-silvia-laslo-a524b213b)
+984. **Andrei Mitrana** - Senior Cyber Security Manager - Human Capital @ National Cyber Security Directorate | Low Priority | [in](https://www.linkedin.com/in/andreimitrana)
+985. **Victor Felea** - People Operations Manager @ Cegeka | Low Priority | [in](https://www.linkedin.com/in/victor-felea)
+986. **Ely Ciumacencu** - Learning and Development Manager @ Tremend Software Consulting | Low Priority | [in](https://www.linkedin.com/in/ely-ciumacencu-41523486)
+987. **Madalina Moise** - Senior Human Resources Business Partner @ R Systems | Low Priority | [in](https://www.linkedin.com/in/mada-moise)
+988. **Ionescu Adeline** - Psihoterapeut, Psiholog Clinician @ Cabinet Individual de Psihologie Ionescu Adeline | Low Priority | [in](https://www.linkedin.com/in/ionescu-adeline-a97241b1)
+989. **Cristina Anghel ✔** - Human Resources Manager @ Bittnet Group | Low Priority | [in](https://www.linkedin.com/in/cristina-anghel-%E2%9C%94-4a91753)
+990. **Alina TOADER, ACC** - HR Business Partner @ GETIK | Secondary Target | [in](https://www.linkedin.com/in/alinaelenatoader)
+991. **Petruta Rotaru** - Team Success Manager @ Hubgets | Low Priority | [in](https://www.linkedin.com/in/ionescupetruta)
+992. **Gabriel DOBRANIȘ** - People & Business Partner IT&C | Senior Expert @ BearingPoint | Low Priority | [in](https://www.linkedin.com/in/gabrieldobranis)
+993. **Ana David** - IT Recruitment Partner-Pentalog @ SkillValue | Low Priority | [in](https://www.linkedin.com/in/ana-david-56045a108)
+994. **Isabella Pirnea** - HR Specialist Romania & EE @ Ariston Thermo Group | Secondary Target | [in](https://www.linkedin.com/in/isabella-pirnea-b78580127)
+995. **Andreea Runceanu** - Staffing Lead @ Pentalog HR | Low Priority | [in](https://www.linkedin.com/in/andreearunceanu)
+996. **Andreea Voicu** - HR Business Partner @ Deloitte | Secondary Target | [in](https://www.linkedin.com/in/voicuandreea)
+997. **Monica Petcu** - Marketing Automation Manager @ YouGov | Low Priority | [in](https://www.linkedin.com/in/monica-petcu)
+998. **Ana-Maria Stanca** - Senior Talent Acquisition Sourcing Specialist @ Axway | Secondary Target | [in](https://www.linkedin.com/in/ana-maria-stanca-1294909b)
+999. **Razvan Avramescu** - Recruitment Operations Team Lead @ Allianz Technology | Low Priority | [in](https://www.linkedin.com/in/razvan-avramescu-899897ab)
+1000. **laurentiu butoianu** - Manager de condominiu @ Self-employed | Low Priority | [in](https://www.linkedin.com/in/laurentiu-butoianu-53b85a24)
+1001. **Alexandra Curteanu** - Global Diversity, Inclusion and Wellbeing Consultant @ Endava | Secondary Target | [in](https://www.linkedin.com/in/alexandra-curteanu-02a7403a)
+1002. **Florentina Ifrim** - Chief People Officer @ Softia | Low Priority | [in](https://www.linkedin.com/in/florentina-ifrim-39983660)
+1003. **Oana-Andreea Zencenco** - People & Culture Lead @ Planable | Low Priority | [in](https://www.linkedin.com/in/oanazencenco)
+1004. **Andreea (Andra) Petre** - HR Lead @ Holycode | Secondary Target | [in](https://www.linkedin.com/in/andreea-andra-petre-9914738)
+1005. **Irina Iorga** - Associate Personal Banker, Personal &Business Banking @ NatWest | Low Priority | [in](https://www.linkedin.com/in/irina-iorga-098a91a7)
+1006. **Raluca Pantrjel** - Senior Account Manager @ ITPS | Low Priority | [in](https://www.linkedin.com/in/ralucapantrjel)
+1007. **Claudia Buciu** - HR Business Partner @ Edenred Digital Center | Secondary Target | [in](https://www.linkedin.com/in/claudia-buciu-2bba699b)
+1008. **Chivu Roxana** - IT Researcher Trainee @ Teamland | Low Priority | [in](https://www.linkedin.com/in/chivu-roxana-a3022b138)
+1009. **Ramona Mateescu** - Talent Acquisition Lead -Shared Service Center-Worldline Romania @ Worldline | Secondary Target | [in](https://www.linkedin.com/in/ramonamateescu)
+1010. **Andreea Pauna** -  | Low Priority | [in](https://www.linkedin.com/in/paunaandreea)
+1011. **Andreea Rebeca Rapeanu** - Senior Account Manager @ Danco Vision Agency | Low Priority | [in](https://www.linkedin.com/in/andreea-rebeca-rapeanu-31798aa)
+1012. **Marian Datcu, MBA** - Senior Adviser @ National Agency of Fiscal Administration,  Transfer Pricing and Advance Pricing Agreement Direction | Low Priority | [in](https://www.linkedin.com/in/marian-datcu-mba-9b6799b4)
+1013. **Gabriel Ionescu** - Staff Quality Analyst @ GoPro | Low Priority | [in](https://www.linkedin.com/in/gabriel-ionescu-b77100a9)
+1014. **Eduard Alexe** - Senior HR Shared Services Specialist @ OpenText | Secondary Target | [in](https://www.linkedin.com/in/eduardalexe)
+1015. **Aleksandra Sajda** - HR Consultant @ DareIT | Secondary Target | [in](https://www.linkedin.com/in/aleksandrapluta)
+1016. **Iulia Nicoleta Crasmariu** - Country HR Lead @ Randstad Digital Romania | Secondary Target | [in](https://www.linkedin.com/in/iargintaru)
+1017. **Catalina Hristova** - HR Specialist @ Outsourcing Center | Secondary Target | [in](https://www.linkedin.com/in/catalina-hristova-b01922b1)
+1018. **Andra State** - IT Recruitment Manager @ Odeen Software | Low Priority | [in](https://www.linkedin.com/in/andra-state-00969a52)
+1019. **Petronela Ifrim** - HR Consultant @ Professional HR Agency | Secondary Target | [in](https://www.linkedin.com/in/petronela-ifrim)
+1020. **Alexandra Smau** - Team Lead (Utility Apps) @ Eightpoint | Low Priority | [in](https://www.linkedin.com/in/alexandra-smau-6b459550)
+1021. **Daniel Zaha** - Senior Recruitment Specialist @ Ecta Software | Low Priority | [in](https://www.linkedin.com/in/danielzaha)
+1022. **Andreea Hrab** - Team lead/ SR IT Recruiter @ Ezugi | Secondary Target | [in](https://www.linkedin.com/in/andreeahrab)
+1023. **Alexandru Florin Visan** - Business Development Manager @ BITTNET Systems | Low Priority | [in](https://www.linkedin.com/in/alexandruflorinvisan)
+1024. **Ana-Maria Lupu** - Digital Conversions Strategist and B2B sales consultant @ Freelance | Secondary Target | [in](https://www.linkedin.com/in/lupuanamaria)
+1025. **Gabriela Kowalczyk** - Sales Compensation Analyst @ Hewlett Packard Enterprise | Low Priority | [in](https://www.linkedin.com/in/gabriela-kowalczyk-4a62a3108)
+1026. **Dorina Calistru Crubleau** - Regional Sales Manager Nordics and Baltics SBU @ Cisco Meraki | Low Priority | [in](https://www.linkedin.com/in/dorina-calistru-crubleau-629928b0)
+1027. **Anda Buruleanu** - Senior Talent Acquisition Partner @ Thales | Secondary Target | [in](https://www.linkedin.com/in/anda-buruleanu-19373b72)
+1028. **Elena Ungureanu** - People Operations Manager @ Zitec | Low Priority | [in](https://www.linkedin.com/in/ungureanuelena)
+1029. **Manuel Damian** - Chief Customer Officer @ SmartDreamers | Low Priority | [in](https://www.linkedin.com/in/manudamian)
+1030. **Camelia Vlad** - Customer Journey Expert/ IT Business Analyst @ ING Hubs Romania | Low Priority | [in](https://www.linkedin.com/in/camelia-vlad-67823486)
+1031. **Elena Gabriela Ionescu** - IT Project Manager / Scrum Master @ BCR | Low Priority | [in](https://www.linkedin.com/in/elena-gabriela-ionescu-38388a125)
+1032. **Andreea Tatarus** - Delivery Manager @ Globant | Low Priority | [in](https://www.linkedin.com/in/andreea-tatarus-07740268)
+1033. **Oana Vintilă** - GCDF Career Counselor / Recruitment Consultant @ Simple. HR, made easy | Secondary Target | [in](https://www.linkedin.com/in/oanavintila)
+1034. **Radu Zota** - Partner @ Croitorie reparatii | Low Priority | [in](https://www.linkedin.com/in/radu-zota-aa5bba20)
+1035. **Alexandra Șchianu** - Certified Psychotherapist @ Self Employed | Low Priority | [in](https://www.linkedin.com/in/schianualexandra)
+1036. **Teodora Parauta** - Recruitment Operations Lead @ R Systems | Low Priority | [in](https://www.linkedin.com/in/teodoraparauta)
+1037. **Alexandru Nitulescu** - In Service Support Manager @ Airbus Defence and Space | Low Priority | [in](https://www.linkedin.com/in/alexandru-nitulescu-8993ba20)
+1038. **Roxana Angheloiu** - Career Coach @ Google | Low Priority | [in](https://www.linkedin.com/in/roxana-angheloiu)
+1039. **Ioana Stăniloiu** - Senior HR Business Partner @ Tradeshift | Secondary Target | [in](https://www.linkedin.com/in/ioanaas)
+1040. **Irina Constantinescu** - Talent & People Partner @ Groundfog | Secondary Target | [in](https://www.linkedin.com/in/irina-constantinescu-2666b464)
+1041. **Lavinia Fusu** - Reporter & Creative Writer @ InfoMusic.ro | Low Priority | [in](https://www.linkedin.com/in/laviniafusu)
+1042. **Mihai-Lucian Radu, Dr. ing., PMP** - Nachtragsmanagement Bau @ AWS Systemtechnik - Werksvertrag mit BMW | Low Priority | [in](https://www.linkedin.com/in/mihai-lucian-radu-dr-ing-pmp-12084550)
+1043. **Camelia Radu** - Recruiter @ OMV Petrom | Secondary Target | [in](https://www.linkedin.com/in/camelia-radu-5785b612)
+1044. **Andrei Dăianu-Rovinescu** - Application Expert @ htss | Low Priority | [in](https://www.linkedin.com/in/andrei-d%C4%83ianu-rovinescu-24b15657)
+1045. **Cristina-Victoria Csizmadi** - Dutch Content Moderator @ Majorel Iberia & LatAm | Low Priority | [in](https://www.linkedin.com/in/cristina-victoria-csizmadi)
+1046. **Ioana Constantina** - Test Specialist @ IBM | Low Priority | [in](https://www.linkedin.com/in/ioana-constantina-5163a259)
+1047. **Vladimir Pejcic** - Customer Support Specialist @ Blue Heron Health News | Low Priority | [in](https://www.linkedin.com/in/vladimirpejcic)
+1048. **Carmen Balanescu** - Recruitment Specialist @ EVO PROD | Low Priority | [in](https://www.linkedin.com/in/carmen-balanescu-598475117)
+1049. **Alexandra Vasiliu** - HR Manager @ Magna International | Secondary Target | [in](https://www.linkedin.com/in/morarualexandra)
+1050. **Mihai Dumitru-Paverman** - Export Manager for southeast Europe @ Pellenc Group | Low Priority | [in](https://www.linkedin.com/in/mihai-d-0a75b53a)
+1051. **Gabriel Rotaru** - Freelance @ Technicalise IT | Low Priority | [in](https://www.linkedin.com/in/gabriel-rotaru)
+1052. **Ruxandra Iletchi** - Business Analyst @ GlobalLogic Romania | Low Priority | [in](https://www.linkedin.com/in/ruxandrailetchi)
+1053. **Razvan Mihai Duhan** - Senior Marketing Campaign Manager - Demand Generation @ Veeam Software | Low Priority | [in](https://www.linkedin.com/in/razvanduhan)
+1054. **Andra Chereches** - Career Coach @ accesa.eu | Low Priority | [in](https://www.linkedin.com/in/andra-chereches-85a39533)
+1055. **Alexandru Andrei Filip** - Marketing Specialist @ Digital Krikits | Low Priority | [in](https://www.linkedin.com/in/totofilip)
+1056. **Radu Jianu** - UI/UX Designer @ Cognizant Softvision | Low Priority | [in](https://www.linkedin.com/in/radujianu)
+1057. **Andreea Clair** - Senior Digital Marketing Specialist (Eloqua, Marketing Automation) @ Oracle | Low Priority | [in](https://www.linkedin.com/in/andreeaclair)
+1058. **Cristina Honciuc** - Inside Sales Specialist @ Yawo Services SRL | Low Priority | [in](https://www.linkedin.com/in/cristina-honciuc-32747075)
+1059. **Gabriela Serghi** - Talent Discovery Senior Partner @ SAP | Secondary Target | [in](https://www.linkedin.com/in/gabriela-serghi)
+1060. **Andreea Serbanescu** - HR Business Partner @ Intelactsoft | Secondary Target | [in](https://www.linkedin.com/in/andreeafologea)
+1061. **Roxana Maria (Mardare)** - Business Excellence Lead @ Ayvens | Low Priority | [in](https://www.linkedin.com/in/roxana-maria-mardare-9248954b)
+1062. **Marius Gheorghe** - Digital Marketing Manager @ Honeywell | Low Priority | [in](https://www.linkedin.com/in/gheorghemarius31)
+1063. **Oana Dina** - HR Partner @ Thales | Secondary Target | [in](https://www.linkedin.com/in/oana-dina-4761b910)
+1064. **Marius Cosmin Stoica** - Master Mariner @ MSC Mediterranean Shipping Company | Low Priority | [in](https://www.linkedin.com/in/marius-cosmin-stoica-117bb143)
+1065. **Vincenzo Cafarelli** - Learning Delivery Associate Manager @ Accenture | Low Priority | [in](https://www.linkedin.com/in/vincenzo-cafarelli-b3868341)
+1066. **Aleksandra Mrzyglod** - GDS Air Coordinator @ The Travel Corporation | Low Priority | [in](https://www.linkedin.com/in/aleksandra-mrzyglod)
+1067. **Andreea Balaci** - Delivery Area Manager @ DevTalksRomania | Low Priority | [in](https://www.linkedin.com/in/andreea-balaci-b4560a12)
+1068. **Emilia Visan** - Project Manager @ Luxoft | Low Priority | [in](https://www.linkedin.com/in/emiliavisan)
+1069. **Andreea Rosca** - Freelance International IT Recruiter @ Freelance | Secondary Target | [in](https://www.linkedin.com/in/andreea-rosca-4a168628)
+1070. **Silvia Pintilie** - 🔶 Senior IT Recruiter @ Globant | Secondary Target | [in](https://www.linkedin.com/in/silvia-pintilie-99a0a064)
+1071. **Mirela Dabija** - Partner @ Key HR Consulting | Low Priority | [in](https://www.linkedin.com/in/mirela-dabija-9a807a9)
+1072. **Daria Alexandra Marinescu** - Organizational Development Specialist @ Groupama Asigurari Romania | Low Priority | [in](https://www.linkedin.com/in/daria-alexandra-marinescu-116b2358)
+1073. **Liliana Rusie ✔** - Senior Recruiter Romania & Moldova | Talent Acquisition Lead @ Orange | Secondary Target | [in](https://www.linkedin.com/in/lilianarusie)
+1074. **George Buricea** - Professional Placement Lead @ HRS Romania | Low Priority | [in](https://www.linkedin.com/in/georgeburicea)
+1075. **Corina Mihaela Matei** - Senior IT Recruiter @ - | Secondary Target | [in](https://www.linkedin.com/in/cornelia-mihaela-nichita)
+1076. **Florian Lungu** - Comp & Ben Specialist @ Caroli Foods Group | Low Priority | [in](https://www.linkedin.com/in/florian-lungu)
+1077. **Traian Chivu** - Coordinator @ Bet365 | Low Priority | [in](https://www.linkedin.com/in/traian-chivu-883708b6)
+1078. **Roxana Ciceu** - Recruiter @ Romteca | Secondary Target | [in](https://www.linkedin.com/in/roxana-ciceu-a55b7268)
+1079. **Adriana Evanghelie** - IT&C Recruitment Consultant @ Brainspotting | Secondary Target | [in](https://www.linkedin.com/in/adrianaevanghelie)
+1080. **Ana Maria Ursu** - COO @ CloudHero | Low Priority | [in](https://www.linkedin.com/in/ana-maria-ursu-0917b0b4)
+1081. **Simona Visa** - Global Project Manager @ Garrett - Advancing Motion | Low Priority | [in](https://www.linkedin.com/in/simonalucianavisa)
+1082. **Bianca Ardeleanu** - People Operations Generalist EMEA @ Fortis Games | Low Priority | [in](https://www.linkedin.com/in/bianca-ardeleanu-48315799)
+1083. **Marius Jeler** - Independent Recruiter @ Freelancer | Secondary Target | [in](https://www.linkedin.com/in/marius-jeler-00582219)
+1084. **Silvia Gabor** - Marketing & PR Manager @ XTB online trading | Low Priority | [in](https://www.linkedin.com/in/silvia-gabor)
+1085. **Diana Andreescu** - Senior Human Resources Business Partner @ Honeywell | Low Priority | [in](https://www.linkedin.com/in/dianaandreescu)
+1086. **Radu Bogdan** - Plant Foreman @ Berger | Low Priority | [in](https://www.linkedin.com/in/radubogdanfree)
+1087. **Cristina Paun** - Senior Accounts Payable Administrator @ PTC | Low Priority | [in](https://www.linkedin.com/in/cristina-paun-1203b6a9)
+1088. **Valentina Vasui** - Asistent suport tehnic @ Universitatea „Titu Maiorescu” | Low Priority | [in](https://www.linkedin.com/in/valentina-vasui-25283674)
+1089. **Maria Larisa Fulga** - Senior Performance Specialist @ Zenith | Low Priority | [in](https://www.linkedin.com/in/larisafulga)
+1090. **Loredana Georgescu** - Business Lecturer @ EKC Canterbury College | Low Priority | [in](https://www.linkedin.com/in/loredana-georgescu-4b861137)
+1091. **Alina - Elena Radu** - Career Counselor @ Freelance | Low Priority | [in](https://www.linkedin.com/in/alina-elena-radu)
+1092. **MOSS IT Services Solutions** -  | Low Priority | [in](https://www.linkedin.com/in/moss-it-services-solutions-b745aa9b)
+1093. **Simion Iulian** - Teacher of Informatics @ Liceul Teoretic „Moise Nicoară” | Low Priority | [in](https://www.linkedin.com/in/simion-iulian-ba62777b)
+1094. **Andra Duma** - Senior Talent Acquisition Business Partner @ Schneider Electric | Secondary Target | [in](https://www.linkedin.com/in/andra-duma-5b707623)
+1095. **Mihaela Damian** - Employer Branding & Internal Communication Manager RO&MD&GR @ Cegeka | Low Priority | [in](https://www.linkedin.com/in/damianmihaela)
+1096. **Sendague Bassim** - Spécialiste en cyber-sécurité @ SYSTEMIS Cybersécurité | Low Priority | [in](https://www.linkedin.com/in/sendague-bassim-0b9925a5)
+1097. **Ana Constantin** - Project Manager @ AndSoft | Low Priority | [in](https://www.linkedin.com/in/ana-constantin-67197a32)
+1098. **Ana Timofte** - Branch Manager @ VEO Worldwide Services | Low Priority | [in](https://www.linkedin.com/in/ana-timofte)
+1099. **Oana Ruxanda (Baciu)** - Recruitment Operations Lead @ Accenture | Low Priority | [in](https://www.linkedin.com/in/oana-ruxanda-baciu-6224b987)
+1100. **Adriana Ionita** - Learning and Development Manager @ Thales | Low Priority | [in](https://www.linkedin.com/in/adriana-ionita-294a7129)
+1101. **Anca Cristea** - Senior Talent Acquisition Specialist @ Acumatica | Secondary Target | [in](https://www.linkedin.com/in/anca-tanase-cristea)
+1102. **Miruna Groza** - Scrum Master / Project Manager @ _VOIS | Low Priority | [in](https://www.linkedin.com/in/mirunagroza)
+1103. **Andrei Melinte** - SQL Dev @ Smart Soft Power | Low Priority | [in](https://www.linkedin.com/in/andrei-melinte-6a373587)
+1104. **Cristina Bleoju** - HR Business Partner @ Carestream Dental | Secondary Target | [in](https://www.linkedin.com/in/cristinableoju)
+1105. **Alexandru Bucurescu** - Senior Business IT Specialist @ INTERNATIONAL Business IT | Low Priority | [in](https://www.linkedin.com/in/alexbucurescu)
+1106. **Roxie Hristev** - WordPress Web Designer @ roxiehristev.ro | Low Priority | [in](https://www.linkedin.com/in/roxiehristev)
+1107. **Rj mac** - IT Resourcer @ QX Ltd. | Secondary Target | [in](https://www.linkedin.com/in/rj-mac-4a41a3a2)
+1108. **Isabela Musatin** - Senior Recruiter @ Key HR Consulting | Secondary Target | [in](https://www.linkedin.com/in/isabelamusatin)
+1109. **Larisa Ispas (Tanase)** - HR Business Partner @ Acrelec Software (Romania) | Secondary Target | [in](https://www.linkedin.com/in/larisa-ispas-tanase-5a73a763)
+1110. **Laura Gheorghica** - Consumer Care Manager, Central Europe @ Mondelēz International | Low Priority | [in](https://www.linkedin.com/in/laura-gheorghica-20482373)
+1111. **Odette Achim** - Global Talent Acquisition Manager @ evoke | Secondary Target | [in](https://www.linkedin.com/in/odette-achim-98780b44)
+1112. **Flavia Modreanu** - Manager. Cloud Development @ VOIS | Low Priority | [in](https://www.linkedin.com/in/flavia-m-56972555)
+1113. **Ana Maria Toma** - IT Recruiter @ Vauban | Secondary Target | [in](https://www.linkedin.com/in/ana-maria-toma-907a6096)
+1114. **Luiza Cristescu** - Career Consultant | Outdoor Activities Facilitator @ Freelance | Secondary Target | [in](https://www.linkedin.com/in/luizacristescu)
+1115. **Ruxandra Ciuculescu** - Content Reviewer @ Concentrix | Low Priority | [in](https://www.linkedin.com/in/ruxandra-ciuculescu)
+1116. **Valentina Crisan** - Trainer Apache Cassandra & Hadoop Ecosystem @ Densodata | Low Priority | [in](https://www.linkedin.com/in/valentinacrisan)
+1117. **Constantin Giurea** - Senior Project Manager Digital Services @ GTS Telecom | Low Priority | [in](https://www.linkedin.com/in/constantingiurea)
+1118. **Mihaela Moșneguțu** - Delivery Area Manager @ Catalyst Solutions | Low Priority | [in](https://www.linkedin.com/in/mihaeladudescu)
+1119. **Florinel Udeanu** - Senior IT Recruitment Consultant @ Hays | Secondary Target | [in](https://www.linkedin.com/in/florinel-udeanu-aa620297)
+1120. **Bianca Iliescu** - HR Manager @ IT Teams | Secondary Target | [in](https://www.linkedin.com/in/biancailiescu)
+1121. **Alina Pătru** - Manager @ MHP – A Porsche Company | Low Priority | [in](https://www.linkedin.com/in/alina-p%C4%83tru-bb711b66)
+1122. **Raluca Repanovici** - Project Portfolio Manager @ Siemens | Low Priority | [in](https://www.linkedin.com/in/raluca-marinescu)
+1123. **Ioana Nemeti Pasca** - Psihoterapeut @ Ioana Nemeti Cabinet Individual de Psihologie | Low Priority | [in](https://www.linkedin.com/in/ioananemeti)
+1124. **Ionut Grigorescu** - Chief Executive Officer @ BEECODED | Low Priority | [in](https://www.linkedin.com/in/ionut-grigorescu)
+1125. **Tufeanu Marina** - Sales Finance Team Leader @ ADP | Low Priority | [in](https://www.linkedin.com/in/tufeanu-marina-969a396b)
+1126. **Greavu Raluca** - Photo Editor @ ImaginiVii Photography | Low Priority | [in](https://www.linkedin.com/in/greavu-raluca-20a08769)
+1127. **Irina Nicolae** - Research Scientist @ Bosch Center for Artificial Intelligence (BCAI) | Low Priority | [in](https://www.linkedin.com/in/irina-nicolae-a2251638)
+1128. **Laura Nechifor** - Consultant @ CTY Group | Secondary Target | [in](https://www.linkedin.com/in/laura-nechifor-4aab7483)
+1129. **Vivienne Clement** - Senior IT Support & Services Manager @ Acrelec Software (Romania) | Low Priority | [in](https://www.linkedin.com/in/vivienne-clement-78700360)
+1130. **Cristina Ioaniciu** - HR Operational Manager @ accesa.eu | Secondary Target | [in](https://www.linkedin.com/in/cristinamunteanadriana)
+1131. **Laura Filimon** - Reconnective Healing & Theta Healing Practitioner & Spiritual Counselor for those in need @ Spiritual Healing | Low Priority | [in](https://www.linkedin.com/in/laurafilimon)
+1132. **Raphaële ANGELESCU** - Directrice adjointe @ CIREFE | Low Priority | [in](https://www.linkedin.com/in/rapha%C3%ABle-angelescu-5080675b)
+1133. **Cristina Apostolu** - Talent Acquisition Partner @ mindit.io | Secondary Target | [in](https://www.linkedin.com/in/calinem)
+1134. **Octavian Ciuculescu** - Retired self-employed @ Home Sweet Home | Low Priority | [in](https://www.linkedin.com/in/octavian-ciuculescu-68029a84)
+1135. **Valentina Toi** - Scrum Master @ Cegeka | Low Priority | [in](https://www.linkedin.com/in/valentinatoi)
+1136. **Alina Anton-Ciubotaru** - Lead customer experience specialist @ Honeywell | Low Priority | [in](https://www.linkedin.com/in/alina-anton-ciubotaru-1a823146)
+1137. **Daniela Coman** - Talent Acquisition Manager @ Expleo Group | Secondary Target | [in](https://www.linkedin.com/in/daniela-coman-629597b)
+1138. **Lorena Sauciuc** - Consultant HR @ IQ Staff | Secondary Target | [in](https://www.linkedin.com/in/lorena-sauciuc-07b5a97a)
+1139. **Cristi Neacsu** - EMEA Principal Talent Acquisition Partner @ UiPath | Secondary Target | [in](https://www.linkedin.com/in/cristineacsu)
+1140. **Madalina Bosneaga** - IT RECRUITER @ rinf.tech | Secondary Target | [in](https://www.linkedin.com/in/madalina-bosneaga-51727474)
+1141. **Roman Solomon** - Resource Manager @ Deloitte | Low Priority | [in](https://www.linkedin.com/in/romansavitchi)
+1142. **Emilia Mihaila** - HRBP- Manager @ Deloitte | Secondary Target | [in](https://www.linkedin.com/in/mihailaemilia)
+1143. **Valentin Cismaru** - Senior IT Talent Acquisition Partner @ AD/01 | Secondary Target | [in](https://www.linkedin.com/in/valentincismaru)
+1144. **Alina Grosu** -  | Low Priority | [in](https://www.linkedin.com/in/alina-grosu-a2869014)
+1145. **Sabina Mirela** - HR Consultant @ Success HR Expert | Secondary Target | [in](https://www.linkedin.com/in/sabina-mirela-61038855)
+1146. **Maria Tilvan** - Global Offshore Human Resources Business Partner @ Ataway | Low Priority | [in](https://www.linkedin.com/in/mariatilvanhrconsultant)
+1147. **Domnina Rosu** - Senior Service Manager @ NXP Semiconductors | Low Priority | [in](https://www.linkedin.com/in/domnina-burca-florea)
+1148. **Crina Ochenatu** - Personal Trainer @ World Class Fitness | Low Priority | [in](https://www.linkedin.com/in/crina-ochenatu-05205154)
+1149. **Ana Pirvulescu** - Engagement Manager @ Google | Low Priority | [in](https://www.linkedin.com/in/ana-maria-pirvulescu)
+1150. **Mihai Ioan Manea** - Air Traffic Controller @ ROMATSA | Low Priority | [in](https://www.linkedin.com/in/mihai-ioan-manea-05630360)
+1151. **Ionut Stoica** - Assistant Reefer Manager @ Mediterranean Shipping Company | Low Priority | [in](https://www.linkedin.com/in/ionut-stoica-01ba4830)
+1152. **Simone Müller** - Senior Recruiter @ Global Jobs Service | Secondary Target | [in](https://www.linkedin.com/in/simone-m%C3%BCller-0b1b4a27)
+1153. **Cristian Olaru** - Sales Omnichannel Cloud Comms Lead @ HP | Low Priority | [in](https://www.linkedin.com/in/cristian-olaru-43190512)
+1154. **Ana Vlad** - Project Assistant @ Cybercrime Programme Office of the Council of Europe (C-PROC) | Low Priority | [in](https://www.linkedin.com/in/ana-vlad-56b90724)
+1155. **Daiana-Teona Guy** - Scrum Master @ Pentalog | Low Priority | [in](https://www.linkedin.com/in/daiana-teona-guy-98735a64)
+1156. **Miruna Banu** - Senior Customer Success Account Manager @ Microsoft | Low Priority | [in](https://www.linkedin.com/in/mirunabanu)
+1157. **Alexandru Ana** - M365 Administrator @ Upwork | Low Priority | [in](https://www.linkedin.com/in/alexandru-ana-834a6542)
+1158. **Irina Mincinopschi** - General Manager @ Depanero | Low Priority | [in](https://www.linkedin.com/in/irinamincinopschi)
+1159. **Ana Stanciucu** - Functionar public @ EuroAnswer | Low Priority | [in](https://www.linkedin.com/in/ana-stanciucu-73b35a62)
+1160. **Raluca Cioran** - ICT Talent Acquisition Lead @ Cegeka Romania | Secondary Target | [in](https://www.linkedin.com/in/ralucacioran)
+1161. **Raellaylèen Ray (☞ ͡° ͜ʖ ͡°)☞** - Military Intell. Analyst @ Ministry of National Defence - Romania | Low Priority | [in](https://www.linkedin.com/in/alinaray)
+1162. **Bogdan Dumitrescu** - Business Transformation Manager @ Accenture | Low Priority | [in](https://www.linkedin.com/in/dumitrescufbogdan)
+1163. **Claudia Balotescu** - Sales Consultant @ IKEA Group | Secondary Target | [in](https://www.linkedin.com/in/claudia-balotescu-9627635b)
+1164. **Alexandra Scout** - Career Innovation Week @ Catalyst Solutions | Low Priority | [in](https://www.linkedin.com/in/toptalentsromania)
+1165. **Vlad Posea** - Business Analyst @ Eau de Web | Low Priority | [in](https://www.linkedin.com/in/vladposea)
+1166. **Violeta-Loredana Cocias** - Managed Services Delivery Manager @ Ericsson | Low Priority | [in](https://www.linkedin.com/in/violeta-loredana-cocias-42229027)
+1167. **Marius Raileanu** - Casino Inside Magazine @ Gamblers Media | Low Priority | [in](https://www.linkedin.com/in/marius-raileanu-1900513b)
+1168. **Laura Enache** - Teaching Assistant @ Universitatea POLITEHNICA din București | Low Priority | [in](https://www.linkedin.com/in/laura-enache-53830148)
+1169. **Mirela Canale** - Human Resources Business Partner @ Groupe Renault | Low Priority | [in](https://www.linkedin.com/in/mirela-canale-959a9740)
+1170. **Florentina Lascut** - Psychotherapist @ Insight | Low Priority | [in](https://www.linkedin.com/in/florentinalascut)
+1171. **Madalina Efrem** - Compliance Project Manager @ PwC | Low Priority | [in](https://www.linkedin.com/in/madalinaefrem)
+1172. **Iulia-Mura BORCAIAS** - Business Development Manager @ CCI Française en Roumanie | Low Priority | [in](https://www.linkedin.com/in/iulia-mura-borcaias-0b97416)
+1173. **Andrei Maroș** - DBS Corporate Finance Lead @ BAT | Low Priority | [in](https://www.linkedin.com/in/andrei-maro%C8%99-13682334)
+1174. **Alexandru Baduca** - Manager Aplicatii Digitale @ Regina Maria, Reteaua de sanatate | Low Priority | [in](https://www.linkedin.com/in/abaduca)
+1175. **Filimon Ana Maria** - PR Specialist @ I Oxigen LTD | Low Priority | [in](https://www.linkedin.com/in/filimon-ana-maria-6801099)
+1176. **Alexandra Ene** - EWM Practice Lead @ Deloitte | Low Priority | [in](https://www.linkedin.com/in/alexandra-ene-3a601446)
+1177. **Iulia-Andreea Dimulescu** - Services Sales Representative - OEM Services @ Dell Technologies | Low Priority | [in](https://www.linkedin.com/in/iulia-andreea-dimulescu-77453247)
