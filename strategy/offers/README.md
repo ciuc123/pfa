@@ -28,6 +28,7 @@ Do NOT read every offer today. Skim the table below, pick 1 or 2 offers that mat
 | [Queue & Performance Review](./offer-queue-performance-review.md) | A, B, C | Slow jobs, queue bottlenecks, timeout errors | €750–1,500 |
 | [Cloud Cost & Deployment Audit](./offer-cloud-cost-deployment-audit.md) | A, B | High cloud bills, deployment complexity, scaling concerns | €750–1,500 |
 | [Backend Rescue Audit](./offer-backend-rescue-audit.md) | A, C, E | "Everything is on fire and I don't know where to start" | €750–1,500 |
+| [AI-Powered Email List Growth Sprint](./offer-email-list-growth-sprint.md) | F, G, H, I, J | Dormant email list, no marketing bandwidth, can't afford full-time marketer | €500–1,500 + 10% revenue share |
 
 ## Pricing notes
 
