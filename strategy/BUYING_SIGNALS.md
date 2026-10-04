@@ -135,6 +135,27 @@ Companies building or maintaining API-heavy, event-driven, or integration-heavy 
 
 ---
 
+## Signal type 9: Email list, marketing, and customer retention
+
+Companies with email lists but dormant email marketing are prime candidates for email monetization services. These signals apply across all verticals: e-commerce, SaaS, agencies, coaches, creators.
+
+| Signal | What it tells you | Where to find it | Search example |
+|---|---|---|---|
+| Website has newsletter signup but no active sends | Email list exists but is not being used for revenue | Company website footer/header | Check company website for signup CTA |
+| Recent product launch or course release | New offer that needs promotion; email is the cheapest channel | Company website, LinkedIn posts, ProductHunt | ProductHunt recent launches, LinkedIn "excited to announce" posts |
+| Founder posting about scaling, growth, or customer retention | Direct pain about revenue or engagement; email is an easy lever | LinkedIn founder posts, Twitter, newsletters | `"scaling" OR "retention" OR "growing my business"` LinkedIn |
+| E-commerce store with 100+ products but sparse email activity | Large catalog + dormant email = leaving money on table | Shopify stores, website footer | Visit store, check "past emails" if newsletter exists |
+| SaaS founder with waitlist or free trial users | Unused audience ready to convert; email nurture is critical | Company website, ProductHunt, "landing page" signals | ProductHunt SaaS launches, check for waitlist/trial CTA |
+| Coach, consultant, or course creator with email signup | Solopreneur with audience but likely no email strategy | Website, LinkedIn, Substack, Gumroad | Substack creators, Gumroad course pages, coach websites |
+| Founder asking on LinkedIn/Twitter: "How do you email your customers?" | Direct signal of email strategy gap; urgency to fix it | LinkedIn posts, Twitter threads, Reddit | Search `"email strategy"` OR `"how to email customers"` on LinkedIn |
+| Recently ran a webinar, challenge, or free workshop | Fresh, engaged list of new prospects to nurture | Company website, LinkedIn posts, emails they sent | Check company newsletter for past "free training" promotions |
+| Company newsletter exists but sending stopped 3+ months ago | List decay is a known problem; fresh campaigns can re-engage | Archive.org, email signup pages | Use archive.org to check email send history, or ask during discovery |
+| Competitor or similar business posting email results publicly | Founder competitive; likely interested if they see what others do | LinkedIn, Twitter, case studies | Monitor similar founders' posts about email ROI |
+
+**How to act on it:** "Noticed you have a newsletter signup but I haven't seen regular emails. Email is probably leaving €500–2,000 on the table per month. I can set up 4 strategic campaigns in 4 weeks + handle revenue tracking. Sound worth exploring?"
+
+---
+
 ## How to use signals in your workflow
 
 1. Pick one signal type to focus on per research session (e.g. "hiring signals only" for one day).
