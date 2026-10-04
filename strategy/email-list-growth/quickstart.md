@@ -15,8 +15,8 @@ You have a valuable skill: you can help small business owners turn their dormant
 
 ### Week 1: Pick Your Target (2 hours)
 **Read these files:**
-1. [`business/icp-email-list-monetization.md`](../business/icp-email-list-monetization.md) — Full ICP guide
-2. [`strategy/offers/offer-email-list-growth-sprint.md`](./offers/offer-email-list-growth-sprint.md) — Full offer details
+1. [`icp.md`](./icp.md) — Full ICP guide
+2. [`offer.md`](./offer.md) — Full offer details
 
 **Then pick ONE business type:**
 - [ ] E-commerce shop owners (Shopify stores)
@@ -236,8 +236,8 @@ A: Different model. Backend audit: €1,500 one-time. Email marketing: €500–
 
 ## Resources
 
-- **Full offer guide:** [`strategy/offers/offer-email-list-growth-sprint.md`](./offers/offer-email-list-growth-sprint.md)
-- **Full ICP guide:** [`business/icp-email-list-monetization.md`](../business/icp-email-list-monetization.md)
+- **Full offer guide:** [`offer.md`](./offer.md)
+- **Full ICP guide:** [`icp.md`](./icp.md)
 - **Email swipe files:** studyswipefile.com
 - **AI tools:** Claude, ChatGPT, Copy.ai
 - **Email platforms:** Mailchimp (free), ConvertKit, Klaviyo, Brevo

@@ -19,101 +19,38 @@ This is fundamentally different from your Laravel audits — it targets a comple
 
 ## The Complete Strategy (All Files)
 
-### 1. **Quick Start (Start Here)**
-📄 **File:** `email-list-quickstart.md`
+All materials are organized in a single folder: **`strategy/email-list-growth/`**
 
-**What it does:** Gives you a 30-minute entry point to understand if this is worth pursuing. 
+### Files in that folder
 
-**Contains:**
-- Why this works
-- Your first week (exactly what to do)
-- Minimal setup checklist
-- Common questions answered
+1. **`strategy/email-list-growth/README.md`** — Index of all materials in this folder
 
-**Time to read:** 10 minutes
-**Time to first outreach:** < 1 hour
+2. **`strategy/email-list-growth/quickstart.md`** — 30-minute entry point
+   - Why this works
+   - Your first week (exactly what to do)
+   - Minimal setup checklist
+   - Common questions answered
+   - Time to read: 10 minutes
 
----
+3. **`strategy/email-list-growth/offer.md`** — Complete 4-week delivery methodology
+   - Who it's for (buyer personas)
+   - What pain it solves (6 specific pain points)
+   - Buying signals (where to find prospects)
+   - What clients get (10 deliverables)
+   - Revenue model (3 payment options)
+   - Week-by-week delivery blueprint
+   - Self-assessment checklist
+   - Pricing and FAQ
+   - Time to read: 20-30 minutes
 
-### 2. **The Complete Offer (What You'll Deliver)**
-📄 **File:** `strategy/offers/offer-email-list-growth-sprint.md`
-
-**What it does:** This is your sales document. Share this with warm contacts or keep it as your blueprint.
-
-**Contains:**
-- Who it's for (buyer personas)
-- What pain it solves (6 specific pain points)
-- Observable buying signals (where to find prospects)
-- What clients get (10 deliverables)
-- Your revenue model (3 payment options including performance-based)
-- Complete delivery methodology:
-  - Week 1: Discovery + audit
-  - Week 2: Copy + template development
-  - Week 3: Testing + optimization
-  - Week 4: Launch + handoff
-- Self-assessment checklist (can you deliver this?)
-- Delivery risk level (LOW-MEDIUM)
-- Pricing strategy (€500-1,500 upfront + 10-15% revenue share)
-- What content/proof you can create from it
-- FAQ section
-- Resources list
-
-**Time to read:** 20-30 minutes (skim if you're in a hurry)
-
----
-
-### 3. **Target Audience (Who to Sell To)**
-📄 **File:** `business/icp-email-list-monetization.md`
-
-**What it does:** Defines exactly who your prospects are and where to find them.
-
-**Contains:**
-- Business types that fit best (Tier 1 and Tier 2):
-  - E-commerce shops (Shopify stores)
-  - Online course creators (Gumroad, Teachable)
-  - SaaS founders (with waitlists)
-  - Coaches and consultants
-  - Local service businesses
-  - Membership communities
-  - Agencies
-  - Affiliate marketers
-- Red flags (who NOT to approach)
-- Where to find them (LinkedIn, ProductHunt, Gumroad, etc.)
-- Buying signals (what indicates they have the problem)
-- Conversation starters (how to open your message)
-- Objection handling
-- Sample prospects to start with
-- Quick scoring rubric
-- Your first 10 prospects template
-
-**Time to read:** 15-20 minutes
-
----
-
-### 4. **Finding Prospects (Observable Signals)**
-📄 **File:** `strategy/BUYING_SIGNALS.md` (Section 9 added)
-
-**What it does:** Teaches you the specific signs that a business has this problem and is ready to buy.
-
-**New section added:** "Signal type 9: Email list, marketing, and customer retention"
-
-**Contains (for email list strategy):**
-- Newsletter signup but no active sends
-- Recent product launch or course release
-- Founder asking about email strategy
-- Dormant email that hasn't sent in 3+ months
-- And 6 more specific, actionable signals
-
-**Time to read:** 5 minutes (just the new section)
-
----
-
-### 5. **Updated Strategy Menu**
-📄 **File:** `strategy/offers/README.md` (Updated)
-
-**What it does:** Lists all available offers including the new email list one.
-
-**Updated:** Added email list growth sprint to the offer table with pricing and best-fit buyer groups.
+4. **`strategy/email-list-growth/icp.md`** — Target audience and prospect research
+   - Business types that fit best (Tier 1 and Tier 2)
+   - Red flags (who NOT to approach)
+   - Where to find prospects (LinkedIn, ProductHunt, etc.)
+   - Buying signals and conversation starters
+   - Objection handling
+   - Quick scoring rubric
+   - Time to read: 15-20 minutes
 
 ---
 
